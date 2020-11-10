@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem "kramdown", ">= 2.3.0"
     gem 'rouge'
+    gem 'kramdown-parser-gfm'
 end
