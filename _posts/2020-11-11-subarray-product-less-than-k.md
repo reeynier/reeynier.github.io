@@ -2,7 +2,7 @@
 layout: post
 title:  "Subarray Product Less Than K Problem"
 categories: [ Algorithm, Solution ]
-tags: [ Two Pointer, C++ ]
+tags: [ Two Pointer ]
 featured: false
 hidden: true
 ---

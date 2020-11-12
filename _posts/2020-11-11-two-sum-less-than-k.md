@@ -2,7 +2,7 @@
 layout: post
 title:  "Two Sum Less Than K Problem"
 categories: [ Algorithm, Solution ]
-tags: [ Two Pointer, C++ ]
+tags: [ Two Pointer ]
 featured: false
 hidden: true
 ---

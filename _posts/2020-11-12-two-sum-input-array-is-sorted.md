@@ -2,7 +2,7 @@
 layout: post
 title:  "Two Sum Input Array Is Sorted Problem"
 categories: [ Algorithm, Solution ]
-tags: [ Two Pointer, C++ ]
+tags: [ Two Pointer ]
 featured: false
 hidden: true
 ---
