@@ -3,6 +3,7 @@ layout: post
 title:  "Two Sum Input Array Is Sorted Problem"
 categories: [ Algorithm, Solution ]
 tags: [ Two Pointer ]
+similar: [ Two Sum ]
 featured: false
 hidden: true
 ---

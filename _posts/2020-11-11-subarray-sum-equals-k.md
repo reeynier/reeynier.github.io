@@ -3,6 +3,7 @@ layout: post
 title:  "Subarray Sum Equals K Problem"
 categories: [ Algorithm, Solution ]
 tags: [ Hash Table ]
+similar: [ Two Sum ]
 featured: false
 hidden: true
 ---

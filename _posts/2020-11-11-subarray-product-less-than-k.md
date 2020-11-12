@@ -3,6 +3,7 @@ layout: post
 title:  "Subarray Product Less Than K Problem"
 categories: [ Algorithm, Solution ]
 tags: [ Two Pointer ]
+similar: [ Two Sum ]
 featured: false
 hidden: true
 ---
