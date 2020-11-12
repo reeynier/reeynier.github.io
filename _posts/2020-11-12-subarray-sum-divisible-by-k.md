@@ -66,8 +66,7 @@ Here is a complete walk through of the `hash table` approach. The array *nums* i
                                                                           count = count+ht[modulo]-1 = 6+1 = 7 
 ```
 
-The time complexity can be reduced to O(n), while the 
-space complexity is still O(n).
+The time complexity can be reduced to O(n), and the space complexity is O(k).
 
 <br />
 
