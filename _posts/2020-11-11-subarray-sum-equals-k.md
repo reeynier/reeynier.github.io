@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Subarray Sum Equals K Problem"
-categories: [ Two Sum, Solution ]
+categories: [ Algorithm, Solution ]
 tags: [ Hash Table, C++ ]
 featured: false
 hidden: true
