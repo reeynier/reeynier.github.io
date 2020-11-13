@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Sum Less Than K Problem"
-categories: [ Algorithm, Solution ]
+categories: [ Algorithm, Leetcode ]
 tags: [ Two Pointer ]
 similar: [ Two Sum ]
 featured: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Four Sum II Problem"
-categories: [ Algorithm, Solution ]
+categories: [ Algorithm, Leetcode ]
 tags: [ Hash Table ]
 similar: [ Two Sum ]
 featured: false

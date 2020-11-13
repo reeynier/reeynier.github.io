@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Sum Input Array Is Sorted Problem"
-categories: [ Algorithm, Solution ]
+categories: [ Algorithm, Leetcode ]
 tags: [ Two Pointer ]
 similar: [ Two Sum ]
 featured: false

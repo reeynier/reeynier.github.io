@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Replace Words Problem"
-categories: [ Algorithm, Solution ]
+categories: [ Algorithm, Leetcode ]
 tags: [ Trie ]
 similar: [ Trie ]
 featured: false

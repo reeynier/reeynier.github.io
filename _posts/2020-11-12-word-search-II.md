@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Word Search II Problem"
-categories: [ Algorithm, Solution ]
+categories: [ Algorithm, Leetcode ]
 tags: [ Trie, Backtracking ]
 similar: [ Trie ]
 featured: false
