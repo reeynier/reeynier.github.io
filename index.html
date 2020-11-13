@@ -8,6 +8,7 @@ title: Home
     <div class="section-title">
 
         <h2><span>All Posts</span></h2>
+        <p> aaa {{ paginator.total_pages }} </p>
 
     </div>
 
@@ -18,8 +19,8 @@ title: Home
     		{% include postbox.html %}
 
 		{% endfor %}
-
     </div>
+
 
 </section>
 
@@ -29,14 +30,8 @@ title: Home
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
     {% include pagination.html %}
+
 </span>
 </div>
 
-<!--
-<a class="nav-link" href="{{ site.baseurl }}/two-sum">Two Sum Problem</a>
-<a class="nav-link" href="{{ site.baseurl }}/three-sum">Three Sum Problem</a>
-<a class="nav-link" href="{{ site.baseurl }}/four-sum">Four Sum Problem</a>
-<a class="nav-link" href="{{ site.baseurl }}/subarray-sum-equals-k">Subarray Sum Equals K Problem</a>
-<a class="nav-link" href="{{ site.baseurl }}/subarray-product-less-than-k">Subarray Product Less Than K Problem</a>
--->
 
