@@ -56,7 +56,9 @@ The time complexity can be reduced to O(nlogn), and the space complexity is O(n)
 <br />
 
 ## Sample C++ Code
-This is a C++ implementation of the hash table approach.
+
+This is a C++ implementation of the two pointer approach.
+
 ```c
 #include <iostream>
 #include <vector>

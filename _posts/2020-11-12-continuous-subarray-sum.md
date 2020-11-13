@@ -54,7 +54,9 @@ The time complexity can be reduced to O(n), and the space complexity is O(k).
 <br />
 
 ## Sample C++ Code
+
 This is a C++ implementation of the hash table approach.
+
 ```c
 #include <iostream>
 #include <vector>
