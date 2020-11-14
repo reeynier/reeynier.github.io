@@ -5,7 +5,7 @@ categories: [ Algorithm, Leetcode ]
 tags: [ Two Pointer ]
 similar: [ Two Sum ]
 featured: false
-hidden: true
+hidden: false
 ---
 
 <br />

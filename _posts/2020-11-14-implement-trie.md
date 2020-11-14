@@ -5,7 +5,7 @@ categories: [ Algorithm, Leetcode ]
 tags: [ Trie ]
 similar: [ Trie ]
 featured: false
-hidden: true
+hidden: false
 ---
 
 <br />

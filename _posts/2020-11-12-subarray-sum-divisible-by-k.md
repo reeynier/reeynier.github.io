@@ -5,7 +5,7 @@ categories: [ Algorithm, Leetcode ]
 tags: [ Hash Table ]
 similar: [ Two Sum ]
 featured: false
-hidden: true
+hidden: false
 ---
 
 <br />

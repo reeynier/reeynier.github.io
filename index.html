@@ -1,7 +1,12 @@
 ---
 layout: default
 title: Home
+pagination: 
+  enabled: true
 ---
+
+
+
 
 <section class="recent-posts">
 
@@ -13,7 +18,7 @@ title: Home
 
     <div class="row listrecent">
 
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
 
     		{% include postbox.html %}
 
@@ -29,7 +34,6 @@ title: Home
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
     {% include pagination.html %}
-
 </span>
 </div>
 

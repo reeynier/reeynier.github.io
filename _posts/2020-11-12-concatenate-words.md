@@ -5,7 +5,7 @@ categories: [ Algorithm, Leetcode ]
 tags: [ Trie, Depth First Search ]
 similar: [ Trie ]
 featured: false
-hidden: true
+hidden: false
 ---
 
 <br />
