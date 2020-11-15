@@ -54,7 +54,7 @@ The time complexity of **search** and **startWith** methods are O(m), where *m* 
 
 ## Sample C++ Code
 
-This is a C++ implementation of the trie and backtracking approach.
+This is a C++ implementation.
 
 ```c
 #include <iostream>
@@ -121,10 +121,10 @@ int main() {
     Trie* obj = new Trie();
     string word = "apple";
     string prefix = "app";
-	obj->insert(word);
-	bool param_2 = obj->search(word);
-	bool param_3 = obj->startsWith(prefix);
+    obj->insert(word);
+    bool param_2 = obj->search(word);
+    bool param_3 = obj->startsWith(prefix);
 
-	cout << param_2 << " " << param_3 << endl;
+    cout << param_2 << " " << param_3 << endl;
 }
 ```
