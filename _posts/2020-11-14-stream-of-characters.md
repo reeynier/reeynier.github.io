@@ -48,7 +48,7 @@ For all the queries, we use a *queue* to store the *TrieNodes* that are still va
 
 Every time we get a query, we push the root *TrieNode* to the queue. Then for every *TrieNode* in the queue, we check whether the querying letter exists in the array of next *TrieNodes*. If so, we point to the next *TrieNode* and push that *TrieNode* back to the queue; otherwise, we will remove the *TrieNode* from the queue. If the *is_end* tag of any of the *TrieNodes* in the queue is true, it means we find a word and we can return true.
 
-Here is a walk-through of the approach. The trie is ["cd","f","kl"], and the queries are ('a', 'b', 'c', 'd').
+Here is a walk-through of the approach. The trie is ["cd","f","kl"], and the queries are ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l').
 ```
 Trie
 c   f*  k
@@ -60,7 +60,15 @@ Queries:
     a   |   -   <-- root->arr['a'-'a'] is NULL, queue is empty, return false
     b   |   -   <-- root->arr['b'-'a'] is NULL, queue is empty, return false
     c   |   c   <-- root->arr['c'-'a'] is not NULL, push root->arr['c'-'a'] to queue, return false
-    d   |   d   <-- root->arr['c'-'a']->arr['d'-'a'] is not NULL, push root->arr['c'-'a']->arr['d'-'a'] to queue, is_end is true, return true
+    d   |   d   <-- root->arr['c'-'a']->arr['d'-'a'] is not NULL, root->arr['d'-'a'] is NULL, push root->arr['c'-'a']->arr['d'-'a'] to queue, is_end is true, return true
+    e   |   -   <-- root->arr['c'-'a']->arr['d'-'a']->arr['e'-'a'] is NULL, root->arr['e'-'a'] is NULL, queue is empty, return false
+    f   |   f   <-- root->arr['f'-'a'] is not NULL, push root->arr['f'-'a'] to queue, is_end is true, return true
+    g   |   -   <-- root->arr['f'-'a']->arr['g'-'a'] is NULL, root->arr['g'-'a'] is NULL, queue is empty, return false
+    h   |   -   <-- root->arr['h'-'a'] is NULL, queue is empty, return false
+    i   |   -   <-- root->arr['i'-'a'] is NULL, queue is empty, return false
+    j   |   -   <-- root->arr['j'-'a'] is NULL, queue is empty, return false
+    k   |   k   <-- root->arr['k'-'a'] is not NULL, push root->arr['k'-'a'] to queue, return false
+    l   |   l   <-- root->arr['k'-'a']->['l'-'a'] is not NULL, root->arr['l'-'a'] is NULL, push root->arr['k'-'a']->arr['l'-'a'] to queue, is_end is true, return true
 ```
 
 <br />
