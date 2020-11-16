@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Concatenate Words Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Trie, Depth First Search ]
+categories: [ Algorithm ]
+tags: [ Trie, Depth First Search, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false

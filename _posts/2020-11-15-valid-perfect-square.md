@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Valid Perfect Square Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Binary Search ]
+categories: [ Algorithm ]
+tags: [ Binary Search, Leetcode ]
 similar: [ Binary Search ]
 featured: false
 hidden: false

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Subarray Product Less Than K Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Two Pointer ]
+categories: [ Algorithm ]
+tags: [ Two Pointer, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stream of Characters Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Trie, Queue ]
+categories: [ Algorithm ]
+tags: [ Trie, Queue, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false

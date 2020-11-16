@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Continuous Subarray Sum Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Hash Table ]
+categories: [ Algorithm ]
+tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false

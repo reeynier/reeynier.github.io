@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Maximum XOR of Two Numbers in an Array Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Trie, Greedy ]
+categories: [ Algorithm ]
+tags: [ Trie, Greedy, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false

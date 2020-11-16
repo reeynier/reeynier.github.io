@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Subarray Sum Equals K Problem"
-categories: [ Algorithm, Leetcode ]
-tags: [ Hash Table ]
+categories: [ Algorithm ]
+tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
