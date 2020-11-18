@@ -119,6 +119,12 @@ int main() {
 
 ```
 
+The output of the above code is:
+```
+7
+hello
+Exception: Stack<>::pop(): empty stack
+```
 
 
 
