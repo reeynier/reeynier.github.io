@@ -3,7 +3,7 @@ layout: post
 title:  "Interfaces in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Interface, Abstract Class, Pure Virtual Function, Concrete Class ]
-similar: [ C++ ]
+similar: [ C++ OOP ]
 featured: false
 hidden: false
 ---

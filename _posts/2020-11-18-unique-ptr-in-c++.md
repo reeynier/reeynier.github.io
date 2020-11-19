@@ -3,7 +3,7 @@ layout: post
 title:  "Unique_Ptr in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Smart Pointers, RAII, Unique_Ptr ]
-similar: [ C++ ]
+similar: [ C++ Pointers]
 featured: false
 hidden: false
 ---

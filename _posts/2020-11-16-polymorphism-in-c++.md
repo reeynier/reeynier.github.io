@@ -3,7 +3,7 @@ layout: post
 title:  "Polymorphism in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Polymorphism, Overload, Override, Virtual Function, Pure Virtual Function ]
-similar: [ C++ ]
+similar: [ C++ OOP ]
 featured: false
 hidden: false
 ---

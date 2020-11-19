@@ -3,7 +3,7 @@ layout: post
 title:  "Smart Pointers in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Smart Pointers, RAII, Raw Pointers, Unique_Ptr, Shared_Ptr, Weak_Ptr ]
-similar: [ C++ ]
+similar: [ C++ Pointers ]
 featured: false
 hidden: false
 ---

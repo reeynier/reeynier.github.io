@@ -3,7 +3,7 @@ layout: post
 title:  "Templates in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Template, Function Template, Class Template ]
-similar: [ C++ ]
+similar: [ C++ OOP ]
 featured: false
 hidden: false
 ---
