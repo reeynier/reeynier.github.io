@@ -2,7 +2,7 @@
 layout: post
 title:  "Smart Pointers in C++"
 categories: [ C++ Concepts ]
-tags: [ C++, Smart Pointers, RAII, Raw Pointers ]
+tags: [ C++, Smart Pointers, RAII, Raw Pointers, Unique_Ptr, Shared_Ptr, Weak_Ptr ]
 similar: [ C++ ]
 featured: false
 hidden: false
@@ -10,7 +10,7 @@ hidden: false
 
 <br />
 
-This article is mainly from the Microsoft C++ Documentation. In modern C++ programming, the Standard Library includes `smart pointers`, which are used to help ensure that programs are free of memory and resource leaks and are exception-safe.
+This article is mainly from the [Microsoft C++ Documentation](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-160){:target="_blank"}. In modern C++ programming, the Standard Library includes `smart pointers`, which are used to help ensure that programs are free of memory and resource leaks and are exception-safe.
 
 <br />
 
