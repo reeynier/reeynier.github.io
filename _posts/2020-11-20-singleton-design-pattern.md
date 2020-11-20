@@ -2,7 +2,7 @@
 layout: post
 title:  "Singleton Design Pattern"
 categories: [ Design Pattern ]
-tags: [ C++, Singleton, Creational Pattern ]
+tags: [ C++, Singleton Pattern, Creational Pattern ]
 similar: [ Design Pattern ]
 featured: false
 hidden: false
