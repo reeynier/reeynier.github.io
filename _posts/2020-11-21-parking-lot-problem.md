@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design A Parking Lot Problem"
+title:  "Parking Lot Problem"
 categories: [ Object-Oriented Design ]
 tags: [ C++, OOD ]
 similar: [ OOD ]
@@ -70,7 +70,7 @@ public:
     }
     // Check if the spot is a Large 
     // Does not check if there are 5 spots.
-    boolean canFitInSpot(ParkingSpot spot) {
+    bool canFitInSpot(ParkingSpot spot) {
         return spot.getSize() == Large;
     }
 };
@@ -82,7 +82,7 @@ public:
         size = Compact;
     }
     // Check if the spot is a Compact or a Large
-    boolean canFitInSpot(ParkingSpot spot) {
+    bool canFitInSpot(ParkingSpot spot) {
         return spot.getSize() == Large || spot.getSize() == Compact;
     }
 };
@@ -94,7 +94,7 @@ public:
         size = Motorcycle;
     }
     // Check if the spot is a Motorcycle, a Compact, or a Large
-    boolean canFitInSpot(ParkingSpot spot) {
+    bool canFitInSpot(ParkingSpot spot) {
         return true;
     }
 };
@@ -118,20 +118,20 @@ public:
         spotSize = vs;
     }
 
-    boolean isAvailable() {
+    bool isAvailable() {
         return vehicle == NULL;
     }
 
     // Check if the spot is big enough and is available
     // This compares the size only, does not check if it has enough spots
-    boolean canFitVehicle(Vehicle vehicle) {
+    bool canFitVehicle(Vehicle vehicle) {
         return isAvailable() && vehicle.canFitInSpot(this);
     }
 
     // Park vehicle in this spot
     // We do this in the parkingspot class because the parkingspot class
     // usually has whether this spot is avaialbe information. 
-    boolean park(Vehicle v) {
+    bool park(Vehicle v) {
         if (!canFitVehicle(v)) {
             return false;
         }

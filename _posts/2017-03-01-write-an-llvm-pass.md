@@ -4,7 +4,7 @@ title:  "Write an LLVM Pass"
 categories: [ Tutorial ]
 tags: [ LLVM ]
 similar: [ LLVM ]
-featured: true
+featured: false
 hidden: false
 ---
 
