@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Merge Two Sorted List Problem"
+title:  "Merge Two Sorted Lists Problem"
 categories: [ Algorithm ]
 tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
