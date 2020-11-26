@@ -93,6 +93,14 @@
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Posts</a>
                 </li>
+
+                {% if page.url == "/categories" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="{{ site.baseurl }}/categories.html">Categories</a>
+                </li>
 <!--
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
