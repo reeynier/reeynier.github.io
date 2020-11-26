@@ -43,7 +43,7 @@ The time complexity is O(n+m), where n and m are the length of the lists. The sp
 
 ## Sample C++ Code
 
-This is a C++ implementation of the binary search approach.
+This is a C++ implementation of the above approach.
 
 ```c
 #include <iostream>
