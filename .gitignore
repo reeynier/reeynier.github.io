@@ -6,4 +6,5 @@ vendor
 /unused/
 .DS_Store
 *.swp
+/circlesheets/
 
