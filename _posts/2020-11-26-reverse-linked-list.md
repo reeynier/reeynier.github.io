@@ -27,7 +27,7 @@ Output: 5->4->3->2->1->NULL
 
 To reverse the linked list, we need to modify the next pointer in each node to point to the previous node in the list. Let us consider an example:
 ```
-1 -> 2 -> 3
+1 -> 2 -> 3 -> NULL
 ```
 
 If we would like to reverse this list, we need to point node 2 to node 1, and then point node 3 to node 2. To do that, we first use a pointer *nextNode* to record the next node of node 2 (*currNode*), which is node 3. And we use a pointer *prevNode* to point to the previous node of node 2, which is node 1.
