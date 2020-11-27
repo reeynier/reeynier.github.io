@@ -34,11 +34,18 @@
                             <h4 class="card-text">{{ post.excerpt | markdownify | strip_html |  truncatewords:20 }}</h4>
 <!--
                             <div class="tags">
-                                {% for cat in post.categories %}
-                                    <a class="btn follow" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ cat }}</a>
-                                {% endfor %}
+                                {% if page.title != 'Categories' %}
+                                    {% for cat in post.categories %}
+                                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ cat }}</a>
+                                    {% endfor %}
+                                {% endif %}
+
+                                {% assign count = 0 %}
                                 {% for tag in post.tags %}
+                                    {% if count < 2 %}
                                     <a class="btn follow" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+                                    {% assign count = count | plus: 1 %}
+                                    {% endif %}
                                 {% endfor %}
                             </div>
 -->
