@@ -31,7 +31,7 @@
             <div class="tags">
                 {% if page.title != 'Categories' %}
                     {% for cat in post.categories %}
-                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ cat }}</a>
+                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ cat | replace: " ","-" }}">{{ cat }}</a>
                     {% endfor %}
                 {% endif %}
 
