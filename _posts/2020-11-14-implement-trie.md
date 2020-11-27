@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Implement Trie (Prefix Tree) Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Implement a **Trie** with **insert**, **search**, and **startsWith** methods. You may assume that all inputs are consist of lowercase letters **a-z**.
 ---
 
 <br />

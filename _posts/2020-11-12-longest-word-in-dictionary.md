@@ -1,18 +1,19 @@
 ---
 layout: post
 title:  "Longest Word In Dictionary Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Depth First Search, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Given a list of strings **words** representing an English dictionary, find the longest word in **words** that can be built one character at a time by other words in **words**.
 ---
 
 <br />
 
 ## Description
 
-Given a list of strings **words** representing an English Dictionary, find the longest word in **words** that can be built one character at a time by other words in **words**. If there is more than one possible answer, return the longest word with the smallest lexicographical order. If there is no answer, return the empty string. 
+Given a list of strings **words** representing an English dictionary, find the longest word in **words** that can be built one character at a time by other words in **words**. If there is more than one possible answer, return the longest word with the smallest lexicographical order. If there is no answer, return the empty string. 
 
 All the strings in the input will only contain lowercase letters.
 

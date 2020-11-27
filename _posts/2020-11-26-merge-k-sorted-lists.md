@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Merge K Sorted Lists Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Linked List, Priority Queue, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
+excerpt: You are given an array of **k** linked-lists **lists**, each linked-list is sorted in ascending order.
 ---
 
 <br />

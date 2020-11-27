@@ -6,6 +6,7 @@ tags: [ Binary Search, Leetcode ]
 similar: [ Binary Search ]
 featured: false
 hidden: false
+excerpt: Given two sorted arrays **nums1** and **nums2** of size **m** and **n** respectively, return the median of the two sorted arrays.
 ---
 
 <br />

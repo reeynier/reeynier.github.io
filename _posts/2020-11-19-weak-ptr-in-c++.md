@@ -6,6 +6,7 @@ tags: [ C++, Smart Pointers, RAII, Weak_Ptr, Cyclic Reference, Weak Reference ]
 similar: [ C++ Pointers ]
 featured: false
 hidden: false
+excerpt: Sometimes an object must store a way to access the underlying object of a `shared_ptr` without causing the reference count to be incremented.
 ---
 
 <br />

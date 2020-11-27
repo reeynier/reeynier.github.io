@@ -6,6 +6,7 @@ tags: [ C++, Template, Function Template, Class Template ]
 similar: [ C++ OOP ]
 featured: false
 hidden: false
+excerpt: A `template` is a blueprint or formula for creating a generic class or a function.
 ---
 
 <br />

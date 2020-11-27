@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Stream of Characters Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Queue, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Implement the StreamChecker class as follows. Constructor, initialize the data structure with the given words.
 ---
 
 <br />

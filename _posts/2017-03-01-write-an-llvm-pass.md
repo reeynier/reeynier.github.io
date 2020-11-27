@@ -6,6 +6,7 @@ tags: [ LLVM ]
 similar: [ LLVM ]
 featured: false
 hidden: false
+excerpt: In this post, I will show how I write an LLVM pass. I will also share how I solve some common problems which are not addressed in LLVM documents and tutorials.
 ---
 
 <br />

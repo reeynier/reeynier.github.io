@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Replace Words Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Given a **dictionary** consisting of many *roots* (a concept in English that can be followed by some other letters to form another longer word which is called a *successor*),
 ---
 
 <br />

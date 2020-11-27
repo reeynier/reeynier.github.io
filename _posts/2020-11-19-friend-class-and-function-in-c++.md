@@ -6,6 +6,7 @@ tags: [ C++, Friend Class, Friend Function ]
 similar: [ C++ OOP ]
 featured: false
 hidden: false
+excerpt: A `friend class` can access private and protected members of other class in which it is declared as friend.
 ---
 
 <br />

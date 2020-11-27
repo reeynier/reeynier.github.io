@@ -6,6 +6,7 @@ tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
+excerpt: Given an array of integers **nums** and an integer **k**, return the total number of continuous subarrays whose sum is divisible by **k**.
 ---
 
 <br />

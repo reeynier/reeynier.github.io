@@ -6,6 +6,7 @@ tags: [ C++, OOD ]
 similar: [ OOD ]
 featured: false
 hidden: false
+excerpt: Design a parking lot using `object-oriented` principles. We will focus on the following set of requirements while designing the parking lot.
 ---
 
 <br />

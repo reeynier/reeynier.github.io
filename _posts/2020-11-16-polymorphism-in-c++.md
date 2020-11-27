@@ -6,6 +6,7 @@ tags: [ C++, Polymorphism, Overload, Override, Virtual Function, Pure Virtual Fu
 similar: [ C++ OOP ]
 featured: false
 hidden: false
+excerpt: Polymorphism means having more than one function with the same name but with different functionalities. 
 ---
 
 <br />

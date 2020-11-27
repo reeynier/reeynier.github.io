@@ -6,6 +6,7 @@ tags: [ C++, Interface, Abstract Class, Pure Virtual Function, Concrete Class ]
 similar: [ C++ OOP ]
 featured: false
 hidden: false
+excerpt: An `interface` describes the behavior or capabilities of a C++ class without committing to a particular implementation of that class.
 ---
 
 <br />

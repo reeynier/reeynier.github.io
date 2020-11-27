@@ -6,6 +6,7 @@ tags: [ Two Pointer, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
+excerpt: Given an array of integers **nums** and an integer **k**, return the maximum **s** such that there exists
 ---
 
 <br />

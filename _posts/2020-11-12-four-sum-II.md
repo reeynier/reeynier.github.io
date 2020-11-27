@@ -6,6 +6,7 @@ tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
+excerpt: Given four lists **A**, **B**, **C**, **D** of integer values, compute how many quadruplets
 ---
 
 <br />

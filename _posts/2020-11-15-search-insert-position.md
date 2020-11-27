@@ -6,6 +6,7 @@ tags: [ Binary Search, Leetcode ]
 similar: [ Binary Search ]
 featured: false
 hidden: false
+excerpt: Given a sorted array of distinct integers and a target value, return the index if the target is found.
 ---
 
 <br />

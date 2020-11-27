@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Palindrome Linked List Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Linked List, Two Pointer, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
+excerpt: Given a singly linked list, determine if it's a palindrome.
 ---
 
 <br />

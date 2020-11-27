@@ -6,6 +6,7 @@ tags: [ Two Pointer, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
+excerpt: Given an array of positive integers **nums** and an integer **k**, return the total number of continuous subarrays where the product of all the elements in the subarray is less than **k**.
 ---
 
 <br />

@@ -6,6 +6,7 @@ tags: [ C++, Smart Pointers, RAII, Shared_Ptr ]
 similar: [ C++ Pointers ]
 featured: false
 hidden: false
+excerpt: The `shared_ptr` type is a smart pointer that is designed for scenarios in which more than one owner might have to manage the lifetime of the object in memory. 
 ---
 
 <br />

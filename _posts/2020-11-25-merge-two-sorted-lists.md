@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Merge Two Sorted Lists Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
+excerpt: Merge two sorted linked lists and return a new **sorted** list.
 ---
 
 <br />

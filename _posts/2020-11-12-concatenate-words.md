@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Concatenate Words Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Depth First Search, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Given a list of **words** (without duplicates), return all **concatenated words** in the given list of **words**.
 ---
 
 <br />

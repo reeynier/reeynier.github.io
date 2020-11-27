@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Camelcase Matching Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: A query word matches a given **pattern** if we can insert lowercase letters to the pattern word so that it equals the **query**. 
 ---
 
 <br />

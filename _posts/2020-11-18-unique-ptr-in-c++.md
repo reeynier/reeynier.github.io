@@ -6,6 +6,7 @@ tags: [ C++, Smart Pointers, RAII, Unique_Ptr ]
 similar: [ C++ Pointers]
 featured: false
 hidden: false
+excerpt: A `unique_ptr` does not share its pointer. It cannot be copied to another `unique_ptr`, passed by value to a function, or used in any C++ Standard Library algorithm that requires copies to be made.
 ---
 
 <br />

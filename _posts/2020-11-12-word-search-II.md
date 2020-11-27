@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Word Search II Problem"
-categories: [ Algorithm]
+categories: [ Data Structure]
 tags: [ Trie, Backtracking, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Given an **m x n** **board** of characters and a list of strings **words**, return all **words** on the **board**.
 ---
 
 <br />

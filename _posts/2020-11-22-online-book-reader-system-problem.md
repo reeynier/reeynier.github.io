@@ -6,6 +6,7 @@ tags: [ C++, OOD ]
 similar: [ OOD ]
 featured: false
 hidden: false
+excerpt: Design the data structures for an online book reader system which provides the following functionality.
 ---
 
 <br />

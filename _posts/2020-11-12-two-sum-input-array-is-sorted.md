@@ -6,6 +6,7 @@ tags: [ Two Pointer, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
+excerpt: Given an array of integers **nums** sorted in ascending order, and an integer **target**, return indices of the two numbers such that they add up to target.
 ---
 
 <br />

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Reverse Linked List Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
+excerpt: Reverse a singly linked list.
 ---
 
 <br />

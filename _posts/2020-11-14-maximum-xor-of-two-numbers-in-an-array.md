@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Maximum XOR of Two Numbers in an Array Problem"
-categories: [ Algorithm ]
+categories: [ Data Structure ]
 tags: [ Trie, Greedy, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
+excerpt: Given an integer array **nums**, return the maximum result of **nums[i] XOR nums[j]**
 ---
 
 <br />
