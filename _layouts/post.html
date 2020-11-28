@@ -140,11 +140,11 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
-    <div class="row listrecent">
-        {% if site.adsense == "enabled" %}
-            {% include adsense.html data-ad-slot=site.adsense-after-post-slot%}
-        {% endif %}
-    </div>
+
+    {% if site.adsense == "enabled" %}
+        {% include adsense.html data-ad-slot=site.adsense-after-post-slot%}
+    {% endif %}
+
 
 
 <!-- Similar Posts 
