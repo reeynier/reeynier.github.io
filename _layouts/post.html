@@ -43,11 +43,9 @@ post_class: post-template
 
             </div>
 
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) 
+
+             End Adsense -->
 
             <!-- Post Featured Image -->
 <!--            {% if page.image %}
@@ -140,6 +138,12 @@ post_class: post-template
 </div>
 <!-- End Article
 ================================================== -->
+
+
+{% if site.adsense == "enabled" %}
+    {% include adsense.html data-ad-slot=site.adsense-after-post-slot%}
+{% endif %}
+
 
 <!-- Similar Posts 
 ================================================== -->
