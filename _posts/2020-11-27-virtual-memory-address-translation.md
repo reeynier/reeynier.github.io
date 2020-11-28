@@ -6,7 +6,7 @@ tags: [ Virtual Memory ]
 similar: [ Operating System ]
 featured: false
 hidden: false
-excerpt: Virtual Memory is an abstraction that the Operating System provides for managing memory. Virtual Memory enables a program to execute with less physical memory than it needs.
+excerpt: To virtualize memory, the generic technique we use is `hardware-based address translation`, or `address translation`.
 ---
 
 <br />
