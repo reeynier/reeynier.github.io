@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Virtual Memory I"
+title:  "Virtual Memory I: Overview"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
 similar: [ Operating System ]
@@ -31,6 +31,7 @@ excerpt: Virtual Memory is an abstraction that the Operating System provides for
 As shown in the above figure, programs load or store to `virtual addresses`. The actual memory uses `physical addresses`. The virtual memory hardware is the `Mameory Management Unit (MMU)`. MMU is usually part of CPU. It translates between virtual addresses and physical addresses. It gives per-process view of memory called `address space`. MMU can be configured through privileged instructions.
 
 <br />
+
 
 ## Virtual Memory Goals
 
