@@ -1,0 +1,15 @@
+<!-- begin post -->
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+                {% if site.adsense == "enabled" %}
+                    {% include adsense.html data-ad-slot=site.adsense-post-snapshot-slot %}
+                {% endif %}
+        </div>
+        <div class="card-footer bg-white">
+            
+        </div>
+    </div>
+</div>
+<!-- end post -->

@@ -37,7 +37,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 9 
+paginate: 8 
 paginate_path: /page:num/
 
 #pagination:
@@ -63,6 +63,7 @@ adsense-data-ad-client: "ca-pub-8271349713695192"
 #adsense-data-ad-slot: "1363087678"
 adsense-after-post-slot: "2684774441"
 adsense-under-share-slot: "3722523949"
+adsense-post-snapshot-slot: "6612411168"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"

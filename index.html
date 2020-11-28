@@ -39,11 +39,31 @@ title: Home
 
     <div class="row listrecent">
 
+        {% assign postcount = 0 %}
+
         {% for post in paginator.posts %}
 
     		{% include postbox.html %}
+            {% assign postcount = postcount | plus: 1 %}
+
+            {% assign randcount = paginator.page | modulo: 3 %}
+
+
+            {% if randcount == 0 and postcount == 8 %}
+                {% include adsense_postbox.html %}
+            {% elsif randcount == 1 and postcount == 7 %}
+                {% include adsense_postbox.html %}
+            {% elsif randcount == 2 and postcount == 6 %}
+                {% include adsense_postbox.html %}
+            {% endif %}
+
+
+            {% if postcount > 7 %}
+                {% assign postcount = 0 %}
+            {% endif %}
 
 		{% endfor %}
+
     </div>
 
 
