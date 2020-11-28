@@ -155,13 +155,13 @@ post_class: post-template
         <h2><span>Similar Posts</span></h2>
     </div>
     <div class="row listrecent">
-        {% assign count = 0 %}
+        {% assign similarcount = 0 %}
         {% for post in site.posts %}
             {% for sim in post.similar %}
                 {% for thissim in page.similar %}
-                    {% if sim == thissim  and count < 6 %}
+                    {% if sim == thissim  and similarcount < 6 %}
                         {% include postbox.html %}
-                        {% assign count = count | plus: 1 %}
+                        {% assign similarcount = similarcount | plus: 1 %}
                     {% endif %}
                 {% endfor %}
             {% endfor %}
