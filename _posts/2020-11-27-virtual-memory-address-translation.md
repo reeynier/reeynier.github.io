@@ -6,7 +6,7 @@ tags: [ Virtual Memory ]
 similar: [ Operating System ]
 featured: false
 hidden: false
-excerpt: To implement a simple virtual memory, we use the `hardware-based address translation` technique, or `address translation`.
+excerpt: How can we `relocate` the process in memory in a way that is transparent to the process? 
 ---
 
 <br />

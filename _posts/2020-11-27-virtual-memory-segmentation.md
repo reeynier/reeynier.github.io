@@ -6,7 +6,7 @@ tags: [ Virtual Memory ]
 similar: [ Operating System ]
 featured: false
 hidden: false
-excerpt: In the previous post about address translation, we use the base-and-bound approach to implement a simple virtual memory.
+excerpt: How to support a large address space with (potentially) a lot of free space?
 ---
 
 <br />

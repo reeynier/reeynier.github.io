@@ -6,7 +6,7 @@ tags: [ Virtual Memory ]
 similar: [ Operating System ]
 featured: false
 hidden: false
-excerpt: In the previous post about segmentation, we use variable-sized pieces for space management.
+excerpt: How can we virtualize memory with pages, so as to avoid the problems of segmentation
 ---
 
 <br />
