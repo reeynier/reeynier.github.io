@@ -5,6 +5,7 @@ permalink: "/tags.html"
 ---
 
 <div class="row listrecent">
+{% assign tagcount = 0 %}
 {% for tag in site.tags %}
 	<div class="section-title col-md-12 mt-4">
 	<h2 id="{{ tag[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
@@ -17,7 +18,11 @@ permalink: "/tags.html"
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	{% include adsense_postbox.html %}
+	{% assign tagcount = tagcount | plus: 1 %}
+	{% assign tagcountmod = tagcount | modulo: 4 %}
+	{% if tagcountmod == 1 %}
+		{% include adsense_postbox.html %}
+	{% endif %}
 	{% assign pages_list = nil %}
 	{% assign group = nil %}
 {% endfor %}

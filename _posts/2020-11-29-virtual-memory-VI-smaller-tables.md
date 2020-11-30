@@ -6,7 +6,7 @@ tags: [ Virtual Memory ]
 similar: [ Operating System ]
 featured: false
 hidden: false
-excerpt: Paging also introduces the problem that page tables are too big and thus consume too much memory.
+excerpt: How can we make page tables smaller.
 ---
 
 <br />
