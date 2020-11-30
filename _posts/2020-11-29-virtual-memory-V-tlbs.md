@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory V: TLBs"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How can we speed up address translation, and generally avoid the extra memory reference that paging seems to require?

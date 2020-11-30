@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory III: Segmentation"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How to support a large address space with (potentially) a lot of free space?

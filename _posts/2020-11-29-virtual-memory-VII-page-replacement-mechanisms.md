@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory VII: Page Replacement Mechanisms"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How can the OS make use of a larger, slower device to transparently provide the illusion of a large virtual address space.

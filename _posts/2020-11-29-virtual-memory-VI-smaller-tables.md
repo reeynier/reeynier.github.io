@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory VI: Smaller Tables"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How can we make page tables smaller.

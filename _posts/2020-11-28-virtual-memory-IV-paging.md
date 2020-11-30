@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory IV: Paging"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How can we virtualize memory with pages, so as to avoid the problems of segmentation

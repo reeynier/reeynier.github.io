@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Memory II: Address Translation"
 categories: [ Operating System ]
 tags: [ Virtual Memory ]
-similar: [ Operating System ]
+similar: [ Virtual Memory ]
 featured: false
 hidden: false
 excerpt: How can we `relocate` the process in memory in a way that is transparent to the process? 
