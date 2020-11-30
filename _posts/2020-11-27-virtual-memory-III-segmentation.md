@@ -15,7 +15,7 @@ This post is adapted from Professor Remzi H. Arpaci-Dusseau and  Professor Andre
 
 ## Segmentation
 
-In the previous post about [address translation]({% post_url 2020-11-27-virtual-memory-address-translation %}), we use the base-and-bound approach to implement a simple virtual memory. The entire address space has been put in memory. This is usually wasteful as much of the space is usually not used by the process by still taking up the memory space. It is also hard to run a program when the entire address space does not fit into memory. So the question is how to support a large address space with (potentially) a lot of free space?
+In the previous post about [address translation]({% post_url 2020-11-27-virtual-memory-II-address-translation %}), we use the base-and-bound approach to implement a simple virtual memory. The entire address space has been put in memory. This is usually wasteful as much of the space is usually not used by the process by still taking up the memory space. It is also hard to run a program when the entire address space does not fit into memory. So the question is how to support a large address space with (potentially) a lot of free space?
 
 #### Generalized Base and Bounds
 
