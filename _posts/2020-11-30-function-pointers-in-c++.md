@@ -6,7 +6,7 @@ tags: [ C++, Function Pointers, Pointers to Functions ]
 similar: [ C++ Basic ]
 featured: false
 hidden: false
-excerpt: An `interface` describes the behavior or capabilities of a C++ class without committing to a particular implementation of that class.
+excerpt: A `function pointer` is a pointer that denotes a function rather than an object.
 ---
 
 <br />

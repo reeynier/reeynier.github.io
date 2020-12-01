@@ -6,7 +6,7 @@ tags: [ C++, Inline Functions ]
 similar: [ C++ Basic ]
 featured: false
 hidden: false
-excerpt: An `interface` describes the behavior or capabilities of a C++ class without committing to a particular implementation of that class.
+excerpt: A function specified as `inline` is expanded everywhere it is invoked.
 ---
 
 <br />
