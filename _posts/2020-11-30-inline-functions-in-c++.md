@@ -3,7 +3,7 @@ layout: post
 title:  "Inline Functions in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Inline Functions ]
-similar: [ C++ OOP ]
+similar: [ C++ Basic ]
 featured: false
 hidden: false
 excerpt: An `interface` describes the behavior or capabilities of a C++ class without committing to a particular implementation of that class.
