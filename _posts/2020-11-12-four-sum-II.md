@@ -6,14 +6,14 @@ tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
-excerpt: Given four lists **A**, **B**, **C**, **D** of integer values, compute how many quadruplets
+excerpt: LeetCode 454. Given four lists **A**, **B**, **C**, **D** of integer values, compute how many quadruplets
 ---
 
 <br />
 
 ## Description
 
-Given four lists **A**, **B**, **C**, **D** of integer values, compute how many quadruplets (**i, j, k, l**) there are such that **A[i] + B[j] + C[k] + D[l]** is zero. All **A**, **B**, **C**, **D** have same length of **N**.
+LeetCode Problem 454. Given four lists **A**, **B**, **C**, **D** of integer values, compute how many quadruplets (**i, j, k, l**) there are such that **A[i] + B[j] + C[k] + D[l]** is zero. All **A**, **B**, **C**, **D** have same length of **N**.
 
 
 Example: 

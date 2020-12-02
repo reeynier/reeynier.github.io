@@ -6,14 +6,14 @@ tags: [ Linked List, Two Pointer, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
-excerpt: Given a singly linked list, determine if it's a palindrome.
+excerpt: LeetCode 234. Given a singly linked list, determine if it's a palindrome.
 ---
 
 <br />
 
 ## Description
 
-Given a singly linked list, determine if it is a palindrome.
+LeetCode Problem 234. Given a singly linked list, determine if it is a palindrome.
 
 
 Example: 

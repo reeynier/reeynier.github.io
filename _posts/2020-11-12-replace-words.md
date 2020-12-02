@@ -6,14 +6,14 @@ tags: [ Trie, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
-excerpt: Given a **dictionary** consisting of many *roots* (a concept in English that can be followed by some other letters to form another longer word which is called a *successor*),
+excerpt: LeetCode 648. Given a **dictionary** consisting of many *roots*, and a **sentence** consisting of words separated by spaces,
 ---
 
 <br />
 
 ## Description
 
-Given a **dictionary** consisting of many *roots* (a concept in English that can be followed by some other letters to form another longer word which is called a *successor*), and a **sentence** consisting of words separated by spaces, replace all *successors* in the **sentence** with the *root* forming it. If a *successor* can be replaced by more than one *root*, replace it with the *root* that has the shortest length. Return the **sentence** after replacement.
+LeetCode Problem 648. Given a **dictionary** consisting of many *roots* (a concept in English that can be followed by some other letters to form another longer word which is called a *successor*), and a **sentence** consisting of words separated by spaces, replace all *successors* in the **sentence** with the *root* forming it. If a *successor* can be replaced by more than one *root*, replace it with the *root* that has the shortest length. Return the **sentence** after replacement.
 
 
 Example: 

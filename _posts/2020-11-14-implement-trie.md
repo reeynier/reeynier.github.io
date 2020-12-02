@@ -6,14 +6,14 @@ tags: [ Trie, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
-excerpt: Implement a **Trie** with **insert**, **search**, and **startsWith** methods. You may assume that all inputs are consist of lowercase letters **a-z**.
+excerpt: LeetCode 208. Implement a **Trie** with **insert**, **search**, and **startsWith** methods. You may assume that all inputs are consist of lowercase letters **a-z**.
 ---
 
 <br />
 
 ## Description
 
-Implement a **Trie** with **insert**, **search**, and **startsWith** methods. You may assume that all inputs are consist of lowercase letters **a-z**.
+LeetCode Problem 208. Implement a **Trie** with **insert**, **search**, and **startsWith** methods. You may assume that all inputs are consist of lowercase letters **a-z**.
 
 
 Example: 

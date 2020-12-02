@@ -6,14 +6,14 @@ tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
-excerpt: Given an array of integers **nums** and an integer **k**, return the total number of continuous subarrays whose sum equals to **k**.
+excerpt: LeetCode 560. Given an array of integers **nums** and an integer **k**, return the total number of continuous subarrays whose sum equals to **k**.
 ---
 
 <br />
 
 ## Description
 
-Given an array of integers **nums** and an integer **k**, return the total number of continuous subarrays whose sum equals to **k**.
+LeetCode Problem 560. Given an array of integers **nums** and an integer **k**, return the total number of continuous subarrays whose sum equals to **k**.
 
 
 Example: 

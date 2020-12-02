@@ -6,14 +6,14 @@ tags: [ Linked List, Priority Queue, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
-excerpt: You are given an array of **k** linked-lists **lists**, each linked-list is sorted in ascending order.
+excerpt: LeetCode 23. You are given an array of **k** linked-lists **lists**, each linked-list is sorted in ascending order.
 ---
 
 <br />
 
 ## Description
 
-You are given an array of **k** linked-lists **lists**, each linked-list is sorted in ascending order. Merge all the linked-list into one sorted linked-list and return it.
+LeetCode Problem 23. You are given an array of **k** linked-lists **lists**, each linked-list is sorted in ascending order. Merge all the linked-list into one sorted linked-list and return it.
 
 
 Example: 

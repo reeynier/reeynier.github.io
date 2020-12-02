@@ -6,7 +6,7 @@ tags: [ Trie, Depth First Search, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
-excerpt: Given a list of **words** (without duplicates), return all **concatenated words** in the given list of **words**.
+excerpt: LeetCode 472. Given a list of **words** (without duplicates), return all **concatenated words** in the given list of **words**.
 ---
 
 <br />
@@ -14,7 +14,7 @@ excerpt: Given a list of **words** (without duplicates), return all **concatenat
 ## Description
 
 
-Given a list of **words** (without duplicates), return all **concatenated words** in the given list of **words**.
+LeetCode Problem 472. Given a list of **words** (without duplicates), return all **concatenated words** in the given list of **words**.
 A **concatenated word** is defined as a string that is comprised entirely of at least two shorter words in the given array.
 
 

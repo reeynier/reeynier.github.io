@@ -6,14 +6,14 @@ tags: [ Two Pointer, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
-excerpt: Given an array of integers **nums** and an integer **k**, return the maximum **s** such that there exists
+excerpt: LeetCode 1099. Given an array of integers **nums** and an integer **k**, return the maximum **s** such that there exists
 ---
 
 <br />
 
 ## Description
 
-Given an array of integers **nums** and an integer **k**, return the maximum **s** such that there exists **i < j** with **nums[i] + nums[j] = s** and **s < k**. If no such **i, j, s** exists, return **-1**.
+LeetCode Problem 1099. Given an array of integers **nums** and an integer **k**, return the maximum **s** such that there exists **i < j** with **nums[i] + nums[j] = s** and **s < k**. If no such **i, j, s** exists, return **-1**.
 
 
 Example: 

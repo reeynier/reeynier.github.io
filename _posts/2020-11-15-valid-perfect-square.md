@@ -6,14 +6,14 @@ tags: [ Binary Search, Leetcode ]
 similar: [ Binary Search ]
 featured: false
 hidden: false
-excerpt: Given a positive integer **num**, write a function which returns True if **num** is a perfect square, else False.
+excerpt: LeetCode 367. Given a positive integer **num**, write a function which returns True if **num** is a perfect square, else False.
 ---
 
 <br />
 
 ## Description
 
-Given a positive integer **num**, write a function which returns True if **num** is a perfect square,  else False. Do not use any built-in library function such as sqrt.
+LeetCode Problem 367. Given a positive integer **num**, write a function which returns True if **num** is a perfect square,  else False. Do not use any built-in library function such as sqrt.
 
 
 Example: 

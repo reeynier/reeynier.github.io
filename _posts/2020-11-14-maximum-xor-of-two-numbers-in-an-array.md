@@ -6,7 +6,7 @@ tags: [ Trie, Greedy, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
-excerpt: Given an integer array **nums**, return the maximum result of **nums[i] XOR nums[j]**
+excerpt: LeetCode 421. Given an integer array **nums**, return the maximum result of **nums[i] XOR nums[j]**
 ---
 
 <br />
@@ -14,7 +14,7 @@ excerpt: Given an integer array **nums**, return the maximum result of **nums[i]
 ## Description
 
 
-Given an integer array **nums**, return the maximum result of **nums[i] XOR nums[j]**, where **0 ≤ i ≤ j < n**.
+LeetCode Problem 421. Given an integer array **nums**, return the maximum result of **nums[i] XOR nums[j]**, where **0 ≤ i ≤ j < n**.
 
 
 Example: 

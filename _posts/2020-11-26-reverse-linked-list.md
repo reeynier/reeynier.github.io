@@ -6,14 +6,15 @@ tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
-excerpt: Reverse a singly linked list.
+excerpt: LeetCode 206. Reverse a singly linked list.
 ---
 
 <br />
 
+
 ## Description
 
-Reverse a singly linked list.
+LeetCode Problem 206. Reverse a singly linked list.
 
 
 Example: 

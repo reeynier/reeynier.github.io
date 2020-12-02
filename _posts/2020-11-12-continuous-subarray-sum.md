@@ -6,14 +6,14 @@ tags: [ Hash Table, Leetcode ]
 similar: [ Two Sum ]
 featured: false
 hidden: false
-excerpt: Given an array of non-negative integers **nums** and an integer **k**, check if the array has a continuous subarray of size at least 2 that sums up to a multiple of **k**.
+excerpt: LeetCode 523. Given an array of non-negative integers **nums** and an integer **k**, check if the array has a continuous subarray of size at least 2 that sums up to a multiple of **k**.
 ---
 
 <br />
 
 ## Description
 
-Given an array of non-negative integers **nums** and an integer **k**, check if the array has a continuous subarray of size at least 2 that sums up to a multiple of **k**.
+LeetCode Problem 523. Given an array of non-negative integers **nums** and an integer **k**, check if the array has a continuous subarray of size at least 2 that sums up to a multiple of **k**.
 
 
 Example: 

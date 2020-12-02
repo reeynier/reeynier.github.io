@@ -6,14 +6,14 @@ tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
-excerpt: Merge two sorted linked lists and return a new **sorted** list.
+excerpt: LeetCode 21. Merge two sorted linked lists and return a new **sorted** list.
 ---
 
 <br />
 
 ## Description
 
-Merge two sorted linked lists and return it as a new **sorted** list. The new list should be made by splicing together the nodes of the first two lists.
+LeetCode Problem 21. Merge two sorted linked lists and return it as a new **sorted** list. The new list should be made by splicing together the nodes of the first two lists.
 
 
 Example: 

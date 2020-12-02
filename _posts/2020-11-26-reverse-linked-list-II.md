@@ -6,14 +6,14 @@ tags: [ Linked List, Leetcode ]
 similar: [ Linked List ]
 featured: false
 hidden: false
-excerpt: Reverse a linked list from position m to n. 
+excerpt: LeetCode 92. Reverse a linked list from position m to n. 
 ---
 
 <br />
 
 ## Description
 
-Reverse a linked list from position **m** to **n**. Do it in one-pass. Note: 1 ≤ m ≤ n ≤ length of list.
+LeetCode Problem 92. Reverse a linked list from position **m** to **n**. Do it in one-pass. Note: 1 ≤ m ≤ n ≤ length of list.
 
 Example: 
 ```

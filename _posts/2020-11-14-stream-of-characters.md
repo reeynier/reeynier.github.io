@@ -6,14 +6,14 @@ tags: [ Trie, Queue, Leetcode ]
 similar: [ Trie ]
 featured: false
 hidden: false
-excerpt: Implement the StreamChecker class as follows. Constructor, initialize the data structure with the given words.
+excerpt: LeetCode 1032. Implement the StreamChecker class as follows. Constructor, initialize the data structure with the given words.
 ---
 
 <br />
 
 ## Description
 
-Implement the **StreamChecker** class as follows.
+LeetCode Problem 1032. Implement the **StreamChecker** class as follows.
 * **StreamChecker(words)**: Constructor, initialize the data structure with the given words.
 * **query(letter)**: returns true if and only if for some k >= 1, the last k characters queried (in order from oldest to newest, including this letter just queried) spell one of the words in the given list.
 
