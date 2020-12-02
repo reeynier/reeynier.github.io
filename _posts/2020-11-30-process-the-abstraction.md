@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Process I: The Abstraction"
+title:  "Process: The Abstraction"
 categories: [ Operating System ]
 tags: [ Process ]
 similar: [ Process ]
