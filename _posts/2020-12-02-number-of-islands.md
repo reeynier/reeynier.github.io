@@ -87,6 +87,7 @@ int numIslands(vector<vector<char>>& grid) {
                 x = point.first, y = point.second;
                 grid[x][y] = '0';
                 
+                // Explore the four neighbors
                 for (int k = 0; k < 4; k ++) {
                     r = x + dir[k][0];
                     c = y + dir[k][1];
