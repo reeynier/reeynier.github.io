@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diameter of Binary Tree Problem"
-categories: [ Data Structure ]
+categories: [ Algorithm ]
 tags: [ Tree, Depth First Search, Leetcode ]
 similar: [ DFS ]
 featured: false
