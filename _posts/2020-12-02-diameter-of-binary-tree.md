@@ -38,7 +38,7 @@ We can use `depth first search` to explore every node in the tree.
 
 During the search, we calculate the depth of each node. The depth of the node means if we treat the node as the root node of a tree, the maximum number of edges from the root node to the leaf node in the tree. The depth of the node can be calculated recursively. It equals to the maximum of the depth of the left child node and the depth of the right child node. If the node is NULL, the depth of this node is 0.
 
-Calculating the depth of each node can be useful for calculating the diameter of the tree. The path length of the tree **across a node** equals the sum of the depth of the left child node and the depth of the right child node. We can use a global variable to keep track of the maximum path length.
+Calculating the depth of each node can be useful for calculating the diameter of the tree. The path length of the tree **across a node** equals the sum of the depth of the left child node and the depth of the right child node plus 1. We can use a global variable to keep track of the maximum path length.
 
 The time complexity is O(n) because we visit every node once.
 
