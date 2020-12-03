@@ -27,7 +27,7 @@ Explanation: [2, 4] is a continuous subarray of size 2 and sums up to 6.
 
 ## Solution
 
-This problem is similar to the [`subarray sum divisible by k problem`]({% post_url 2020-11-12-subarray-sum-divisible-by-k %}).
+This problem is similar to the [`subarray sum divisible by k problem`]({% post_url LeetCode/2020-11-12-subarray-sum-divisible-by-k %}).
 
 #### Brute Force Approach
 
@@ -41,7 +41,7 @@ and the space complexity is O(1).
 
 #### Hash Table Approach
 
-The time complexity can be further reduced if we use a `hash table` to store intermediate results. The solution is similar to the solution to the [`subarray sum divisible by k problem`]({% post_url 2020-11-12-subarray-sum-divisible-by-k %}). The only difference is that instead of storing the (modulo, count) pair in the hash table, we store the (modulo, index) pair, because we only need to find out whether such a subarray exists, but not how many such subarrays.
+The time complexity can be further reduced if we use a `hash table` to store intermediate results. The solution is similar to the solution to the [`subarray sum divisible by k problem`]({% post_url LeetCode/2020-11-12-subarray-sum-divisible-by-k %}). The only difference is that instead of storing the (modulo, count) pair in the hash table, we store the (modulo, index) pair, because we only need to find out whether such a subarray exists, but not how many such subarrays.
 
 We loop through the array and use an *accu_sum* variable to store the accumulative sum. During the iteration, we calculate the modulo (*accu_sum* % *k*). We then store the modulo to a hash table as a key and the index of the current element as the value. 
 

@@ -29,7 +29,7 @@ Output: false
 
 ## Solution
 
-This problem is similar to the [`Sqrt(x) Problem`]({% post_url 2020-11-15-sqrtx %}).
+This problem is similar to the [`Sqrt(x) Problem`]({% post_url LeetCode/2020-11-15-sqrtx %}).
 
 #### Binary Search Approach
 

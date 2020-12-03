@@ -34,7 +34,7 @@ merging them into one sorted list:
 
 ## Solution
 
-This problem is similar to the [`merge two sorted lists problem`]({% post_url 2020-11-25-merge-two-sorted-lists %}).
+This problem is similar to the [`merge two sorted lists problem`]({% post_url LeetCode/2020-11-25-merge-two-sorted-lists %}).
 
 We can compare the **k** heads of every linked list and get the node with the smallest value. We repeat this step until all lists are merged. The time complexity of this approach is O(kN), where N is the total number of nodes in all lists and k is the number of lists. This is because for every node in the merged list, it takes O(k) for comparison.
 

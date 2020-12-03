@@ -28,7 +28,7 @@ Explanation: There are 7 subarrays with a sum divisible by k = 5:
 
 ## Solution
 
-This problem is similar to the [`subarray sum equals k problem`]({% post_url 2020-11-11-subarray-sum-equals-k %}).
+This problem is similar to the [`subarray sum equals k problem`]({% post_url LeetCode/2020-11-11-subarray-sum-equals-k %}).
 
 #### Brute Force Approach
 

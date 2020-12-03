@@ -15,7 +15,7 @@ This post is adapted from Professor Remzi H. Arpaci-Dusseau and  Professor Andre
 
 ## Faster Translation
 
-As discussed in [the previous post]({% post_url 2020-11-28-virtual-memory-IV-paging %}), using paging as the core mechanism to support virtual memory can lead to high performance overhead. This is because paging requires two memory lookups. So the problem is how can we speed up address translation, and generally avoid the extra memory reference that paging seems to require?
+As discussed in [the previous post]({% post_url OS/2020-11-28-virtual-memory-IV-paging %}), using paging as the core mechanism to support virtual memory can lead to high performance overhead. This is because paging requires two memory lookups. So the problem is how can we speed up address translation, and generally avoid the extra memory reference that paging seems to require?
 
 We can use the hardware for faster translation. Specifically, we add a cache to the hardware's memory management unit (MMU), also called the `translation-lookaside buffer (TLB)`. This cache stores some translation results (the PTEs). Upon each virtual memory reference, the hardware first checks the TLB to see if the desired translation is there already. If so, the translation is performed without having to consult the page table. Thus, we only need to have the second memory access (use the physical address to access memory), and we save the first memory access (consult the page table in memory).
 
@@ -46,9 +46,9 @@ else  // TLB Miss
         RetryInstruction()
 ```
 
-First, the hardware extracts the virtual page number (VPN) from the virtual address and checks if the TLB holds the translation for this VPN. If it holds, we have a TLB hit. We can do the checkings, calculate the physical address (as we discussed in the second part of the [paging]({% post_url 2020-11-28-virtual-memory-IV-paging %}) algorithm), and access memory.
+First, the hardware extracts the virtual page number (VPN) from the virtual address and checks if the TLB holds the translation for this VPN. If it holds, we have a TLB hit. We can do the checkings, calculate the physical address (as we discussed in the second part of the [paging]({% post_url OS/2020-11-28-virtual-memory-IV-paging %}) algorithm), and access memory.
 
-If the TLB does not hold the translation for this VPN, we have a TLB miss. We can access the page table to find the translation, do the checkings, calculate the physical address, and access memory (as we discussed in [paging]({% post_url 2020-11-28-virtual-memory-IV-paging %})). And finally, we update the TLB with the translation.
+If the TLB does not hold the translation for this VPN, we have a TLB miss. We can access the page table to find the translation, do the checkings, calculate the physical address, and access memory (as we discussed in [paging]({% post_url OS/2020-11-28-virtual-memory-IV-paging %})). And finally, we update the TLB with the translation.
 
 #### Who Handles The TLB Miss
 

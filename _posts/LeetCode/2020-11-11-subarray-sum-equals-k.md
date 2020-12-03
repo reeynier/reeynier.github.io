@@ -26,7 +26,7 @@ Output: 2
 
 ## Solution
 
-This problem is similar to the [`two sum problem`]({% post_url 2020-11-09-two-sum %}).
+This problem is similar to the [`two sum problem`]({% post_url LeetCode/2020-11-09-two-sum %}).
 
 #### Brute Force Approach
 
@@ -40,7 +40,7 @@ and the space complexity is O(1).
 
 #### Hash Table Approach
 
-The time complexity can be further reduced if we use a `hash table` to store intermediate results (similar to the [`two sum problem`]({% post_url 2020-11-09-two-sum %})).
+The time complexity can be further reduced if we use a `hash table` to store intermediate results (similar to the [`two sum problem`]({% post_url LeetCode/2020-11-09-two-sum %})).
 
 We loop through the array and use an *accu_sum* variable to store the accumulative sum. For each distinctive *accu_sum*, we use a hash table to store how many times this *accu_sum* has occurred. 
 

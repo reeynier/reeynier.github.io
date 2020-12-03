@@ -35,7 +35,7 @@ We can use the `trie` data structure to store all the numbers in binary format. 
 
 
 
-To build the `trie`, please refer to the [`Implement Trie Problem`]({% post_url 2020-11-14-implement-trie %}) post. As we only storing the binary format of the numbers, we only need an array for two elements (0 and 1) in each *TrieNode*. To make the comparison between number easier, we store all the 32 binary bits for each number. 
+To build the `trie`, please refer to the [`Implement Trie Problem`]({% post_url LeetCode/2020-11-14-implement-trie %}) post. As we only storing the binary format of the numbers, we only need an array for two elements (0 and 1) in each *TrieNode*. To make the comparison between number easier, we store all the 32 binary bits for each number. 
 
 
 

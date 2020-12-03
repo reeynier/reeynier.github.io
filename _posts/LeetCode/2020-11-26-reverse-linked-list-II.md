@@ -25,11 +25,11 @@ Output: 1->4->3->2->5->NULL
 
 ## Solution
 
-This problem is similar to the [`reverse linked list problem`]({% post_url 2020-11-26-reverse-linked-list %}). The difference is we only need to reverse the nodes from position *m* to *n*. 
+This problem is similar to the [`reverse linked list problem`]({% post_url LeetCode/2020-11-26-reverse-linked-list %}). The difference is we only need to reverse the nodes from position *m* to *n*. 
 
 We can iterate through the list. When we reach the *m-1*th node, we use a pointer (*head_r*) to record this node. This pointer will point to the head node of the reversed sub list, or will be the head node of the reversed sub list (for the m = 1 case).
 
-When we reach the *m*th node, we also use a pointer (*tail_r*) to record this node. This will be the tail node of the reversed sub list. We also start reversing the list from this node. We can use the same method in the [`reverse linked list problem`]({% post_url 2020-11-26-reverse-linked-list %}).
+When we reach the *m*th node, we also use a pointer (*tail_r*) to record this node. This will be the tail node of the reversed sub list. We also start reversing the list from this node. We can use the same method in the [`reverse linked list problem`]({% post_url LeetCode/2020-11-26-reverse-linked-list %}).
 
 When we reach the *n*th node, we finish reversing the list. We then point the *tail_r* pointer to the *n+1*th node, and point the *head_r* pointer to the *n*th node. In this way, we can reverse the sub list in place. 
 

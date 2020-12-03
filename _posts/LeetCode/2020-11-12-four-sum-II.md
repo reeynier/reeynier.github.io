@@ -32,7 +32,7 @@ Explanation: The two quadruplets are:
 
 ## Solution
 
-This problem is similar to the [`four sum problem`]({% post_url 2020-11-10-four-sum %}).
+This problem is similar to the [`four sum problem`]({% post_url LeetCode/2020-11-10-four-sum %}).
 
 #### Brute Force Approach
 
@@ -48,7 +48,7 @@ and the space complexity is O(1).
 
 #### Hash Table Approach
 
-We can use the `hash table` approach similar to the [`two sum problem`]({% post_url 2020-11-09-two-sum %}) to reduce the time complexity.
+We can use the `hash table` approach similar to the [`two sum problem`]({% post_url LeetCode/2020-11-09-two-sum %}) to reduce the time complexity.
 
 We first loop through two arrays *A* and *B*. During the iteration, we use a hash table to store the sum of the two elements (one from each array) as a key, and the occurrence of such sum as a value.   
 

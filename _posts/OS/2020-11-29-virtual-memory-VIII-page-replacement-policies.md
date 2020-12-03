@@ -15,7 +15,7 @@ This post is adapted from Professor Remzi H. Arpaci-Dusseau and  Professor Andre
 
 ## Policies
 
-In the previous post, we show the [page replacement mechanisms]({% post_url 2020-11-29-virtual-memory-VII-page-replacement-mechanisms %}). When a page fault occurs, the OS need to find a free page on the free-page list and assign it to the faulting page. When little memory is free, the OS starts `paging out` pages to make room for actively-used pages. The `replacement policy` is to decide which page(s) to `evict`. So the question is how can the OS decide which page(s) to evict from memory?
+In the previous post, we show the [page replacement mechanisms]({% post_url OS/2020-11-29-virtual-memory-VII-page-replacement-mechanisms %}). When a page fault occurs, the OS need to find a free page on the free-page list and assign it to the faulting page. When little memory is free, the OS starts `paging out` pages to make room for actively-used pages. The `replacement policy` is to decide which page(s) to `evict`. So the question is how can the OS decide which page(s) to evict from memory?
 
 #### The Optimal Replacement Policy
 

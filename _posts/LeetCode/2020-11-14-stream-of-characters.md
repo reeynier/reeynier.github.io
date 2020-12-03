@@ -42,7 +42,7 @@ streamChecker.query('l');          // return true, because 'kl' is in the wordli
 
 #### Trie and Queue Approach
 
-We can use the `trie` data structure to solve this problem. How to build a `trie` structure and store the stream can be found in the [`Implement Trie Problem`]({% post_url 2020-11-14-implement-trie %}) post.
+We can use the `trie` data structure to solve this problem. How to build a `trie` structure and store the stream can be found in the [`Implement Trie Problem`]({% post_url LeetCode/2020-11-14-implement-trie %}) post.
 
 
 For all the queries, we use a *queue* to store the *TrieNodes* that are still valid for the current querying letter.

@@ -42,7 +42,7 @@ Explanation:
 
 We can use the `trie` data structure to store the *pattern*. Then for each word in the *queries*, we check the word against the trie to see if it matches the *pattern*.
 
-To build the `trie`, please refer to the [`Implement Trie Problem`]({% post_url 2020-11-14-implement-trie %}) post. As there are both upper case and lower case letters, we need to use an array of size 52 to store next *TrieNodes*. For the first 26 elements, we store lower case letters; and for the last 26 elements, we store upper case letters.
+To build the `trie`, please refer to the [`Implement Trie Problem`]({% post_url LeetCode/2020-11-14-implement-trie %}) post. As there are both upper case and lower case letters, we need to use an array of size 52 to store next *TrieNodes*. For the first 26 elements, we store lower case letters; and for the last 26 elements, we store upper case letters.
 
 For each word in the *queries*, we check whether it matches the *pattern*. We iterate through the letters in the word. If the letter is an upper case letter, we check whether the element in the array representing this letter is NULL or not. If so, we can return false, the word does not match the patter; otherwise, we update the current *TrieNode* with the next *TrieNode* representing this letter. If the letter is a lower case letter, it is ok that we do not find it in the *pattern*. So we check whether the element in the array representing this letter is NULL or not. If it is not NULL, we update the current *TrieNode* with the next *TrieNode*; otherwise, we do nothing.
 

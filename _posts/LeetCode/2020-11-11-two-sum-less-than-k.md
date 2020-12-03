@@ -44,7 +44,7 @@ and the space complexity is O(1).
 
 #### Two Pointer Approach
 
-We can use the `two pointer` approach similar to the [`three sum problem`]({% post_url 2020-11-10-three-sum %}).
+We can use the `two pointer` approach similar to the [`three sum problem`]({% post_url LeetCode/2020-11-10-three-sum %}).
 
 We first sort the array in ascending order, the time complexity of this step is O(nlogn).
 

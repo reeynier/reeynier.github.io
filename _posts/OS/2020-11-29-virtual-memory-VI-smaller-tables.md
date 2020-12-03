@@ -16,7 +16,7 @@ This post is adapted from Professor Remzi H. Arpaci-Dusseau and  Professor Andre
 ## Faster Translation
 
 
-Besides performance, [paging]({% post_url 2020-11-28-virtual-memory-IV-paging %}) also introduces another problem: page tables are too big and thus consume too much memory. And we usually have one page table for every process in the system. So the question is how can we make page tables smaller?
+Besides performance, [paging]({% post_url OS/2020-11-28-virtual-memory-IV-paging %}) also introduces another problem: page tables are too big and thus consume too much memory. And we usually have one page table for every process in the system. So the question is how can we make page tables smaller?
 
 To reduce the size of page tables, a simple solution is to use bigger pages. However, the major problem with this approach is that big pages lead to waste within each page. This problem is also known as `internal fragmentation`.
 

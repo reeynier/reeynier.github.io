@@ -32,12 +32,12 @@ Output: true
 
 A simple solution is to iterate through the list, store the node values to an array and check whether the array is palindrome. The time complexity of this approach is O(n), and the space complexity is also O(n).
 
-We can reduce the space complexity to O(1), without increasing the time complexity. This solution requires modifying the list. The solution is similar to the [`reverse linked list problem`]({% post_url 2020-11-26-reverse-linked-list %}).
+We can reduce the space complexity to O(1), without increasing the time complexity. This solution requires modifying the list. The solution is similar to the [`reverse linked list problem`]({% post_url LeetCode/2020-11-26-reverse-linked-list %}).
 
 
 We first iterate through the list, and count the number of nodes in the list. 
 
-Then we iterate through the list again. This time, if the current node is in the first half of the list, we reverse the list using the same approach as in the [`reverse linked list problem`]({% post_url 2020-11-26-reverse-linked-list %}). We use a pointer *prev* to record the head of the reversed half of the list.
+Then we iterate through the list again. This time, if the current node is in the first half of the list, we reverse the list using the same approach as in the [`reverse linked list problem`]({% post_url LeetCode/2020-11-26-reverse-linked-list %}). We use a pointer *prev* to record the head of the reversed half of the list.
 
 If the current node is in the second half of the list, we compare the current node with the prev node to check whether the list is palindrome. If the value of the prev node and the current node does not match, we return false. We repeat it until we reach the end of the list. Note that the prev node goes from the middle of the list to the beginning of the list, and the current node goes from the middle of the list to the end of the list. When we reach the end of the list and all node values match, we return true.
 

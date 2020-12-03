@@ -26,7 +26,7 @@ Explanation: As nums[0] + nums[1] = 2 + 7 = 9, we return [0, 1].
 
 ## Solution
 
-This problem is similar to the [`two sum problem`]({% post_url 2020-11-09-two-sum %}), the [`three sum problem`]({% post_url 2020-11-10-three-sum %}), and the [`two sum less than k problem`]({% post_url 2020-11-11-two-sum-less-than-k %}).
+This problem is similar to the [`two sum problem`]({% post_url LeetCode/2020-11-09-two-sum %}), the [`three sum problem`]({% post_url LeetCode/2020-11-10-three-sum %}), and the [`two sum less than k problem`]({% post_url LeetCode/2020-11-11-two-sum-less-than-k %}).
 
 #### Brute Force Approach
 
@@ -41,7 +41,7 @@ and the space complexity is O(1).
 
 #### Two Pointer Approach
 
-We can use the `two pointer` approach similar to the [`three sum problem`]({% post_url 2020-11-10-three-sum %}).
+We can use the `two pointer` approach similar to the [`three sum problem`]({% post_url LeetCode/2020-11-10-three-sum %}).
 
 We set two pointers *l* and *r* pointing to the first and last element of the array, respectively. If the sum of the two elements pointed by *l* and *r* is greater than *target*, that means the right element is too big (even the smallest left element cannot satisfy the requirement), then we move the right pointer one step to the left. If the sum of the two elements pointed by *l* and *r* is smaller than *target*, that means the left element is too small (even the biggest right element cannot satisfy the requirement), then we move the left pointer one step to the right. If the sum equals to *target*, we find the solution and return the pointers.
 
