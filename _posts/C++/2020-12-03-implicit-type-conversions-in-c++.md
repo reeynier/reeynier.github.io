@@ -32,29 +32,29 @@ The next step is to assign the double value to ival, which is an integer. In the
 
 Implicit type conversions occur in the following situations:
 
-* In expressions with operands of mixed types:
+1. In expressions with operands of mixed types:
 
-```
-int ival;
-double dval;
-ival >= dval  // ival is converted to double
-```
+	```
+	int ival;
+	double dval;
+	ival >= dval  // ival is converted to double
+	```
 
-* An expression used as a condition is converted to bool:
+2. An expression used as a condition is converted to bool:
 
-```
-int ival;
-if (ival)   // ival is converted to bool
-while (ival)  // ival is converted to bool
-```
+	```
+	int ival;
+	if (ival)   // ival is converted to bool
+	while (ival)  // ival is converted to bool
+	```
 
-* An expression used to initialize or assign to a variable is converted to the type of the variable:
+3. An expression used to initialize or assign to a variable is converted to the type of the variable:
 
-```
-int ival = 3.14  // 3.14 is converted to int
-int *ip;
-ip = 0;  // the int 0 is converted to a null pointer of type int*
-```
+	```
+	int ival = 3.14  // 3.14 is converted to int
+	int *ip;
+	ip = 0;  // the int 0 is converted to a null pointer of type int*
+	```
 
 
 #### The Arithmetic Conversions
@@ -80,10 +80,10 @@ C++ defines a set of conversions among the built-in types. The most common are t
 
 1. In most cases when we use an array, the array is automatically converted to a pointer to the first element.
 
-```
-int ia[10];   // array of 10 ints
-int* ip = ia; // convert ia to pointer to first element
-```
+	```
+	int ia[10];   // array of 10 ints
+	int* ip = ia; // convert ia to pointer to first element
+	```
 
 2. A pointer to any data type can be converted to a void\*. And a void\* can be converted to a pointer to any data type.
 
@@ -99,23 +99,23 @@ int* ip = ia; // convert ia to pointer to first element
 
 #### The Enumeration Types Conversions
 
-Objects of an enumeration type or an enumerator can be automatically converted to an integral type. 
+1. Objects of an enumeration type or an enumerator can be automatically converted to an integral type. 
 
-```
-// point2d is 2, point2w is 3, point3d is 3, point3w is 4 
-enum Points { point2d = 2, point2w, point3d = 3, point3w };
-```
+	```
+	// point2d is 2, point2w is 3, point3d is 3, point3w is 4 
+	enum Points { point2d = 2, point2w, point3d = 3, point3w };
+	```
 
 #### Conversion to Const
 
-A non-const object can be converted to a const object, which happens when we use a non-const object to initialize a reference to const object. We can also convert the address of a non-const object to a pointer to the related const type.
+1. A non-const object can be converted to a const object, which happens when we use a non-const object to initialize a reference to const object. We can also convert the address of a non-const object to a pointer to the related const type.
 
-```
-int i;
-const int ci = 0;
-const int &j = i;    // convert non-const to reference to const int
-const int *p = &i;  // convert address of non-const to address of a const
-```
+	```
+	int i;
+	const int ci = 0;
+	const int &j = i;    // convert non-const to reference to const int
+	const int *p = &i;  // convert address of non-const to address of a const
+	```
 
 
 
