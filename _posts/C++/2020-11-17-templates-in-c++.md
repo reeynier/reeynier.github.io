@@ -11,9 +11,7 @@ excerpt: A `template` is a blueprint or formula for creating a generic class or 
 
 <br />
 
-A `template` is a blueprint or formula for creating a generic class or a function. The library containers like iterators and algorithms are examples of generic programming and have been developed using template concept.
-
-There is a single definition of each container, such as vector, but we can define many different kinds of vectors for example, ``vector<int>`` or ``vector<string>``.
+In C++, templates are the foundation for generic programming. A `template` is a blueprint or formula for creating a generic class or a function. For example, the standard library defines a single class template that defines what it means to be a vector. That template is used to generate any number of type-specific vector class, for example, vector\<int\> or vector\<string\>.
 
 
 

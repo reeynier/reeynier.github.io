@@ -2,7 +2,7 @@
 layout: post
 title:  "Explicit Type Conversions in C++"
 categories: [ C++ Concepts ]
-tags: [ C++, Type Conversion ]
+tags: [ C++, Type Conversion, Cast ]
 similar: [ C++ Basic ]
 featured: false
 hidden: false
