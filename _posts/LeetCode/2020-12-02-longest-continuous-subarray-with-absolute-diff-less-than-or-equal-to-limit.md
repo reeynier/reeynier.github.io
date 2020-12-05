@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Longest Continuous Subarray With Absolute Diff Less Than or Equal To Limit Problem"
+title:  "Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit Problem"
 categories: [ Algorithm ]
 tags: [ Sliding Window, Queue, Leetcode ]
 similar: [ Sliding Window ]
