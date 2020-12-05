@@ -1,0 +1,26 @@
+---
+title: "Topics"
+layout: default
+permalink: "/topics.html"
+---
+
+<div class="row listrecent">
+{% for category in site.categories reversed %}
+	{% if category[0] == "List" %}
+	{% assign pages_list = category[1] %}
+
+	{% for post in pages_list %}
+
+		{% if post.title != null %}
+			{% if group == null or group == post.group %}
+				{% include listbox.html %}
+			{% endif %}
+		{% endif %}
+
+	{% endfor %}
+
+	{% assign pages_list = nil %}
+	{% assign group = nil %}
+	{% endif %}
+{% endfor %}
+</div>
