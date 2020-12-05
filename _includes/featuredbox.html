@@ -32,23 +32,25 @@
                             </h2>
 
                             <h4 class="card-text">{{ post.excerpt | markdownify | strip_html |  truncatewords:20 }}</h4>
-<!--
+
+
                             <div class="tags">
                                 {% if page.title != 'Categories' %}
                                     {% for cat in post.categories %}
-                                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ cat }}</a>
+                                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ cat | replace: " ","-" }}">{{ cat }}</a>
                                     {% endfor %}
                                 {% endif %}
 
                                 {% assign count = 0 %}
                                 {% for tag in post.tags %}
-                                    {% if count < 2 %}
+                                    {% if count < 1 %}
                                     <a class="btn follow" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
                                     {% assign count = count | plus: 1 %}
                                     {% endif %}
                                 {% endfor %}
+
                             </div>
--->
+
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
