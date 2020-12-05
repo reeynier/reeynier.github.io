@@ -2,7 +2,7 @@
 layout: post
 title:  "Operating System Topic List"
 categories: [ List ]
-tags: [ LeetCode ]
+tags: [ Operating System ]
 similar: [ List ]
 featured: false
 hidden: false
