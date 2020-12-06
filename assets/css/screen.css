@@ -525,10 +525,12 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
-    /*border-color: rgba(0, 0, 0, .44);*/
-    /*color: rgba(0, 0, 0, .44);*/
+    border-color: #6e93d6;
+    color: #6e93d6;
+    /*border-color: #02B875;
+    color: #1C9963;*/
+    /*border-color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .44);*/
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;

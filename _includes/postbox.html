@@ -31,14 +31,16 @@
             <div class="tags">
                 {% if page.title != 'Categories' %}
                     {% for cat in post.categories %}
-                        <a class="btn follow" href="{{site.baseurl}}/categories#{{ cat | replace: " ","-" }}">{{ cat }}</a>
+                        <a class="btn follow" href="#">{{ cat }}</a>
+                        <!--<a class="btn follow" href="{{site.baseurl}}/categories#{{ cat | replace: " ","-" }}">{{ cat }}</a>-->
                     {% endfor %}
                 {% endif %}
 
                 {% assign count = 0 %}
                 {% for tag in post.tags %}
                     {% if count < 2 %}
-                    <a class="btn follow" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+                    <a class="btn follow" href="#">{{ tag }}</a>
+                    <!--<a class="btn follow" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>-->
                     {% assign count = count | plus: 1 %}
                     {% endif %}
                 {% endfor %}
