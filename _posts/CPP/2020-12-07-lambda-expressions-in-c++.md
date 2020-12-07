@@ -11,7 +11,7 @@ excerpt: A lambda expression is a convenient way of defining an anonymous functi
 
 <br />
 
-This post and the examples are from the [Microsoft C++ Documentation](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-160){:target="_blank"}. 
+This post and the examples are adapted from the [Microsoft C++ Documentation](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-160){:target="_blank"}. 
 
 
 
