@@ -1,4 +1,14 @@
 <div class="share sticky-top sticky-top-offset">
+
+    <p>
+        Topics
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a href="{{ site.posturl }}/topics.html"><i class="fab fa-book-open"></i></a>
+        </li>
+    </ul>
+    <div class="sep"></div>
     <p>
         Share
     </p>
@@ -23,8 +33,7 @@
 
     </ul>
 <!--    {% if page.comments != false %} -->
-    <div class="sep">
-    </div>
+    <div class="sep"></div>
 
     {% if site.adsense == "enabled" %}
         {% include adsense.html data-ad-slot=site.adsense-under-share-slot%}
