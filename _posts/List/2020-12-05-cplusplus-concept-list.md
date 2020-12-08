@@ -34,6 +34,11 @@ No. | | Post Title | | Post Link
 14 | | Lambda Expressions in C++ | | [Link]({% post_url CPP/2020-12-07-lambda-expressions-in-c++ %})
 15 | | References in C++ | | [Link]({% post_url CPP/2020-12-07-references-in-c++ %})
 16 | | Lvalue References in C++ | | [Link]({% post_url CPP/2020-12-07-lvalue-references-in-c++ %})
+17 | | Value Categories in C++ | | [Link]({% post_url CPP/2020-12-07-value-categories-in-c++ %})
+18 | | Rvalue References in C++: Move Semantics | | [Link]({% post_url CPP/2020-12-07-rvalue-references-in-c++-move-semantics %})
+19 | | Rvalue References in C++: Perfect Forwarding | | [Link]({% post_url CPP/2020-12-07-rvalue-references-in-c++-perfect-forwarding %})
+
+
 
 <br />
 

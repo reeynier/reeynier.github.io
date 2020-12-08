@@ -3,7 +3,7 @@ layout: post
 title:  "Lvalue References in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Reference, Lvalue Reference, Rvalue Reference ]
-similar: [ C++ Basic ]
+similar: [ C++ Reference ]
 featured: false
 hidden: false
 excerpt: An `lvalue reference` is another name of an object. An lvalue reference declaration consists of an optional list of specifiers followed by a reference declarator.

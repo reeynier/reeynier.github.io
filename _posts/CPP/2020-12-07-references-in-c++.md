@@ -3,7 +3,7 @@ layout: post
 title:  "References in C++"
 categories: [ C++ Concepts ]
 tags: [ C++, Reference, Lvalue Reference, Rvalue Reference ]
-similar: [ C++ Basic ]
+similar: [ C++ Reference ]
 featured: false
 hidden: false
 excerpt: A reference is an alias of another object. It stores the address of an object that is located elsewhere in memory.
