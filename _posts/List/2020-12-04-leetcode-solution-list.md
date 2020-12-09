@@ -105,6 +105,16 @@ No. | | Problem | | Difficulty | | Solution
 
 <br />
 
+#### Hash Table Problems
+
+No. | | Problem | | Difficulty | | Solution
+--- | --- | --- | --- | --- | --- | --- 
+1224 | | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/){:target="_blank"} | | `Hard` | | [Solution Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
+
+
+
+<br />
+
 
 
 
