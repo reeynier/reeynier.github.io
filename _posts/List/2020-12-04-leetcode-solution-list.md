@@ -122,6 +122,7 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
+1303 | | [Find The Team Size](https://leetcode.com/problems/find-the-team-size/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
 1571 | | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
