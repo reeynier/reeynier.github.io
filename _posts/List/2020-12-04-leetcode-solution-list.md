@@ -122,8 +122,8 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
+1350 | | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1683 | | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
-
 
 <br />
 

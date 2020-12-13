@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maximum Equal Frequency"
+title:  "Maximum Equal Frequency Problem"
 categories: [ Data Structure ]
 tags: [ Hash Table, Leetcode ]
 similar: [ Hash Table ]
