@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Combine Two Tables"
+title:  "Combine Two Tables Problem"
 categories: [ Database ]
 tags: [ Database, Leetcode ]
 similar: [ Database ]

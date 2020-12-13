@@ -122,7 +122,7 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
-
+1683 | | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 
 
 <br />
