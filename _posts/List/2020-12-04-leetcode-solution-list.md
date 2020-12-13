@@ -105,7 +105,7 @@ No. | | Problem | | Difficulty | | Solution
 
 <br />
 
-#### Hash Table Problems
+#### Hash Table Related Problems
 
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
@@ -117,7 +117,15 @@ No. | | Problem | | Difficulty | | Solution
 
 
 
+#### Database Related Problems
 
+No. | | Problem | | Difficulty | | Solution
+--- | --- | --- | --- | --- | --- | --- 
+175 | | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/){:target="_blank"} | | `Easy` | | [Solution Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
+
+
+
+<br />
 
 
 
