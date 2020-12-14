@@ -12,7 +12,9 @@ excerpt: A growing list of LeetCode problems and solutions.
 
 <br />
 
+This is a growing list of LeetCode problems and solutions. All the problems are classified by categories. 
 
+<br />
 
 #### Two Sum Related Problems
 
