@@ -12,7 +12,7 @@ excerpt: A growing list of LeetCode problems and solutions.
 
 <br />
 
-This is a growing list of LeetCode problems and solutions. All the problems are classified by categories. 
+This is a growing list of LeetCode problems and solutions. All problems and solutions are listed under different categories. 
 
 <br />
 
