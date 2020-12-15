@@ -28,6 +28,7 @@ No. | | Problem | | Difficulty | |Solution
 523 | | Continuous Subarray Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-continuous-subarray-sum %})
 560 | | Subarray Sum Equals K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-sum-equals-k %})
 713 | | Subarray Product Less Than K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-product-less-than-k %})
+974 | | Subarray Sum Divisible By K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-subarray-sum-divisible-by-k %})
 1099 | | Two Sum Less Than K | | `Easy` | | [Link]({% post_url LeetCode/2020-11-11-two-sum-less-than-k %})
 
 
