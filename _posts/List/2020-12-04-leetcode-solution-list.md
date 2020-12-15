@@ -129,6 +129,7 @@ No. | | Problem | | Difficulty | | Solution
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
+1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 
 <br />
