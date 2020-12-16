@@ -49,7 +49,7 @@ First, when a process is created, the OS must find space for its address space i
 
 Second, when a process is terminated, the OS reclaims all of the process' memory and cleans up associated data structures. 
 
-Thrid, when a context switch occurs, the OS must *save and restore* the base-and-bounds pair when it switches between processes. Specifically, when the OS decides to stop running a process, it must save the values of the base and bounds registers to memory (such as process control block). When the OS resumes a running process, it must set the values of the base and bounds to the correct values for this process.
+Third, when a context switch occurs, the OS must *save and restore* the base-and-bounds pair when it switches between processes. Specifically, when the OS decides to stop running a process, it must save the values of the base and bounds registers to memory (such as process control block). When the OS resumes a running process, it must set the values of the base and bounds to the correct values for this process.
 
 Fourth, the OS must provide exception handlers. If a process tries to access memory outside its bounds, the CPU will raise an exception; the OS must be prepared to take action when such an exception arises (e.g. terminate the process).
 

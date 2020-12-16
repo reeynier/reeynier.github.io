@@ -77,7 +77,7 @@ Segmentation raises a number of new issues for the operating system.
 
 First, what should the OS do on a context switch? The segment registers must be saved and restored.
 
-Second, when the segments grow, the OS need to provide more space and update the segment size register to the new (bigger) size.
+Second, when the segments grow, the OS needs to provide more space and update the segment size register to the new (bigger) size.
 
 Third, as each segment might be a different size, the physical memory will quickly become full of little holes of free space, making it difficult to allocate new segments, or to grow existing ones. This problem is called `external fragmentation`. One solution to this problem would be to compact physical memory by rearranging the existing segments. 
 

@@ -56,6 +56,6 @@ Both the hardware and the software (OS) can handle the TLB miss. For the archite
 
 #### TLB Issue: Context Switch
 
-With TLBs, some new issues arise when switching between processes. Specifically, the TLB contains virtual-to-physical translations that are only valid for the currently running process. THese translations are not meaningful for other processes. Thus, when switching from one process to another, the hardware and the OS must ensure that the running process will not use translations from previously running processes.
+With TLBs, some new issues arise when switching between processes. Specifically, the TLB contains virtual-to-physical translations that are only valid for the currently running process. These translations are not meaningful for other processes. Thus, when switching from one process to another, the hardware and the OS must ensure that the running process will not use translations from previously running processes.
 
 One approach for this problem is to simply `flush` the TLB on context switches. This can be accomplished with a privileged hardware instruction. However, the cost of this approach can be high as each time a process runs, it must incur TLB misses. To reduce this overhead, some systems add hardware support to enable sharing of the TLB across context switches. This is achieved by an `address space identifier (ASID)` field in the TLB. The ASID field is to differentiate between processes, so the TLB can hold translations from different processes at the same time without any confusion.

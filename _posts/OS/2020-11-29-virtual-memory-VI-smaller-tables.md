@@ -13,7 +13,7 @@ excerpt: How can we make page tables smaller.
 
 This post is adapted from Professor Remzi H. Arpaci-Dusseau and  Professor Andrea C. Arpaci-Dusseau's [OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/){:target="_blank"} book, Chapter 20.
 
-## Faster Translation
+## Smaller Tables
 
 
 Besides performance, [paging]({% post_url OS/2020-11-28-virtual-memory-IV-paging %}) also introduces another problem: page tables are too big and thus consume too much memory. And we usually have one page table for every process in the system. So the question is how can we make page tables smaller?
