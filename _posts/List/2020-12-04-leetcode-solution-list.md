@@ -125,6 +125,7 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | Combine Two Tables | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
+176 | | Second Highest Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-second-highest-salary %})
 181 | | Employees Earning More Than Their Managers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-employees-earning-more-than-their-managers %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
