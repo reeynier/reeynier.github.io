@@ -132,6 +132,7 @@ No. | | Problem | | Difficulty | | Solution
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
+1587 | | Bank Account Summary II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-bank-account-summary-II %})
 1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 
