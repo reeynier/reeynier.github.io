@@ -2,7 +2,7 @@
 layout: post
 title:  "All Valid Triplets That Can Represent A Country Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -114,7 +114,7 @@ Let us see all the possible triplets.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

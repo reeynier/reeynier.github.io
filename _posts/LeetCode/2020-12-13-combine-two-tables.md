@@ -2,7 +2,7 @@
 layout: post
 title:  "Combine Two Tables Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -51,7 +51,7 @@ FirstName, LastName, City, State
 
 <br />
 
-## Solution
+## MySQL Solution
 
 We can join the two tables to get the address information of a person. Considering there might not be an address information for every person, we should use outer join instead of the default inner join.
 

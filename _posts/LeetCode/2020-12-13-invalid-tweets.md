@@ -2,7 +2,7 @@
 layout: post
 title:  "Invalid Tweets Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -56,7 +56,7 @@ Tweet 2 has length = 32. It is an invalid tweet.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

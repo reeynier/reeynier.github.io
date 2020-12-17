@@ -2,7 +2,7 @@
 layout: post
 title:  "Employees Earning More Than Their Managers Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -39,7 +39,7 @@ Given the Employee table, write a SQL query that finds out employees who earn mo
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

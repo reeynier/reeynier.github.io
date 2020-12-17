@@ -2,7 +2,7 @@
 layout: post
 title:  "Bank Account Summary II Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -88,7 +88,7 @@ Charlie's balance is (6000 + 6000 - 4000) = 8000.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

@@ -2,7 +2,7 @@
 layout: post
 title:  "Find The Team Size Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -64,7 +64,7 @@ Employees with Id 5,6 are part of a team with team_id = 9.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

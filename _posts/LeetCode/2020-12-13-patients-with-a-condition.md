@@ -2,7 +2,7 @@
 layout: post
 title:  "Patients With A Condition Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -61,7 +61,7 @@ Bob and George both have a condition that starts with DIAB1.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

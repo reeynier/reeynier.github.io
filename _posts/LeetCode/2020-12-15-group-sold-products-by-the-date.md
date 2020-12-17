@@ -2,7 +2,7 @@
 layout: post
 title:  "Group Sold Products By The Date Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -65,7 +65,7 @@ For 2020-06-02, Sold item is (Mask), we just return it.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

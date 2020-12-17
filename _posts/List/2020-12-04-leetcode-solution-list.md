@@ -136,6 +136,7 @@ No. | | Problem | | Difficulty | | Solution
 1587 | | Bank Account Summary II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-bank-account-summary-II %})
 1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1661 | | Average Time Of Process Per Machine | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-average-time-of-process-per-machine %})
+1667 | | Fix Names In A Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-fix-names-in-a-table %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 
 

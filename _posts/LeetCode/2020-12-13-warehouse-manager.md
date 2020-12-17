@@ -2,7 +2,7 @@
 layout: post
 title:  "Warehouse Manager Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -98,7 +98,7 @@ LCHouse3: 1 unit of LC-T-Shirt.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

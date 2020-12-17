@@ -2,7 +2,7 @@
 layout: post
 title:  "Students With Invalid Departments Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -89,7 +89,7 @@ John, Daiana, Steve and Jasmine are enrolled in departments 14, 33, 74 and 77 re
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql

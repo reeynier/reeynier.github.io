@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Highest Salary Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -39,7 +39,7 @@ For example, given the above Employee table, the query should return 200 as the 
 
 <br />
 
-## Solution
+## MySQL Solution
 
 We can sort the distinct salary in descending order. Then we can utilize the **limit** clause to get the second highest salary. This is the inner select clause.
 

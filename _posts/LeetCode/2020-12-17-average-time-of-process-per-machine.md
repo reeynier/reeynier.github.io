@@ -2,7 +2,7 @@
 layout: post
 title:  "Average Time Of Process Per Machine Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -81,7 +81,7 @@ Machine 2's average time is ((4.512 - 4.100) + (5.000 - 2.500)) / 2 = 1.456
 
 <br />
 
-## Solution
+## MySQL Solution
 
 We can use **group by** statement to put the rows with the same *machine_id* together. Then we can use the **sum** function to add up the process time for each machine. To calculate the process time, we need to use the end timestamp to minus the start timestamp. To achieve this calculation, we can use an **if** statement to turn all the start timestamp to be a negative value. Then we can simply use the **sum** function to add up all the process time togeter. Next, to calculate the average process time, we also need to count how many process there are for each machine. We can use the **count distinct** function to do it. Finally, we use the **round** function to round the result to 3 decimal places.
 

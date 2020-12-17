@@ -2,7 +2,7 @@
 layout: post
 title:  "Replace Employee ID With The Unique Identifier Problem"
 categories: [ Database ]
-tags: [ SQL, Leetcode ]
+tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -87,7 +87,7 @@ The unique ID of Jonathan is 1.
 
 <br />
 
-## Solution
+## MySQL Solution
 
 
 ```sql
