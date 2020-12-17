@@ -2,7 +2,7 @@
 layout: post
 title:  "All Valid Triplets That Can Represent A Country Problem"
 categories: [ Database ]
-tags: [ Database, Leetcode ]
+tags: [ SQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false

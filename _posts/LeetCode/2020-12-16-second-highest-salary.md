@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Highest Salary Problem"
 categories: [ Database ]
-tags: [ Database, Leetcode ]
+tags: [ SQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
@@ -47,10 +47,8 @@ However, we need to consider the case when there is only one record in the table
 
 ```sql
 select
-    (select distinct
-            Salary
-        from
-            Employee
+    (select distinct Salary
+        from Employee
         order by Salary desc
         limit 1 offset 1) 
 as SecondHighestSalary;

@@ -2,7 +2,7 @@
 layout: post
 title:  "Combine Two Tables Problem"
 categories: [ Database ]
-tags: [ Database, Leetcode ]
+tags: [ SQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false

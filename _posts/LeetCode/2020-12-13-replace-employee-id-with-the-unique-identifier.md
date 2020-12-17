@@ -2,7 +2,7 @@
 layout: post
 title:  "Replace Employee ID With The Unique Identifier Problem"
 categories: [ Database ]
-tags: [ Database, Leetcode ]
+tags: [ SQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false

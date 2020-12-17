@@ -2,7 +2,7 @@
 layout: post
 title:  "Invalid Tweets Problem"
 categories: [ Database ]
-tags: [ Database, Leetcode ]
+tags: [ SQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
