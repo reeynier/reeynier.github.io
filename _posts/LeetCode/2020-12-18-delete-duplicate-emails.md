@@ -47,5 +47,5 @@ For example, after running your query, the above Person table should have the fo
 ```sql
 delete p1 
 from Person p1, Person p2
-where p1.Email = p2.Email AND p1.Id > p2.Id
+where p1.Email = p2.Email and p1.Id > p2.Id
 ```

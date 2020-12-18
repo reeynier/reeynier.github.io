@@ -132,6 +132,7 @@ No. | | Problem | | Difficulty | | Solution
 183 | | Customers Who Never Order | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-customers-who-never-order %})
 196 | | Delete Duplicate Emails | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-delete-duplicate-emails %})
 197 | | Rising Temperature | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-rising-temperature %})
+511 | | Game Play Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-I %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
