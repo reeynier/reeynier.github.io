@@ -144,6 +144,7 @@ No. | | Problem | | Difficulty | | Solution
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
 1587 | | Bank Account Summary II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-bank-account-summary-II %})
+1607 | | Sellers With No Sales | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-sellers-with-no-sales %})
 1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1633 | | Percentage Of Users Attended A Contest | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-percentage-of-users-attended-a-contest %})
 1661 | | Average Time Of Process Per Machine | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-average-time-of-process-per-machine %})
