@@ -136,6 +136,7 @@ No. | | Problem | | Difficulty | | Solution
 512 | | Game Play Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-II %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
+577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
@@ -149,7 +150,7 @@ No. | | Problem | | Difficulty | | Solution
 1667 | | Fix Names In A Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-fix-names-in-a-table %})
 1677 | | Product's Worth Over Invoices | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-products-worth-over-invoices %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
-
+1693 | | Daily Leads And Partners | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-daily-leads-and-partners %})
 
 <br />
 
