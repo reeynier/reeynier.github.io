@@ -142,6 +142,7 @@ No. | | Problem | | Difficulty | | Solution
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
+1565 | | Unique Orders And Customers Per Month | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-unique-orders-and-customers-per-month %})
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
 1581 | | Customers Who Visited But Did Not Make Any Transactions | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-customer-who-visited-but-did-not-make-any-transactions %})
 1587 | | Bank Account Summary II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-bank-account-summary-II %})
