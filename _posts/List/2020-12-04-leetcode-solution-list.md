@@ -139,6 +139,7 @@ No. | | Problem | | Difficulty | | Solution
 577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
 595 | | Big Countries | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-big-countries %})
 613 | | Shortest Distance In A Line | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-shortest-distance-in-a-line %})
+627 | | Swap Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-swap-salary %})
 1068 | | Product Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-I %})
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
 1173 | | Immediate Food Delivery I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-immediate-food-delivery-I %})
