@@ -142,6 +142,7 @@ No. | | Problem | | Difficulty | | Solution
 627 | | Swap Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-swap-salary %})
 1068 | | Product Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-I %})
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
+1148 | | Article Views I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-article-views-I %})
 1173 | | Immediate Food Delivery I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-immediate-food-delivery-I %})
 1179 | | Reformat Department Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-reformat-department-table %})
 1251 | | Average Selling Price | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-average-selling-price %})
