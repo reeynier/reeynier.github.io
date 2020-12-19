@@ -139,6 +139,7 @@ No. | | Problem | | Difficulty | | Solution
 577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
 1068 | | Product Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-I %})
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
+1251 | | Average Selling Price | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-average-selling-price %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
