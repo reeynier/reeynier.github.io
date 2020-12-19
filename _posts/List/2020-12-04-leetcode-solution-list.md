@@ -140,6 +140,7 @@ No. | | Problem | | Difficulty | | Solution
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
+1407 | | Top Travellers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-top-travellers %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
 1565 | | Unique Orders And Customers Per Month | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-unique-orders-and-customers-per-month %})
