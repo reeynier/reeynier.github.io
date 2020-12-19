@@ -137,6 +137,7 @@ No. | | Problem | | Difficulty | | Solution
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
 577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
+586 | | Customer Placing The Largest Number Of Orders | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-placing-the-largest-number-of-orders %})
 595 | | Big Countries | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-big-countries %})
 613 | | Shortest Distance In A Line | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-shortest-distance-in-a-line %})
 627 | | Swap Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-swap-salary %})
