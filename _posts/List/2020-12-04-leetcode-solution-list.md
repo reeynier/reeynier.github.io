@@ -142,6 +142,7 @@ No. | | Problem | | Difficulty | | Solution
 595 | | Big Countries | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-big-countries %})
 613 | | Shortest Distance In A Line | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-shortest-distance-in-a-line %})
 627 | | Swap Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-swap-salary %})
+1050 | | Actors And Directors Who Cooperated At Least Three Times | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-actors-and-directors-who-cooperated-at-least-three-times %})
 1068 | | Product Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-I %})
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
 1082 | | Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-sales-analysis-I %})
