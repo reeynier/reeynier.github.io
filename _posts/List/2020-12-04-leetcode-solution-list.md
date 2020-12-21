@@ -140,6 +140,7 @@ No. | | Problem | | Difficulty | | Solution
 584 | | Find Customer Referee | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-find-customer-referee %})
 586 | | Customer Placing The Largest Number Of Orders | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-placing-the-largest-number-of-orders %})
 595 | | Big Countries | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-big-countries %})
+603 | | Consecutive Available Seats | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-consecutive-available-seats %})
 610 | | Triangle Judgement | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-triangle-judgement %})
 613 | | Shortest Distance In A Line | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-shortest-distance-in-a-line %})
 620 | | Not Boring Movies | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-not-boring-movies %})
