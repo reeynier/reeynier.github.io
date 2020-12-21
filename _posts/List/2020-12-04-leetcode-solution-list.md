@@ -156,6 +156,7 @@ No. | | Problem | | Difficulty | | Solution
 1241 | | Number Of Comments Per Post | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-number-of-comments-per-post %})
 1251 | | Average Selling Price | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-average-selling-price %})
 1280 | | Students And Examinations | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-students-and-examinations %})
+1294 | | Weather Type In Each Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-weather-type-in-each-country %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1327 | | List The Products Ordered In A Period | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-list-the-products-ordered-in-a-period %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
