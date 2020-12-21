@@ -152,6 +152,7 @@ No. | | Problem | | Difficulty | | Solution
 1075 | | Project Employees I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-project-employees-I %})
 1082 | | Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-sales-analysis-I %})
 1113 | | Reported Posts | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-reported-posts %})
+1141 | | User Activity For The Past 30 Days I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-user-activity-for-the-past-30-days-I %})
 1148 | | Article Views I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-article-views-I %})
 1173 | | Immediate Food Delivery I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-immediate-food-delivery-I %})
 1179 | | Reformat Department Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-reformat-department-table %})
