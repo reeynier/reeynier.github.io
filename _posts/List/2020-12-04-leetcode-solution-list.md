@@ -151,6 +151,7 @@ No. | | Problem | | Difficulty | | Solution
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
 1075 | | Project Employees I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-project-employees-I %})
 1082 | | Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-sales-analysis-I %})
+1083 | | Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-II %})
 1084 | | Sales Analysis III | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-III %})
 1113 | | Reported Posts | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-reported-posts %})
 1141 | | User Activity For The Past 30 Days I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-user-activity-for-the-past-30-days-I %})
