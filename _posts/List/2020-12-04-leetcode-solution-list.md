@@ -161,6 +161,7 @@ No. | | Problem | | Difficulty | | Solution
 1280 | | Students And Examinations | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-students-and-examinations %})
 1294 | | Weather Type In Each Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-weather-type-in-each-country %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
+1322 | | Ads Performance | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-ads-performance %})
 1327 | | List The Products Ordered In A Period | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-list-the-products-ordered-in-a-period %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
