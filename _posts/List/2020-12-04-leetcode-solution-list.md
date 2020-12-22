@@ -179,6 +179,7 @@ No. | | Problem | | Difficulty | | Solution
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1398 | | Customers Who Bought Products A And B But Not C | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-customers-who-bought-products-a-and-b-but-not-c %})
 1407 | | Top Travellers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-top-travellers %})
+1421 | | NPV Queries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-npv-queries %})
 1435 | | Create A Session Bar Chart | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-create-a-session-bar-chart %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
