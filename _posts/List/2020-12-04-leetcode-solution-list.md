@@ -175,6 +175,7 @@ No. | | Problem | | Difficulty | | Solution
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
 1407 | | Top Travellers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-top-travellers %})
 1435 | | Create A Session Bar Chart | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-create-a-session-bar-chart %})
+1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
 1495 | | Friendly Movies Streamed Last Month | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-friendly-movies-streamed-last-month %})
 1511 | | Customer Order Frequency | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-order-frequency %})
