@@ -103,6 +103,7 @@ No. | | Problem | | Difficulty | | Solution
 1270 | | All People Report To The Given Manager | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-all-people-report-to-the-given-manager %})
 1285 | | Find The Start And End Number Of Continuous Ranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-find-the-start-and-end-number-of-continuous-ranges %})
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
+1364 | | Number Of Trusted Contacts Of A Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-number-of-trusted-contacts-of-a-customer %})
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1398 | | Customers Who Bought Products A And B But Not C | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-customers-who-bought-products-a-and-b-but-not-c %})
 1421 | | NPV Queries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-npv-queries %})

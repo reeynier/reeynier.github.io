@@ -175,6 +175,7 @@ No. | | Problem | | Difficulty | | Solution
 1322 | | Ads Performance | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-ads-performance %})
 1327 | | List The Products Ordered In A Period | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-list-the-products-ordered-in-a-period %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
+1364 | | Number Of Trusted Contacts Of A Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-number-of-trusted-contacts-of-a-customer %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1398 | | Customers Who Bought Products A And B But Not C | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-customers-who-bought-products-a-and-b-but-not-c %})
