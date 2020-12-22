@@ -105,6 +105,7 @@ No. | | Problem | | Difficulty | | Solution
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
+1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})
 
 <br />
 

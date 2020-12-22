@@ -190,6 +190,7 @@ No. | | Problem | | Difficulty | | Solution
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
 1581 | | Customers Who Visited But Did Not Make Any Transactions | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-customer-who-visited-but-did-not-make-any-transactions %})
 1587 | | Bank Account Summary II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-bank-account-summary-II %})
+1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})
 1607 | | Sellers With No Sales | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-sellers-with-no-sales %})
 1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1633 | | Percentage Of Users Attended A Contest | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-percentage-of-users-attended-a-contest %})
