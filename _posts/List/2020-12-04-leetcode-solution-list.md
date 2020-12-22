@@ -173,6 +173,7 @@ No. | | Problem | | Difficulty | | Solution
 1327 | | List The Products Ordered In A Period | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-list-the-products-ordered-in-a-period %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1378 | | Replace Employee ID With The Unique Identifier | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-replace-employee-id-with-the-unique-identifier %})
+1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1407 | | Top Travellers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-top-travellers %})
 1435 | | Create A Session Bar Chart | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-create-a-session-bar-chart %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
