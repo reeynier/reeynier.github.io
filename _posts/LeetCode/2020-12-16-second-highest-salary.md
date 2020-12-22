@@ -43,7 +43,7 @@ For example, given the above Employee table, the query should return 200 as the 
 
 We can sort the distinct salary in descending order. Then we can utilize the **limit** clause to get the second highest salary. This is the inner select clause.
 
-However, we need to consider the case when there is only one record in the table. The outer select cause is to take the select result as a table to avoid this issue.
+However, we need to consider the case when there is only one record in the table. The outer select clause is to take the select result as a table to avoid this issue.
 
 ```sql
 select
