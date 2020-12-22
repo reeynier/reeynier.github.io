@@ -101,6 +101,7 @@ No. | | Problem | | Difficulty | | Solution
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
 1270 | | All People Report To The Given Manager | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-all-people-report-to-the-given-manager %})
+1285 | | Find The Start And End Number Of Continuous Ranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-find-the-start-and-end-number-of-continuous-ranges %})
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})

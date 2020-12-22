@@ -168,6 +168,7 @@ No. | | Problem | | Difficulty | | Solution
 1251 | | Average Selling Price | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-average-selling-price %})
 1270 | | All People Report To The Given Manager | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-all-people-report-to-the-given-manager %})
 1280 | | Students And Examinations | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-students-and-examinations %})
+1285 | | Find The Start And End Number Of Continuous Ranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-find-the-start-and-end-number-of-continuous-ranges %})
 1294 | | Weather Type In Each Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-weather-type-in-each-country %})
 1303 | | Find The Team Size | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-find-the-team-size %})
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
