@@ -192,6 +192,7 @@ No. | | Problem | | Difficulty | | Solution
 1511 | | Customer Order Frequency | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-order-frequency %})
 1517 | | Find Users With Valid Emails | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-find-users-with-valid-emails %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
+1532 | | The Most Recent Three Orders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-the-most-recent-three-orders %})
 1543 | | Fix Product Name Format | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-fix-product-name-format %})
 1565 | | Unique Orders And Customers Per Month | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-unique-orders-and-customers-per-month %})
 1571 | | Warehouse Manager | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-warehouse-manager %})
