@@ -158,6 +158,7 @@ No. | | Problem | | Difficulty | | Solution
 1082 | | Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-sales-analysis-I %})
 1083 | | Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-II %})
 1084 | | Sales Analysis III | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-III %})
+1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1113 | | Reported Posts | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-reported-posts %})
 1141 | | User Activity For The Past 30 Days I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-user-activity-for-the-past-30-days-I %})
 1142 | | User Activity For The Past 30 Days II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-user-activity-for-the-past-30-days-II %})
