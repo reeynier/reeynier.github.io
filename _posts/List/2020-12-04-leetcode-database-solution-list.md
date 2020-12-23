@@ -108,6 +108,7 @@ No. | | Problem | | Difficulty | | Solution
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
 1398 | | Customers Who Bought Products A And B But Not C | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-customers-who-bought-products-a-and-b-but-not-c %})
 1421 | | NPV Queries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-npv-queries %})
+1440 | | Evaluate Boolean Expression | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-evaluate-boolean-expression %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
 1468 | | Calculate Salaries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-calculate-salaries %})
 1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})
