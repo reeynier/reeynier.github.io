@@ -100,11 +100,16 @@ No. | | Problem | | Difficulty | | Solution
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
+570 | | Managers With At Least 5 Direct Reports | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-managers-with-at-least-5-direct-reports %})
 608 | | Tree Node | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-tree-node %})
+612 | | Shortest Distance In A Plane | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-shortest-distance-in-a-plane %})
+626 | | Exchange Seats | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-exchange-seats %})
 1045 | | Customers Who Bought All Products | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-customers-who-bought-all-products %})
 1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
+1158 | | Market Analysis I | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-market-analysis-I %})
+1164 | | Product Price At A Given Date | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-product-price-at-a-given-date %})
 1193 | | Monthly Transactions I | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-monthly-transactions-I %})
 1204 | | Last Person To Fit In The Elevator | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-last-person-to-fit-in-the-elevator %})
 1264 | | Page Recommendations | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-page-recommendations %})
@@ -119,9 +124,13 @@ No. | | Problem | | Difficulty | | Solution
 1421 | | NPV Queries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-npv-queries %})
 1440 | | Evaluate Boolean Expression | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-evaluate-boolean-expression %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
+1459 | | Rectangles Area | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-rectangles-area %})
 1468 | | Calculate Salaries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-calculate-salaries %})
 1532 | | The Most Recent Three Orders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-the-most-recent-three-orders %})
+1549 | | The Most Recent Orders For Each Product | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-the-most-recent-orders-for-each-product %})
 1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})
+1613 | | Find The Missing IDs | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-find-the-missing-ids %})
+
 
 <br />
 
