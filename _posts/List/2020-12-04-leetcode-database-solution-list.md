@@ -100,6 +100,7 @@ No. | | Problem | | Difficulty | | Solution
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
+1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})
 1270 | | All People Report To The Given Manager | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-all-people-report-to-the-given-manager %})
 1285 | | Find The Start And End Number Of Continuous Ranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-find-the-start-and-end-number-of-continuous-ranges %})
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
