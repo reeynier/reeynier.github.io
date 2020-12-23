@@ -164,6 +164,7 @@ No. | | Problem | | Difficulty | | Solution
 1148 | | Article Views I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-article-views-I %})
 1173 | | Immediate Food Delivery I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-immediate-food-delivery-I %})
 1179 | | Reformat Department Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-reformat-department-table %})
+1204 | | Last Person To Fit In The Elevator | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-last-person-to-fit-in-the-elevator %})
 1211 | | Queries Quality And Percentage | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-queries-quality-and-percentage %})
 1241 | | Number Of Comments Per Post | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-number-of-comments-per-post %})
 1251 | | Average Selling Price | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-average-selling-price %})
