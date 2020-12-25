@@ -127,6 +127,7 @@ No. | | Problem | | Difficulty | | Solution
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
 1459 | | Rectangles Area | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-rectangles-area %})
 1468 | | Calculate Salaries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-calculate-salaries %})
+1501 | | Countries You Can Safely Invest In | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-countries-you-can-safely-invest-in %})
 1532 | | The Most Recent Three Orders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-the-most-recent-three-orders %})
 1549 | | The Most Recent Orders For Each Product | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-the-most-recent-orders-for-each-product %})
 1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})

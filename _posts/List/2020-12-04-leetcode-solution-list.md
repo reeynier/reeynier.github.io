@@ -204,6 +204,7 @@ No. | | Problem | | Difficulty | | Solution
 1468 | | Calculate Salaries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-calculate-salaries %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
 1495 | | Friendly Movies Streamed Last Month | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-friendly-movies-streamed-last-month %})
+1501 | | Countries You Can Safely Invest In | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-countries-you-can-safely-invest-in %})
 1511 | | Customer Order Frequency | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-order-frequency %})
 1517 | | Find Users With Valid Emails | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-find-users-with-valid-emails %})
 1527 | | Patients With A Condition | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-patients-with-a-condition %})
