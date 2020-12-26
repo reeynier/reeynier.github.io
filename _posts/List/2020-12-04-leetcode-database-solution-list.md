@@ -102,6 +102,7 @@ No. | | Problem | | Difficulty | | Solution
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
 570 | | Managers With At Least 5 Direct Reports | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-managers-with-at-least-5-direct-reports %})
 574 | | Winning Candidate | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-winning-candidate %})
+580 | | Count Student Number In Departments | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-count-student-number-in-departments %})
 585 | | Investments In 2016 | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-investments-in-2016 %})
 602 | | Friend Requests II: Who Has The Most Friends | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-friend-requests-II-who-has-the-most-friends %})
 608 | | Tree Node | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-tree-node %})

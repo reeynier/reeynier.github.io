@@ -139,6 +139,7 @@ No. | | Problem | | Difficulty | | Solution
 570 | | Managers With At Least 5 Direct Reports | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-managers-with-at-least-5-direct-reports %})
 574 | | Winning Candidate | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-winning-candidate %})
 577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
+580 | | Count Student Number In Departments | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-count-student-number-in-departments %})
 584 | | Find Customer Referee | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-find-customer-referee %})
 585 | | Investments In 2016 | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-investments-in-2016 %})
 586 | | Customer Placing The Largest Number Of Orders | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-customer-placing-the-largest-number-of-orders %})
