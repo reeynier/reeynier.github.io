@@ -117,6 +117,7 @@ No. | | Problem | | Difficulty | | Solution
 1070 | | Product Sales Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-product-sales-analysis-III %})
 1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})
 1098 | | Unpopular Books | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-unpopular-books %})
+1107 | | New Users Daily Count | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-new-users-daily-count %})
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
 1132 | | Reported Posts II | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-reported-posts-II %})

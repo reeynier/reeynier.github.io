@@ -174,6 +174,7 @@ No. | | Problem | | Difficulty | | Solution
 1083 | | Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-II %})
 1084 | | Sales Analysis III | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-analysis-III %})
 1098 | | Unpopular Books | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-unpopular-books %})
+1107 | | New Users Daily Count | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-new-users-daily-count %})
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1113 | | Reported Posts | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-reported-posts %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
