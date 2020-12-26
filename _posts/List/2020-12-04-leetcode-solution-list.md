@@ -237,6 +237,7 @@ No. | | Problem | | Difficulty | | Solution
 1677 | | Product's Worth Over Invoices | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-products-worth-over-invoices %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 1693 | | Daily Leads And Partners | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-daily-leads-and-partners %})
+1699 | | Number Of Calls Between Two Persons | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-number-of-calls-between-two-persons %})
 
 <br />
 
