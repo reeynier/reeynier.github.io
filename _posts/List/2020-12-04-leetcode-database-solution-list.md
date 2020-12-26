@@ -101,6 +101,7 @@ No. | | Problem | | Difficulty | | Solution
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
 570 | | Managers With At Least 5 Direct Reports | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-managers-with-at-least-5-direct-reports %})
+574 | | Winning Candidate | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-winning-candidate %})
 585 | | Investments In 2016 | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-investments-in-2016 %})
 602 | | Friend Requests II: Who Has The Most Friends | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-friend-requests-II-who-has-the-most-friends %})
 608 | | Tree Node | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-tree-node %})
@@ -134,6 +135,7 @@ No. | | Problem | | Difficulty | | Solution
 1501 | | Countries You Can Safely Invest In | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-countries-you-can-safely-invest-in %})
 1532 | | The Most Recent Three Orders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-the-most-recent-three-orders %})
 1549 | | The Most Recent Orders For Each Product | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-the-most-recent-orders-for-each-product %})
+1555 | | Bank Account Summary | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-bank-account-summary %})
 1596 | | The Most Frequently Ordered Products For Each Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-the-most-frequently-ordered-products-for-each-customer %})
 1613 | | Find The Missing IDs | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-find-the-missing-ids %})
 
