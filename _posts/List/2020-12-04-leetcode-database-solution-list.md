@@ -108,6 +108,7 @@ No. | | Problem | | Difficulty | | Solution
 602 | | Friend Requests II: Who Has The Most Friends | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-friend-requests-II-who-has-the-most-friends %})
 608 | | Tree Node | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-tree-node %})
 612 | | Shortest Distance In A Plane | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-shortest-distance-in-a-plane %})
+614 | | Second Degree Follower | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-second-degree-follower %})
 626 | | Exchange Seats | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-exchange-seats %})
 1045 | | Customers Who Bought All Products | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-customers-who-bought-all-products %})
 1070 | | Product Sales Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-product-sales-analysis-III %})

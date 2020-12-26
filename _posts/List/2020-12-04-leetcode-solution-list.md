@@ -154,6 +154,7 @@ No. | | Problem | | Difficulty | | Solution
 610 | | Triangle Judgement | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-triangle-judgement %})
 612 | | Shortest Distance In A Plane | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-shortest-distance-in-a-plane %})
 613 | | Shortest Distance In A Line | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-shortest-distance-in-a-line %})
+614 | | Second Degree Follower | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-second-degree-follower %})
 619 | | Biggest Single Number | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-biggest-single-number %})
 620 | | Not Boring Movies | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-not-boring-movies %})
 626 | | Exchange Seats | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-exchange-seats %})
