@@ -116,6 +116,7 @@ No. | | Problem | | Difficulty | | Solution
 1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
+1132 | | Reported Posts II | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-reported-posts-II %})
 1158 | | Market Analysis I | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-market-analysis-I %})
 1164 | | Product Price At A Given Date | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-product-price-at-a-given-date %})
 1174 | | Immediate Food Delivery II | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-immediate-food-delivery-II %})

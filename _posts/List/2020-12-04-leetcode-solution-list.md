@@ -174,6 +174,7 @@ No. | | Problem | | Difficulty | | Solution
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1113 | | Reported Posts | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-reported-posts %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
+1132 | | Reported Posts II | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-reported-posts-II %})
 1141 | | User Activity For The Past 30 Days I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-user-activity-for-the-past-30-days-I %})
 1142 | | User Activity For The Past 30 Days II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-user-activity-for-the-past-30-days-II %})
 1148 | | Article Views I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-article-views-I %})
