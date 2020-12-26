@@ -97,6 +97,7 @@ No. | | Problem | | Difficulty | | Solution
 
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
+177 | | Nth Highest Salary | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-nth-highest-salary %})
 178 | | Rank Scores | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-rank-scores %})
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})

@@ -126,6 +126,7 @@ No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | Combine Two Tables | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
 176 | | Second Highest Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-second-highest-salary %})
+177 | | Nth Highest Salary | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-nth-highest-salary %})
 178 | | Rank Scores | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-rank-scores %})
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 181 | | Employees Earning More Than Their Managers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-employees-earning-more-than-their-managers %})
