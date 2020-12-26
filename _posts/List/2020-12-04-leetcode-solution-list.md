@@ -211,6 +211,7 @@ No. | | Problem | | Difficulty | | Solution
 1435 | | Create A Session Bar Chart | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-create-a-session-bar-chart %})
 1440 | | Evaluate Boolean Expression | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-evaluate-boolean-expression %})
 1445 | | Apples & Oranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-apples-and-oranges %})
+1454 | | Active Users | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-active-users %})
 1459 | | Rectangles Area | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-rectangles-area %})
 1468 | | Calculate Salaries | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-calculate-salaries %})
 1484 | | Group Sold Products By The Date | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-group-sold-products-by-the-date %})
