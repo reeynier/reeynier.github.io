@@ -118,6 +118,7 @@ No. | | Problem | | Difficulty | | Solution
 1285 | | Find The Start And End Number Of Continuous Ranges | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-find-the-start-and-end-number-of-continuous-ranges %})
 1308 | | Running Total For Different Genders | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-running-total-for-different-genders %})
 1321 | | Restaurant Growth | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-restaurant-growth %})
+1341 | | Movie Rating | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-movie-rating %})
 1355 | | Activity Participants | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-activity-participants %})
 1364 | | Number Of Trusted Contacts Of A Customer | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-number-of-trusted-contacts-of-a-customer %})
 1393 | | Capital Gain/Loss | | `Medium` | | [Link]({% post_url LeetCode/2020-12-21-capital-gainloss %})
