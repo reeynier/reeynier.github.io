@@ -126,6 +126,7 @@ No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 175 | | Combine Two Tables | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-combine-two-tables %})
 176 | | Second Highest Salary | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-second-highest-salary %})
+178 | | Rank Scores | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-rank-scores %})
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 181 | | Employees Earning More Than Their Managers | | `Easy` | | [Link]({% post_url LeetCode/2020-12-16-employees-earning-more-than-their-managers %})
 182 | | Duplicate Emails | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-duplicate-emails %})
@@ -161,6 +162,7 @@ No. | | Problem | | Difficulty | | Solution
 1050 | | Actors And Directors Who Cooperated At Least Three Times | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-actors-and-directors-who-cooperated-at-least-three-times %})
 1068 | | Product Sales Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-I %})
 1069 | | Product Sales Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-product-sales-analysis-II %})
+1070 | | Product Sales Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-product-sales-analysis-III %})
 1075 | | Project Employees I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-project-employees-I %})
 1076 | | Project Employees II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-project-employees-II %})
 1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})

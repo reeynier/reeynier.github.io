@@ -97,6 +97,7 @@ No. | | Problem | | Difficulty | | Solution
 
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
+178 | | Rank Scores | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-rank-scores %})
 180 | | Consecutive Numbers | | `Medium` | | [Link]({% post_url LeetCode/2020-12-17-consecutive-numbers %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
@@ -109,6 +110,7 @@ No. | | Problem | | Difficulty | | Solution
 612 | | Shortest Distance In A Plane | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-shortest-distance-in-a-plane %})
 626 | | Exchange Seats | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-exchange-seats %})
 1045 | | Customers Who Bought All Products | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-customers-who-bought-all-products %})
+1070 | | Product Sales Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-product-sales-analysis-III %})
 1077 | | Project Employees III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-project-employees-III %})
 1112 | | Highest Grade For Each Student | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-highest-grade-for-each-student %})
 1126 | | Active Business | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-active-business %})
