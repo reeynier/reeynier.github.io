@@ -4,7 +4,7 @@ title:  "LeetCode Database Solution List"
 categories: [ List ]
 tags: [ LeetCode ]
 similar: [ List ]
-featured: false
+featured: true
 hidden: false
 image: assets/images/leetcodedatabasesolutionlist.png
 excerpt: A growing list of LeetCode database problems and solutions.
