@@ -164,6 +164,7 @@ No. | | Problem | | Difficulty | | Solution
 571 | | Find Median Given Frequency Of Numbers | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-median-given-frequency-of-numbers %})
 579 | | Find Cumulative Salary Of An Employee | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-cumulative-salary-of-an-employee %})
 601 | | Human Traffic Of Stadium | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-human-traffic-of-stadium %})
+1336 | | Number Of Transactions Per Visit | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-number-of-transactions-per-visit %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 
 

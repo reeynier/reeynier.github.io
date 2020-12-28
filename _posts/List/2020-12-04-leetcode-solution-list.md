@@ -210,6 +210,7 @@ No. | | Problem | | Difficulty | | Solution
 1321 | | Restaurant Growth | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-restaurant-growth %})
 1322 | | Ads Performance | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-ads-performance %})
 1327 | | List The Products Ordered In A Period | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-list-the-products-ordered-in-a-period %})
+1336 | | Number Of Transactions Per Visit | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-number-of-transactions-per-visit %})
 1341 | | Movie Rating | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-movie-rating %})
 1350 | | Students With Invalid Departments | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-students-with-invalid-departments %})
 1355 | | Activity Participants | | `Medium` | | [Link]({% post_url LeetCode/2020-12-22-activity-participants %})
