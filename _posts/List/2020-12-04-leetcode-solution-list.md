@@ -242,6 +242,7 @@ No. | | Problem | | Difficulty | | Solution
 1613 | | Find The Missing IDs | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-find-the-missing-ids %})
 1623 | | All Valid Triplets That Can Represent A Country | | `Easy` | | [Link]({% post_url LeetCode/2020-12-15-all-valid-triplets-that-can-represent-a-country %})
 1633 | | Percentage Of Users Attended A Contest | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-percentage-of-users-attended-a-contest %})
+1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 1661 | | Average Time Of Process Per Machine | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-average-time-of-process-per-machine %})
 1667 | | Fix Names In A Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-fix-names-in-a-table %})
 1677 | | Product's Worth Over Invoices | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-products-worth-over-invoices %})
