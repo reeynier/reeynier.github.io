@@ -165,7 +165,10 @@ No. | | Problem | | Difficulty | | Solution
 579 | | Find Cumulative Salary Of An Employee | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-cumulative-salary-of-an-employee %})
 601 | | Human Traffic Of Stadium | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-human-traffic-of-stadium %})
 615 | | Average Salary: Departments VS Company | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-average-salary-departments-vs-company %})
+1097 | | Game Play Analysis V | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-game-play-analysis-V %})
 1127 | | User Purchase Platform | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-user-purchase-platform %})
+1159 | | Market Analysis II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-market-analysis-II %})
+1194 | | Tournament Winners | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-tournament-winners %})
 1336 | | Number Of Transactions Per Visit | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-number-of-transactions-per-visit %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 
