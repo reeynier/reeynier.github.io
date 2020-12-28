@@ -142,6 +142,7 @@ No. | | Problem | | Difficulty | | Solution
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})
 550 | | Game Play Analysis IV | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-IV %})
 570 | | Managers With At Least 5 Direct Reports | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-managers-with-at-least-5-direct-reports %})
+571 | | Find Median Given Frequency Of Numbers | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-median-given-frequency-of-numbers %})
 574 | | Winning Candidate | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-winning-candidate %})
 577 | | Employee Bonus | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-employee-bonus %})
 578 | | Get Highest Answer Rate Question | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-get-highest-answer-rate-question %})
