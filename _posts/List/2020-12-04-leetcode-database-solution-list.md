@@ -161,6 +161,7 @@ No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 185 | | Department Top Three Salaries | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-department-top-three-salaries %})
 262 | | Trips And Users | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-trips-and-users %})
+569 | | Median Employee Salary | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-median-employee-salary %})
 571 | | Find Median Given Frequency Of Numbers | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-median-given-frequency-of-numbers %})
 579 | | Find Cumulative Salary Of An Employee | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-cumulative-salary-of-an-employee %})
 601 | | Human Traffic Of Stadium | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-human-traffic-of-stadium %})
@@ -170,6 +171,7 @@ No. | | Problem | | Difficulty | | Solution
 1127 | | User Purchase Platform | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-user-purchase-platform %})
 1159 | | Market Analysis II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-market-analysis-II %})
 1194 | | Tournament Winners | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-tournament-winners %})
+1225 | | Report Contiguous Dates | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-report-contiguous-dates %})
 1336 | | Number Of Transactions Per Visit | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-number-of-transactions-per-visit %})
 1635 | | Hopper Company Queries I | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-hopper-company-queries-I %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
