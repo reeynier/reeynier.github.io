@@ -135,6 +135,7 @@ No. | | Problem | | Difficulty | | Solution
 184 | | Department Highest Salary | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-department-highest-salary %})
 196 | | Delete Duplicate Emails | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-delete-duplicate-emails %})
 197 | | Rising Temperature | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-rising-temperature %})
+262 | | Trips And Users | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-trips-and-users %})
 511 | | Game Play Analysis I | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-I %})
 512 | | Game Play Analysis II | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-II %})
 534 | | Game Play Analysis III | | `Medium` | | [Link]({% post_url LeetCode/2020-12-18-game-play-analysis-III %})

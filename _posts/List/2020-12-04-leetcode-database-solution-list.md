@@ -155,5 +155,13 @@ No. | | Problem | | Difficulty | | Solution
 
 <br />
 
+#### Hard Problems
 
+No. | | Problem | | Difficulty | | Solution
+--- | --- | --- | --- | --- | --- | --- 
+262 | | Trips And Users | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-trips-and-users %})
+
+
+
+<br />
 
