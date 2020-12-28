@@ -162,6 +162,7 @@ No. | | Problem | | Difficulty | | Solution
 185 | | Department Top Three Salaries | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-department-top-three-salaries %})
 262 | | Trips And Users | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-trips-and-users %})
 579 | | Find Cumulative Salary Of An Employee | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-find-cumulative-salary-of-an-employee %})
+601 | | Human Traffic Of Stadium | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-human-traffic-of-stadium %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 
 

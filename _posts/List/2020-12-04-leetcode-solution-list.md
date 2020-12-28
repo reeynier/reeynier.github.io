@@ -153,6 +153,7 @@ No. | | Problem | | Difficulty | | Solution
 595 | | Big Countries | | `Easy` | | [Link]({% post_url LeetCode/2020-12-19-big-countries %})
 596 | | Classes More Than 5 Students | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-classes-more-than-5-students %})
 597 | | Friend Requests I: Overall Acceptance Rate | | `Easy` | | [Link]({% post_url LeetCode/2020-12-21-friend-requests-I-overall-acceptance-rate %})
+601 | | Human Traffic Of Stadium | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-human-traffic-of-stadium %})
 602 | | Friend Requests II: Who Has The Most Friends | | `Medium` | | [Link]({% post_url LeetCode/2020-12-25-friend-requests-II-who-has-the-most-friends %})
 603 | | Consecutive Available Seats | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-consecutive-available-seats %})
 607 | | Sales Person | | `Easy` | | [Link]({% post_url LeetCode/2020-12-20-sales-person %})
