@@ -173,6 +173,8 @@ No. | | Problem | | Difficulty | | Solution
 1194 | | Tournament Winners | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-tournament-winners %})
 1225 | | Report Contiguous Dates | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-report-contiguous-dates %})
 1336 | | Number Of Transactions Per Visit | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-number-of-transactions-per-visit %})
+1384 | | Total Sales Amount By Year | | `Hard` | | [Link]({% post_url LeetCode/2020-12-29-total-sales-amount-by-year %})
+1412 | | Find The Quiet Students In All Exams | | `Hard` | | [Link]({% post_url LeetCode/2020-12-29-find-the-quiet-students-in-all-exams %})
 1635 | | Hopper Company Queries I | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-hopper-company-queries-I %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 
