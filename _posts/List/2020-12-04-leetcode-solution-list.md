@@ -257,6 +257,7 @@ No. | | Problem | | Difficulty | | Solution
 1633 | | Percentage Of Users Attended A Contest | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-percentage-of-users-attended-a-contest %})
 1635 | | Hopper Company Queries I | | `Hard` | | [Link]({% post_url LeetCode/2020-12-28-hopper-company-queries-I %})
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
+1651 | | Hopper Company Queries III | | `Hard` | | [Link]({% post_url LeetCode/2020-12-29-hopper-company-queries-III %})
 1661 | | Average Time Of Process Per Machine | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-average-time-of-process-per-machine %})
 1667 | | Fix Names In A Table | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-fix-names-in-a-table %})
 1677 | | Product's Worth Over Invoices | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-products-worth-over-invoices %})
