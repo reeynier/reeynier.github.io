@@ -3,7 +3,7 @@ layout: post
 title:  "User Activity For The Past 30 Days II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1142. Write an SQL query to find the average number of sessions per user for a period of 30 days ending 2019-07-27 inclusively, rounded to 2 decimal places.

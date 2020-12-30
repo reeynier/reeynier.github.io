@@ -3,7 +3,7 @@ layout: post
 title:  "Friend Requests II: Who Has The Most Friends Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
 excerpt: LeetCode 602. In social network like Facebook or Twitter, people send friend requests and accept others' requests as well.

@@ -3,7 +3,7 @@ layout: post
 title:  "Combine Two Tables Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
 excerpt: LeetCode 175. Write a SQL query for a report that provides the following information for each person in the Person table,

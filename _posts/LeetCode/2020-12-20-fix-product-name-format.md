@@ -3,7 +3,7 @@ layout: post
 title:  "Fix Product Name Format Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1543. Write an SQL query to report product_name in lowercase without leading or trailing white spaces.

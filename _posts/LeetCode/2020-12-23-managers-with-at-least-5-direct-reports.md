@@ -3,7 +3,7 @@ layout: post
 title:  "Managers With At Least 5 Direct Reports Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
 excerpt: LeetCode 570. Given the Employee table, write a SQL query that finds out managers with at least 5 direct report.

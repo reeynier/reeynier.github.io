@@ -3,7 +3,7 @@ layout: post
 title:  "Friend Requests I: Overall Acceptance Rate Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
 excerpt: LeetCode 597. Write an SQL query to find the overall acceptance rate of requests, which is the number of acceptance divided by the number of requests.

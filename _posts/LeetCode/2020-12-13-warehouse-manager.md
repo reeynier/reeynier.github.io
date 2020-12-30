@@ -3,7 +3,7 @@ layout: post
 title:  "Warehouse Manager Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1571. Write an SQL query to report how much cubic feet of volume does the inventory occupy in each warehouse.

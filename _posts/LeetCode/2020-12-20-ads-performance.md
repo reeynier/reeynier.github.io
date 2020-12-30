@@ -3,7 +3,7 @@ layout: post
 title:  "Ads Performance Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1322. A company is running Ads and wants to calculate the performance of each Ad.

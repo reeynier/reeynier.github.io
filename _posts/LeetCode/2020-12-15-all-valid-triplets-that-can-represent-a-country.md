@@ -3,7 +3,7 @@ layout: post
 title:  "All Valid Triplets That Can Represent A Country Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1623. Write an SQL query to find all the possible triplets representing the country under the given constraints.

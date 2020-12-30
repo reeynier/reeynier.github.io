@@ -3,7 +3,7 @@ layout: post
 title:  "Project Employees III Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1077. Write an SQL query that reports the most experienced employees in each project.

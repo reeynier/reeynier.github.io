@@ -3,7 +3,7 @@ layout: post
 title:  "Countries You Can Safely Invest In Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1501. Write an SQL query to find the countries where this company can invest.

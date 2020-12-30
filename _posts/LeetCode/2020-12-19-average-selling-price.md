@@ -3,7 +3,7 @@ layout: post
 title:  "Average Selling Price Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1251. Write an SQL query to find the average selling price for each product.

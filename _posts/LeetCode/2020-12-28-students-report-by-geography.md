@@ -3,7 +3,7 @@ layout: post
 title:  "Students Report By Geography Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
 excerpt: LeetCode 618. A U.S graduate school has students from Asia, Europe and America. 

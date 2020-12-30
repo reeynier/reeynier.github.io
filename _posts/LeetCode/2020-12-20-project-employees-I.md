@@ -3,7 +3,7 @@ layout: post
 title:  "Project Employees I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1075. Write an SQL query that reports the average experience years of all the employees for each project, rounded to 2 digits.

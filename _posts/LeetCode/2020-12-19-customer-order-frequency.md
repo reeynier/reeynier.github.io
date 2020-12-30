@@ -3,7 +3,7 @@ layout: post
 title:  "Customer Order Frequency Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1511. Write an SQL query to report the customer_id and customer_name of customers who have spent at least $100 in each month of June and July 2020.

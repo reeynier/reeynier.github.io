@@ -3,7 +3,7 @@ layout: post
 title:  "Bank Account Summary II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1587. Write an SQL query to report the name and balance of users with a balance higher than 10000. 

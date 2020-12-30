@@ -3,7 +3,7 @@ layout: post
 title:  "Not Boring Movies Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 620. X city opened a new cinema, many people would like to go to this cinema.

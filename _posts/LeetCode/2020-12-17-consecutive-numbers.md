@@ -3,7 +3,7 @@ layout: post
 title:  "Consecutive Numbers Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
 excerpt: LeetCode 180. Write an SQL query to find all numbers that appear at least three times consecutively.

@@ -3,7 +3,7 @@ layout: post
 title:  "Customer Placing The Largest Number Of Orders Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
 excerpt: LeetCode 586. Query the customer_number from the orders table for the customer who has placed the largest number of orders.

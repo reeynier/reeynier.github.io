@@ -3,7 +3,7 @@ layout: post
 title:  "Reformat Department Table Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1179. Write an SQL query to reformat the table such that there is a department id column and a revenue column for each month.

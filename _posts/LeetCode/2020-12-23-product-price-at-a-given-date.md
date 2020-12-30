@@ -3,7 +3,7 @@ layout: post
 title:  "Product Price At A Given Date Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1164. Write an SQL query to find the prices of all products on 2019-08-16.

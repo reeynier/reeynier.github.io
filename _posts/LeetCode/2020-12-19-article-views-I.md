@@ -3,7 +3,7 @@ layout: post
 title:  "Article Views I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1148. Write an SQL query to find all the authors that viewed at least one of their own articles, sorted in ascending order by their id.

@@ -3,7 +3,7 @@ layout: post
 title: Last Person To Fit In The Elevator Problem
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1204. Write an SQL query to find the person_name of the last person who will fit in the elevator without exceeding the weight limit.

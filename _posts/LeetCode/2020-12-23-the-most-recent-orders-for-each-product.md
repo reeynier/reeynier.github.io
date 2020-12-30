@@ -3,7 +3,7 @@ layout: post
 title:  "The Most Recent Orders For Each Product Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1549. Write an SQL query to find the most recent order(s) of each product.

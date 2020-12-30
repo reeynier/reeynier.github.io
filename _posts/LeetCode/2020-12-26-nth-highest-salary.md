@@ -3,7 +3,7 @@ layout: post
 title:  "Nth Highest Salary Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
 excerpt: LeetCode 177. Write a SQL query to get the nth highest salary from the Employee table.

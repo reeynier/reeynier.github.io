@@ -3,7 +3,7 @@ layout: post
 title:  "Consecutive Available Seats Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
 excerpt: LeetCode 603. Several friends at a cinema ticket office would like to reserve consecutive available seats.

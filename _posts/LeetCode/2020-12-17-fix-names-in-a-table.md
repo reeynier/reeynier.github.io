@@ -3,7 +3,7 @@ layout: post
 title:  "Fix Names In A Table Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1667. Write an SQL query to fix the names so that only the first character is uppercase and the rest are lowercase.

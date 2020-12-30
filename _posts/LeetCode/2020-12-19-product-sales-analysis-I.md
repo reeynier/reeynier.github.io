@@ -3,7 +3,7 @@ layout: post
 title:  "Product Sales Analysis I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1068. Write an SQL query that reports all product names of the products in the Sales table along with their selling year and price.

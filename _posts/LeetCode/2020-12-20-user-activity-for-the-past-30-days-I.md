@@ -3,7 +3,7 @@ layout: post
 title:  "User Activity For The Past 30 Days I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1141. Write an SQL query to find the daily active user count for a period of 30 days ending 2019-07-27 inclusively.

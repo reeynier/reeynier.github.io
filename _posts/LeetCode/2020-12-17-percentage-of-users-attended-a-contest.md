@@ -3,7 +3,7 @@ layout: post
 title:  "Percentage Of Users Attended A Contest Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1633. Write an SQL query to find the percentage of the users registered in each contest rounded to two decimals.

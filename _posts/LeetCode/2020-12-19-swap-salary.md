@@ -3,7 +3,7 @@ layout: post
 title:  "Swap Salary Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 627. Given a table salary, such as the one below, that has m=male and f=female values.

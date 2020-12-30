@@ -3,7 +3,7 @@ layout: post
 title:  "Customer Who Visited But Did Not Make Any Transactions Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1581. Write an SQL query to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.

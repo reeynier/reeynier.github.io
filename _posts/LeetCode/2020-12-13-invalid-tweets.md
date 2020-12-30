@@ -3,7 +3,7 @@ layout: post
 title:  "Invalid Tweets Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1683. Write an SQL query to find the IDs of the invalid tweets.

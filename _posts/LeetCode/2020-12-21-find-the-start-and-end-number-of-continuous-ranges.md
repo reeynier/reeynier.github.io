@@ -3,7 +3,7 @@ layout: post
 title:  "Find The Start And End Number Of Continuous Ranges Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1285. Write an SQL query to find the start and end number of continuous ranges in table Logs.

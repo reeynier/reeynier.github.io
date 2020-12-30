@@ -3,7 +3,7 @@ layout: post
 title:  "User Purchase Platform Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup11 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1127. Write an SQL query to find the total number of users and the total amount spent using mobile only, desktop only and both mobile and desktop together for each date.

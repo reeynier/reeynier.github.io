@@ -3,7 +3,7 @@ layout: post
 title:  "Get The Second Most Recent Activity Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1369. Write an SQL query to show the second most recent activity of each user.

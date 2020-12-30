@@ -3,7 +3,7 @@ layout: post
 title:  "Hopper Company Queries II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1645. Write an SQL query to report the percentage of working drivers (working_percentage) for each month of 2020.

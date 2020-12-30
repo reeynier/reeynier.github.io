@@ -3,7 +3,7 @@ layout: post
 title:  "Hopper Company Queries III Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1651. Write an SQL query to compute the average_ride_distance and average_ride_duration of every 3-month window starting from January - March 2020 to October - December 2020.

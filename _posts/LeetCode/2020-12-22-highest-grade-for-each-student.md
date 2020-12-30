@@ -3,7 +3,7 @@ layout: post
 title:  "Highest Grade For Each Student Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup11 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1112. Write a SQL query to find the highest grade with its corresponding course for each student. 

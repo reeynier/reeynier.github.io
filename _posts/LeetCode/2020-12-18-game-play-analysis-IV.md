@@ -3,7 +3,7 @@ layout: post
 title:  "Game Play Analysis IV Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
 excerpt: LeetCode 550. Write an SQL query that reports the fraction of players that logged in again on the day after the day they first logged in, rounded to 2 decimal places.

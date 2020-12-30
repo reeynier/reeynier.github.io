@@ -3,7 +3,7 @@ layout: post
 title:  "Unpopular Books Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup10 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1098. Write an SQL query that reports the books that have sold less than 10 copies in the last year, excluding books that have been available for less than 1 month from today.

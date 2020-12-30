@@ -3,7 +3,7 @@ layout: post
 title:  "Evaluate Boolean Expression Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1440. Write an SQL query to evaluate the boolean expressions in Expressions table.

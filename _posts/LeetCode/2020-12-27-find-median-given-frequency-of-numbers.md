@@ -3,7 +3,7 @@ layout: post
 title:  "Find Median Given Frequency Of Numbers Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
 excerpt: LeetCode 571. Write a query to find the median of all numbers and name the result as median.

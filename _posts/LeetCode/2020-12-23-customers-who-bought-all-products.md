@@ -3,7 +3,7 @@ layout: post
 title:  "Customers Who Bought All Products Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1045. Write an SQL query for a report that provides the customer ids from the Customer table that bought all the products in the Product table.

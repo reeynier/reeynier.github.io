@@ -3,7 +3,7 @@ layout: post
 title:  "Students With Invalid Departments Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1350. Write an SQL query to find the id and the name of all students who are enrolled in departments that no longer exists.

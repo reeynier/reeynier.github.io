@@ -3,7 +3,7 @@ layout: post
 title:  "Students And Examinations Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1280. Write an SQL query to find the number of times each student attended each exam.

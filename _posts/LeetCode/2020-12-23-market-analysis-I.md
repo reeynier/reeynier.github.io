@@ -3,7 +3,7 @@ layout: post
 title:  "Market Analysis I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1158. Write an SQL query to find for each user, the join date and the number of orders they made as a buyer in 2019.

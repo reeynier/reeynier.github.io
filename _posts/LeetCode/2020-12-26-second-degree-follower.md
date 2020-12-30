@@ -3,7 +3,7 @@ layout: post
 title:  "Second Degree Follower Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
 excerpt: LeetCode 614. Please write a sql query to get the amount of each follower’s follower if he/she has one.

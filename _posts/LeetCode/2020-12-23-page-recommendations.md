@@ -3,7 +3,7 @@ layout: post
 title:  "Page Recommendations Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1264. Write an SQL query to recommend pages to the user with user_id = 1 using the pages that your friends liked.

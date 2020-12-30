@@ -3,7 +3,7 @@ layout: post
 title:  "Department Top Three Salaries Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 185. Write a SQL query to find employees who earn the top three salaries in each of the department.

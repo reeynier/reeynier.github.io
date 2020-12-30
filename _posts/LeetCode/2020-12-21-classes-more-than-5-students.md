@@ -3,7 +3,7 @@ layout: post
 title:  "Classes More Than 5 Students Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
 excerpt: LeetCode 596. Please list out all classes which have more than or equal to 5 students.

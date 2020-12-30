@@ -3,7 +3,7 @@ layout: post
 title:  "Market Analysis II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1159. Write an SQL query to find for each user, whether the brand of the second item (by date) they sold is their favorite brand.

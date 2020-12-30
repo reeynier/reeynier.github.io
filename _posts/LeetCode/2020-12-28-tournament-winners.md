@@ -3,7 +3,7 @@ layout: post
 title:  "Tournament Winners Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1194. Write an SQL query to find the winner in each group.

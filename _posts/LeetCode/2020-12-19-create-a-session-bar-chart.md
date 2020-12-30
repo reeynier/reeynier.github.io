@@ -3,7 +3,7 @@ layout: post
 title:  "Create A Session Bar Chart Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1435. You want to know how long a user visits your application.

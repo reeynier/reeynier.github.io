@@ -3,7 +3,7 @@ layout: post
 title:  "Find Cumulative Salary Of An Employee Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
 excerpt: LeetCode 579. Write a SQL to get the cumulative sum of an employee's salary over a period of 3 months but exclude the most recent month.

@@ -3,7 +3,7 @@ layout: post
 title:  "Weather Type In Each Country Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1294. Write an SQL query to find the type of weather in each country for November 2019.

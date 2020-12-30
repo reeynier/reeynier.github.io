@@ -3,7 +3,7 @@ layout: post
 title:  "Game Play Analysis II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
 excerpt: LeetCode 512. Write a SQL query that reports the device that is first logged in for each player.

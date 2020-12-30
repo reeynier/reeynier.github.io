@@ -3,7 +3,7 @@ layout: post
 title:  "Find The Team Size Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1303. Write an SQL query to find the team size of each of the employees.

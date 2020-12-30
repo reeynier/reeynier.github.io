@@ -3,7 +3,7 @@ layout: post
 title:  "Group Sold Products By The Date Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1484. Write an SQL query to find for each date, the number of distinct products sold and their names.

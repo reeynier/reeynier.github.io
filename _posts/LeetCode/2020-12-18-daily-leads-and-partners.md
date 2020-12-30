@@ -3,7 +3,7 @@ layout: post
 title:  "Daily Leads And Partners Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1693. Write an SQL query that will, for each date_id and make_name, return the number of distinct lead_id's and distinct partner_id's.

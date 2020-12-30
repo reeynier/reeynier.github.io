@@ -3,7 +3,7 @@ layout: post
 title:  "Monthly Transactions II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1205. Write an SQL query to find for each month and country, the number of approved transactions and their total amount, the number of chargebacks and their total amount.

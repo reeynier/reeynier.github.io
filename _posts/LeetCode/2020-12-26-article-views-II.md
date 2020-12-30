@@ -3,7 +3,7 @@ layout: post
 title:  "Article Views II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1149. Write an SQL query to find all the people who viewed more than one article on the same date, sorted in ascending order by their id.

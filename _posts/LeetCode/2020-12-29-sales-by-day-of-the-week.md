@@ -3,7 +3,7 @@ layout: post
 title:  "Sales By Day Of The Week Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1479. Write an SQL query to report how many units in each category have been ordered on each day of the week.

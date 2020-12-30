@@ -3,7 +3,7 @@ layout: post
 title:  "All People Report To The Given Manager Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1270. Write an SQL query to find employee_id of all employees that directly or indirectly report their work to the head of the company.

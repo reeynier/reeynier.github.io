@@ -3,7 +3,7 @@ layout: post
 title:  "Queries Quality And Percentage Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1211. Write an SQL query to find each query_name, the quality and poor_query_percentage.

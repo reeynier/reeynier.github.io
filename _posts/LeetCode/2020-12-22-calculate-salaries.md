@@ -3,7 +3,7 @@ layout: post
 title:  "Calculate Salaries Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1468. Write an SQL query to find the salaries of the employees after applying taxes.

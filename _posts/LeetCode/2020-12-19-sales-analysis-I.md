@@ -3,7 +3,7 @@ layout: post
 title:  "Sales Analysis I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup10 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1082. Write an SQL query that reports the best seller by total sales price.

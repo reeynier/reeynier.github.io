@@ -3,7 +3,7 @@ layout: post
 title:  "NPV Queries Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1421. Write an SQL query to find the npv of all each query of queries table.

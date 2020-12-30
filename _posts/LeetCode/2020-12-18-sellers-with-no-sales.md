@@ -3,7 +3,7 @@ layout: post
 title:  "Sellers With No Sales Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1607. Write an SQL query to report the names of all sellers who did not make any sales in 2020.

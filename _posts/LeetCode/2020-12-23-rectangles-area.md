@@ -3,7 +3,7 @@ layout: post
 title:  "Rectangles Area Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1459. Write an SQL query to report of all possible rectangles which can be formed by any two points of the table. 

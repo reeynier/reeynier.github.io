@@ -3,7 +3,7 @@ layout: post
 title:  "Product Sales Analysis III Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1070. Write an SQL query that selects the product id, year, quantity, and price for the first year of every product sold.

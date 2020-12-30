@@ -3,7 +3,7 @@ layout: post
 title:  "Game Play Analysis III Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
 excerpt: LeetCode 534. Write an SQL query that reports for each player and date, how many games played so far by the player.

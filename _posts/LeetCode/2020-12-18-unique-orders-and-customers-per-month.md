@@ -3,7 +3,7 @@ layout: post
 title:  "Unique Orders And Customers Per Month Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1565. Write an SQL query to find the number of unique orders

@@ -3,7 +3,7 @@ layout: post
 title:  "Second Highest Salary Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
 excerpt: LeetCode 176. Given the Employee table, write a SQL query that finds out employees who earn more than their managers.

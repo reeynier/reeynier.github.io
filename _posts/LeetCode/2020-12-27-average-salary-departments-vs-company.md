@@ -3,7 +3,7 @@ layout: post
 title:  "Average Salary: Departments VS Company Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
 excerpt: LeetCode 615. Given two tables as below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company's average salary.

@@ -3,7 +3,7 @@ layout: post
 title:  "Delete Duplicate Emails Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 196. Write a SQL query to delete all duplicate email entries in a table named Person, keeping only unique emails based on its smallest Id.

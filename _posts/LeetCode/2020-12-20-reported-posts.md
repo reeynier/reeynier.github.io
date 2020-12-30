@@ -3,7 +3,7 @@ layout: post
 title:  "Reported Posts Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup11 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1113. Write an SQL query that reports the number of posts reported yesterday for each report reason.

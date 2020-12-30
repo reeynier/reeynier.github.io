@@ -3,7 +3,7 @@ layout: post
 title:  "Project Employees II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1076. Write an SQL query that reports all the projects that have the most employees.

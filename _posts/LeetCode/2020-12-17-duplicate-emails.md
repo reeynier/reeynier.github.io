@@ -3,7 +3,7 @@ layout: post
 title:  "Duplicate Emails Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 182. Write a SQL query to find all duplicate emails in a table named Person.

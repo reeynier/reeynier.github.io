@@ -3,7 +3,7 @@ layout: post
 title:  "Replace Employee ID With The Unique Identifier Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1378. Write an SQL query to show the unique ID of each user.

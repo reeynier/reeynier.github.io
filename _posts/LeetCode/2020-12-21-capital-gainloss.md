@@ -3,7 +3,7 @@ layout: post
 title:  "Capital Gain/Loss Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1393. Write an SQL query to report the Capital gain/loss for each stock.

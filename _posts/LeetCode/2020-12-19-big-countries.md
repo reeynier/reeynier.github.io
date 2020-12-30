@@ -3,7 +3,7 @@ layout: post
 title:  "Big Countries Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
 excerpt: LeetCode 595. Write a SQL solution to output big countries' name, population and area.

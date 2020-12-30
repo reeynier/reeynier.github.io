@@ -3,7 +3,7 @@ layout: post
 title:  "Rank Scores Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
 excerpt: LeetCode 178. Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking.

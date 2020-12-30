@@ -3,7 +3,7 @@ layout: post
 title:  "Number Of Comments Per Post Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1241. Write an SQL query to find number of comments per each post.

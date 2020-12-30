@@ -3,7 +3,7 @@ layout: post
 title:  "Actors And Directors Who Cooperated At Least Three Times Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1050. Write a SQL query for a report that provides the pairs (actor_id, director_id) where the actor have cooperated with the director at least 3 times.

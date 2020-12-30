@@ -3,7 +3,7 @@ layout: post
 title:  "Product's Worth Over Invoices Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1677. Write an SQL query that will, for all products, return each product name with total amount due, paid, canceled, and refunded across all invoices.

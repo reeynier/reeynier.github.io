@@ -3,7 +3,7 @@ layout: post
 title:  "Movie Rating Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1341. Write the following SQL query to find the name of the user who has rated the greatest number of movies.

@@ -3,7 +3,7 @@ layout: post
 title:  "Patients With A Condition Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1527. Write an SQL query to report the patient_id, patient_name all conditions of patients who have Type I Diabetes. 

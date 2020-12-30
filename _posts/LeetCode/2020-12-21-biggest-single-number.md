@@ -3,7 +3,7 @@ layout: post
 title:  "Biggest Single Number Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 619. Table my_numbers contains many numbers in column num including duplicated ones.

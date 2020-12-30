@@ -3,7 +3,7 @@ layout: post
 title:  "Report Contiguous Dates Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1225. Write an SQL query to generate a report of period_state for each continuous interval of days in the period from 2019-01-01 to 2019-12-31.

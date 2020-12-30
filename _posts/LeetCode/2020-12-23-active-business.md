@@ -3,7 +3,7 @@ layout: post
 title:  "Active Business Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup11 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1126. Write an SQL query to find all active businesses.

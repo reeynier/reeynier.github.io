@@ -3,7 +3,7 @@ layout: post
 title:  "Human Traffic Of Stadium Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
 excerpt: LeetCode 601. Write an SQL query to display the records with three or more rows with consecutive id's, and the number of people is greater than or equal to 100 for each.

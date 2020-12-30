@@ -3,7 +3,7 @@ layout: post
 title:  "Exchange Seats Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
 excerpt: LeetCode 626. Mary is a teacher in a middle school and she has a table seat storing students' names and their corresponding seat ids.

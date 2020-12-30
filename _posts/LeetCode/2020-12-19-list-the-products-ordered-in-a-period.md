@@ -3,7 +3,7 @@ layout: post
 title:  "List The Products Ordered In A Period Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1327. Write an SQL query to get the names of products with greater than or equal to 100 units ordered in February 2020 and their amount.

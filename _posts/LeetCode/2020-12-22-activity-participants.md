@@ -3,7 +3,7 @@ layout: post
 title:  "Activity Participants Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1355. Write an SQL query to find the names of all the activities with neither maximum, nor minimum number of participants.

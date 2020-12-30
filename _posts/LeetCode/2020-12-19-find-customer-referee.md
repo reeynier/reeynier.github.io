@@ -3,7 +3,7 @@ layout: post
 title:  "Find Customer Referee Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
 excerpt: LeetCode 584. Given a table customer holding customers information and the referee.

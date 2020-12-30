@@ -3,7 +3,7 @@ layout: post
 title:  "Triangle Judgement Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
 excerpt: LeetCode 610. A pupil Tim gets homework to identify whether three line segments could possibly form a triangle.

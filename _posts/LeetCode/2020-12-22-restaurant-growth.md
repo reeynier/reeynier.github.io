@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurant Growth Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1321. You are the restaurant owner and you want to analyze a possible expansion (there will be at least one customer every day).

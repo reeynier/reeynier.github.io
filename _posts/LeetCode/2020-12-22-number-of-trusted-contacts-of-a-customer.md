@@ -3,7 +3,7 @@ layout: post
 title:  "Number Of Trusted Contacts Of A Customer Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1364. Write an SQL query to find the following for each invoice_id.

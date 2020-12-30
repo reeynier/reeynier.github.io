@@ -3,7 +3,7 @@ layout: post
 title:  "Bank Account Summary Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1555. Our bank records all transactions in the table Transaction, we want to find out the current balance of all users and check wheter they have breached their credit limit (If their current credit is less than 0).

@@ -3,7 +3,7 @@ layout: post
 title:  "Sales Analysis II Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup10 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1083. Write an SQL query that reports the buyers who have bought S8 but not iPhone.

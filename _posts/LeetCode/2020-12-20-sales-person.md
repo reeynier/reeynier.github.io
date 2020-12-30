@@ -3,7 +3,7 @@ layout: post
 title:  "Sales Person Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
 excerpt: LeetCode 607. Given three tables, salesperson, company, orders.

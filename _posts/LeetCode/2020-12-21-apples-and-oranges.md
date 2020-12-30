@@ -3,7 +3,7 @@ layout: post
 title:  "Apples & Oranges Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1445. Write an SQL query to report the difference between number of apples and oranges sold each day.

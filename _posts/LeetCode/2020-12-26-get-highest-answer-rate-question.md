@@ -3,7 +3,7 @@ layout: post
 title:  "Get Highest Answer Rate Question Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
 excerpt: LeetCode 578. Write a sql query to identify the question which has the highest answer rate.

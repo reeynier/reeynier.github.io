@@ -3,7 +3,7 @@ layout: post
 title:  "Top Travellers Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1407. Write an SQL query to report the distance travelled by each user.

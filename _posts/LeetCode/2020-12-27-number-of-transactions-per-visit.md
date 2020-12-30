@@ -3,7 +3,7 @@ layout: post
 title:  "Number Of Transactions Per Visit Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1336. Write an SQL query to find how many users visited the bank and didn't do any transactions, how many visited the bank and did one transaction and so on.

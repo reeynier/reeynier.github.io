@@ -3,7 +3,7 @@ layout: post
 title:  "Average Time Of Process Per Machine Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1661. There is a factory website that has several machines each running the same number of processes.

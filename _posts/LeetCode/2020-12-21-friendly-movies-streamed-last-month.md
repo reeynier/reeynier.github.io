@@ -3,7 +3,7 @@ layout: post
 title:  "Friendly Movies Streamed Last Month Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1495. Write an SQL query to report the distinct titles of the kid-friendly movies streamed in June 2020.

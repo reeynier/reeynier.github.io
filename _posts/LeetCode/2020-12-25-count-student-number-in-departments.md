@@ -3,7 +3,7 @@ layout: post
 title:  "Count Student Number In Departments Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
 excerpt: LeetCode 580. A university uses 2 data tables, student and department, to store data about its students and the departments associated with each major.

@@ -3,7 +3,7 @@ layout: post
 title:  "Winning Candidate Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
 excerpt: LeetCode 574. Write a sql to find the name of the winning candidate, the above example will return the winner B.

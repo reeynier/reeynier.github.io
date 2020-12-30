@@ -3,7 +3,7 @@ layout: post
 title:  "Game Play Analysis I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
 excerpt: LeetCode 511. Write an SQL query that reports the first login date for each player.

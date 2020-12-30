@@ -3,7 +3,7 @@ layout: post
 title:  "Monthly Transactions I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1193. Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.

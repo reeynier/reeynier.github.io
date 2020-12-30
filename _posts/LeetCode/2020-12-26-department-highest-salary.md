@@ -3,7 +3,7 @@ layout: post
 title:  "Department Highest Salary Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 184. Write a SQL query to find employees who have the highest salary in each of the departments.

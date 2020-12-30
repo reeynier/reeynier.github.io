@@ -3,7 +3,7 @@ layout: post
 title:  "Active Users Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1454. Write an SQL query to find the id and the name of active users.

@@ -3,7 +3,7 @@ layout: post
 title:  "Immediate Food Delivery I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1173. Write an SQL query to find the percentage of immediate orders in the table, rounded to 2 decimal places.

@@ -3,7 +3,7 @@ layout: post
 title:  "Shortest Distance Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
 excerpt: LeetCode 613. Write a query to find the shortest distance between two points in these points.

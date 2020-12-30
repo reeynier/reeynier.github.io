@@ -3,7 +3,7 @@ layout: post
 title:  "Running Total For Different Genders Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1308. Write an SQL query to find the total score for each gender at each day.

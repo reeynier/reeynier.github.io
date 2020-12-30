@@ -3,7 +3,7 @@ layout: post
 title:  "Customers Who Never Order Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 183. Write a SQL query to find all customers who never order anything.

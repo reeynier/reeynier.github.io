@@ -3,7 +3,7 @@ layout: post
 title:  "Rising Temperature Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
 excerpt: LeetCode 197. Write an SQL query to find all dates' id with higher temperature compared to its previous dates (yesterday).

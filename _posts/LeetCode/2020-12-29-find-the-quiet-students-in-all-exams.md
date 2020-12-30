@@ -3,7 +3,7 @@ layout: post
 title:  "Find The Quiet Students In All Exams Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1412. Write an SQL query to report the students (student_id, student_name) being quiet in ALL exams.

@@ -3,7 +3,7 @@ layout: post
 title:  "Hopper Company Queries I Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1635. Write an SQL query to report the following statistics for each month of 2020.

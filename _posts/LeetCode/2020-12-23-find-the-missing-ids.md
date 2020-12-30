@@ -3,7 +3,7 @@ layout: post
 title:  "Find The Missing IDs Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
-similar: [ Database ]
+similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
 excerpt: LeetCode 1613. Write an SQL query to find the missing customer IDs.
