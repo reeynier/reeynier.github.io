@@ -7,12 +7,12 @@ similar: [ List ]
 featured: true
 hidden: false
 image: assets/images/leetcodedatabasesolutionlist.png
-excerpt: A growing list of LeetCode database problems and solutions.
+excerpt: A list of LeetCode database problems and solutions.
 ---
 
 <br />
 
-This is a growing list of LeetCode database problems and solutions. All problems and solutions are listed by difficulty levels. 
+This is a list of LeetCode database problems and solutions. All problems and solutions are listed by difficulty levels. 
 
 
 <br />
