@@ -35,7 +35,7 @@ It is also important to note that the **FROM** keyword is on a new line. MySQL d
 When evaluating the SELECT statement, MySQL evaluates the FROM clause first and then the SELECT clause.
 
 
-## Example
+## Examples
 
 #### Single Table SELECTs
 

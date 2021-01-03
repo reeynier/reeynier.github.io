@@ -18,8 +18,8 @@ excerpt: A growing list of MySQL tutorials.
 
 No. | | Post Title | | Post Link
 --- | --- | --- | --- | --- 
-1 | | MySQL SELECT Statement | | [Link]({% post_url MySQL/2020-12-30-mysql-select-statement %})
-
+1 | | MySQL `SELECT` Statement | | [Link]({% post_url MySQL/2020-12-30-mysql-select-statement %})
+2 | | MySQL `ORDER BY` Clause | | [Link]({% post_url MySQL/2021-01-02-mysql-order-by-clause %})
 
 
 
