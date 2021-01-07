@@ -30,7 +30,6 @@ The semicolon ; is the statement delimiter. It specifies the end of a statement.
 
 In the `SELECT` statement, the **SELECT** and **FROM** are keywords and written in capital letters. Basically, it is just about formatting. The uppercase letters make the keywords stand out. Since SQL is **not** a case-sensitive language, we can write the keywords in lowercase e.g., select and from, the code will still run.
 
-It is also important to note that the **FROM** keyword is on a new line. MySQL doesn’t require this. However, placing the **FROM** keyword on a new line will make the query easier to read and simpler to maintain.
 
 When evaluating the SELECT statement, MySQL evaluates the FROM clause first and then the SELECT clause.
 
