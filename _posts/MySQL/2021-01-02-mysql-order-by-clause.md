@@ -3,7 +3,7 @@ layout: post
 title:  "MySQL ORDER BY Clause"
 categories: [ MySQL ]
 tags: [ Database, Query, MySQL ]
-similar: [ MySQL ]
+similar: [ MySQL Data Manipulation ]
 featured: false
 hidden: false
 excerpt: The `ORDER BY` clause is used to sort the result-set in ascending or descending order.
@@ -72,7 +72,7 @@ mysql> SELECT artist_name FROM artist ORDER BY artist_name DESC;
 
 #### Sort By Multiple Columns
 
-Let’s sort the output from the track table by
+Let’s consider another example. We need to sort the output from a track table by
 ascending track length—that is, by the time column. Since it’s likely that two or more
 tracks have the same length, we’ll add a second sort key to resolve collisions and determine how such ties should be broken. In this case, when the track times are the same,
 we’ll sort the answers alphabetically by track_name. Here’s what we type:

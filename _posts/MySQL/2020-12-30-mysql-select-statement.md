@@ -3,7 +3,7 @@ layout: post
 title:  "MySQL SELECT Statement"
 categories: [ MySQL ]
 tags: [ Database, Query, MySQL ]
-similar: [ MySQL ]
+similar: [ MySQL Data Manipulation ]
 featured: false
 hidden: false
 excerpt: The `SELECT` statement allows us to read data from one or more tables.
