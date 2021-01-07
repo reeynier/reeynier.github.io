@@ -6,7 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
-excerpt: The `OR` operator combines two Boolean expressions and returns true when either condition is true.
+excerpt: The `BETWEEN` operator selects values within a given range.
 ---
 
 <br />
