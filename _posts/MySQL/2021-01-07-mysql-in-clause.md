@@ -42,7 +42,7 @@ mysql> SELECT producer_name FROM producer WHERE producer_name
 +---------------+
 ```
 
-For this particular example, we could also have used a `JOIN` query:
+For this particular example, we could also use a `JOIN` query:
 
 ```
 mysql> SELECT producer_name FROM producer INNER JOIN engineer
