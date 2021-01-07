@@ -26,6 +26,7 @@ No. | | Post Title | | Post Link
 6 | | MySQL `OR` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-or-operator %})
 7 | | MySQL `IN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-in-clause %})
 8 | | MySQL `BETWEEN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-between-operator %})
+9 | | MySQL `LIKE` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-like-operator %})
 
 
 <br />
