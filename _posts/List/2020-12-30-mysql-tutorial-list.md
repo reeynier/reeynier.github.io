@@ -14,20 +14,36 @@ excerpt: A growing list of MySQL tutorials.
 
 
 
-#### Data Manipulation
+#### Querying Data
 
 No. | | Post Title | | Post Link
 --- | --- | --- | --- | --- 
 1 | | MySQL `SELECT` Statement | | [Link]({% post_url MySQL/2020-12-30-mysql-select-statement %})
-2 | | MySQL `ORDER BY` Clause | | [Link]({% post_url MySQL/2021-01-02-mysql-order-by-clause %})
-3 | | MySQL `WHERE` Clause | | [Link]({% post_url MySQL/2021-01-06-mysql-where-clause %})
-4 | | MySQL `DISTINCT` Clause | | [Link]({% post_url MySQL/2021-01-06-mysql-distinct-clause %})
-5 | | MySQL `AND` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-and-operator %})
-6 | | MySQL `OR` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-or-operator %})
-7 | | MySQL `IN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-in-clause %})
-8 | | MySQL `BETWEEN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-between-operator %})
-9 | | MySQL `LIKE` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-like-operator %})
-10 | | MySQL `LIMIT` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-limit-clause %})
+
+<br />
+
+#### Sorting Data
+
+No. | | Post Title | | Post Link
+--- | --- | --- | --- | --- 
+1 | | MySQL `ORDER BY` Clause | | [Link]({% post_url MySQL/2021-01-02-mysql-order-by-clause %})
+
+<br />
+
+
+#### Filtering Data
+
+No. | | Post Title | | Post Link
+--- | --- | --- | --- | --- 
+1 | | MySQL `WHERE` Clause | | [Link]({% post_url MySQL/2021-01-06-mysql-where-clause %})
+2 | | MySQL `DISTINCT` Clause | | [Link]({% post_url MySQL/2021-01-06-mysql-distinct-clause %})
+3 | | MySQL `AND` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-and-operator %})
+4 | | MySQL `OR` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-or-operator %})
+5 | | MySQL `IN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-in-clause %})
+6 | | MySQL `BETWEEN` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-between-operator %})
+7 | | MySQL `LIKE` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-like-operator %})
+8 | | MySQL `LIMIT` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-limit-clause %})
+9 | | MySQL `IS NULL` Operator | | [Link]({% post_url MySQL/2021-01-07-mysql-is-null-operator %})
 
 <br />
 
