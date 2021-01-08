@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1661. There is a factory website that has several machines each running the same number of processes.
 ---
 

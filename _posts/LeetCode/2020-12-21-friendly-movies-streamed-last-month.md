@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1495. Write an SQL query to report the distinct titles of the kid-friendly movies streamed in June 2020.
 
 ---

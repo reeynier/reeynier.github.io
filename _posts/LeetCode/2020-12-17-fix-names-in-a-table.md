@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1667. Write an SQL query to fix the names so that only the first character is uppercase and the rest are lowercase.
 ---
 

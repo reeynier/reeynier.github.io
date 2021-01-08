@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1623. Write an SQL query to find all the possible triplets representing the country under the given constraints.
 ---
 

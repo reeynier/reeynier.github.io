@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1435. You want to know how long a user visits your application.
 
 ---

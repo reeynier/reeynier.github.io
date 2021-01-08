@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1581. Write an SQL query to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.
 
 ---

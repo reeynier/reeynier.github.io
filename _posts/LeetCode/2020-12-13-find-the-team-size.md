@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1303. Write an SQL query to find the team size of each of the employees.
 ---
 

@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup20 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1511. Write an SQL query to report the customer_id and customer_name of customers who have spent at least $100 in each month of June and July 2020.
 
 ---

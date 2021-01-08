@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1350. Write an SQL query to find the id and the name of all students who are enrolled in departments that no longer exists.
 ---
 

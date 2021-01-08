@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1322. A company is running Ads and wants to calculate the performance of each Ad.
 
 ---

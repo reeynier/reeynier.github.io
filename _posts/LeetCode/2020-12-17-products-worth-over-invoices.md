@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1677. Write an SQL query that will, for all products, return each product name with total amount due, paid, canceled, and refunded across all invoices.
 ---
 

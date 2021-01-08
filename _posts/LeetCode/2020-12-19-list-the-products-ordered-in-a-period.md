@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1327. Write an SQL query to get the names of products with greater than or equal to 100 units ordered in February 2020 and their amount.
 
 ---

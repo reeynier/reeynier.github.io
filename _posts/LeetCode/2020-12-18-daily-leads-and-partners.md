@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1693. Write an SQL query that will, for each date_id and make_name, return the number of distinct lead_id's and distinct partner_id's.
 ---
 

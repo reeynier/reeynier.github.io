@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1378. Write an SQL query to show the unique ID of each user.
 ---
 

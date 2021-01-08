@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1527. Write an SQL query to report the patient_id, patient_name all conditions of patients who have Type I Diabetes. 
 ---
 

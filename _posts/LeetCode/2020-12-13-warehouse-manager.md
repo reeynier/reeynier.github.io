@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1571. Write an SQL query to report how much cubic feet of volume does the inventory occupy in each warehouse.
 ---
 
