@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: In order to remove duplicate rows, we use the `DISTINCT` clause in the `SELECT` statement.
 ---
 

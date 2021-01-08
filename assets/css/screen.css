@@ -11,6 +11,15 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }*/
 
+.sidebar-title{
+    background: #1C9963;
+}
+.sidebar-highlight{
+        /*border-color: #02B875;
+    color: #1C9963;*/
+    background: rgba(0, 0, 0, .1);
+}
+
 a {
     color: #00ab6b;
     transition: all 0.2s;

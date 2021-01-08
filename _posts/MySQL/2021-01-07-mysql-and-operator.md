@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `AND` operator is a logical operator that combines two or more Boolean expressions and returns true only if both expressions evaluate to true. 
 ---
 

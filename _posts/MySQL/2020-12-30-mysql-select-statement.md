@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `SELECT` statement allows us to read data from one or more tables.
 ---
 

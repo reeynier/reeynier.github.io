@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `WHERE` clause allows us to choose which rows are returned from a `SELECT` statement.
 ---
 

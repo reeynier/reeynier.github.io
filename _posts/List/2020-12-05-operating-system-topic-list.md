@@ -7,6 +7,7 @@ similar: [ List ]
 featured: false
 hidden: false
 image: assets/images/operatingsystemtopiclist.png
+sidenav: List
 excerpt: A growing list of posts under the topic of Operating System.
 ---
 

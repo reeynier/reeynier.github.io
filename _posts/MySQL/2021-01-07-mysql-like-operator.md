@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `LIKE` operator is used in a `WHERE` clause to search for a specified pattern in a column.
 ---
 

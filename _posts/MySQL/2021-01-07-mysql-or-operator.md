@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `OR` operator combines two Boolean expressions and returns true when either condition is true.
 ---
 

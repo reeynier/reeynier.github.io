@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `ORDER BY` clause is used to sort the result-set in ascending or descending order.
 ---
 

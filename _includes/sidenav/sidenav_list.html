@@ -1,0 +1,51 @@
+{% if page.sidenav == "List" %}
+<div id="list-example" class="list-group">
+
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/topics.html"><b>Topics</b></a>
+
+    {% if page.url == "/leetcode-solution-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/leetcode-solution-list/">LeetCode</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-solution-list/">LeetCode</a>
+    {% endif %}
+
+
+    {% if page.url == "/leetcode-database-solution-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/leetcode-database-solution-list/">LeetCode Database</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">LeetCode Database</a>
+    {% endif %}
+
+
+    {% if page.url == "/mysql-tutorial-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/mysql-tutorial-list/">MySQL</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/mysql-tutorial-list/">MySQL</a>
+    {% endif %}
+
+
+    {% if page.url == "/operating-system-topic-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/operating-system-topic-list/">Operating System</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/operating-system-topic-list/">Operating System</a>
+    {% endif %}
+
+
+    {% if page.url == "/object-oriented-design-topic-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/object-oriented-design-topic-list/">Object Oriented Design</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/object-oriented-design-topic-list/">Object Oriented Design</a>
+    {% endif %}
+
+
+
+    {% if page.url == "/cplusplus-concept-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/cplusplus-concept-list/">C++ Concepts</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/cplusplus-concept-list/">C++ Concepts</a>
+    {% endif %}
+
+</div>
+{% endif %}
+
+

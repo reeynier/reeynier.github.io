@@ -7,6 +7,7 @@ similar: [ List ]
 featured: true
 hidden: false
 image: assets/images/leetcodedatabasesolutionlist.png
+sidenav: List
 excerpt: A list of LeetCode database problems and solutions.
 ---
 

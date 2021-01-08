@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `LIMIT` clause is used in the `SELECT` statement to constrain the number of rows to return.
 ---
 

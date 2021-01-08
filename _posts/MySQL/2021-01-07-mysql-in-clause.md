@@ -6,6 +6,7 @@ tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
 featured: false
 hidden: false
+sidenav: MySQL
 excerpt: The `IN`  operator allows us to determine if a specified value matches any value in a set of values or returned by a subquery.
 ---
 
