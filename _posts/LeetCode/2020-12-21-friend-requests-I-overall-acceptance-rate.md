@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 597. Write an SQL query to find the overall acceptance rate of requests, which is the number of acceptance divided by the number of requests.
 
 ---

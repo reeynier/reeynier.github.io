@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 613. Write a query to find the shortest distance between two points in these points.
 
 ---

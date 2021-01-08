@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 595. Write a SQL solution to output big countries' name, population and area.
 
 ---

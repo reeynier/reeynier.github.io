@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 586. Query the customer_number from the orders table for the customer who has placed the largest number of orders.
 ---
 

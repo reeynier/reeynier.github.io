@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup6 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 607. Given three tables, salesperson, company, orders.
 
 ---

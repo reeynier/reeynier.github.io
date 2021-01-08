@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 197. Write an SQL query to find all dates' id with higher temperature compared to its previous dates (yesterday).
 ---
 

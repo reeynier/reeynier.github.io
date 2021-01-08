@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup2 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy1
 excerpt: LeetCode 196. Write a SQL query to delete all duplicate email entries in a table named Person, keeping only unique emails based on its smallest Id.
 ---
 
