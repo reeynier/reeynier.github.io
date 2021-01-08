@@ -1,0 +1,30 @@
+{% if page.sidenav == "OODProblems" %}
+<div id="list-example" class="list-group">
+
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/object-oriented-design-topic-list/"><b>Object Oriented Design Problems</b></a>
+
+    {% if page.url == "/call-center-problem/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url OOD/2020-11-21-call-center-problem %}">Call Center</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url OOD/2020-11-21-call-center-problem %}">Call Center</a>
+    {% endif %}
+
+
+    {% if page.url == "/parking-lot-problem/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url OOD/2020-11-21-parking-lot-problem %}">Parking Lot</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url OOD/2020-11-21-parking-lot-problem %}">Parking Lot</a>
+    {% endif %}
+
+    {% if page.url == "/online-book-reader-system-problem/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url OOD/2020-11-22-online-book-reader-system-problem %}">Online Book Reader System</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url OOD/2020-11-22-online-book-reader-system-problem %}">Online Book Reader System</a>
+    {% endif %}
+
+
+
+</div>
+{% endif %}
+
+

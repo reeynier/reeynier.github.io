@@ -7,6 +7,7 @@ similar: [ OOD ]
 featured: true
 hidden: false
 image: assets/images/callcenter.png
+sidenav: OODProblems
 excerpt: An object oriented design problem. Imagine you have a call center with three levels of employees, respondent, manager and director. An incoming telephone call must be first allocated to a respondent who is free.
 ---
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Online Book Reader Problem"
+title:  "Online Book Reader System Problem"
 categories: [ Object-Oriented Design ]
 tags: [ C++, OOD ]
 similar: [ OOD ]
 featured: false
 hidden: false
+sidenav: OODProblems
 excerpt: Design the data structures for an online book reader system which provides the following functionality.
 ---
 

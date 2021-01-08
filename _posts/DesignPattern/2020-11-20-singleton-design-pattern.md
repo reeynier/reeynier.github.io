@@ -6,6 +6,7 @@ tags: [ C++, Singleton Pattern, Creational Pattern ]
 similar: [ Design Pattern ]
 featured: false
 hidden: false
+sidenav: DesignPatterns
 excerpt: The `singleton` design pattern is a type of `creational pattern` to create an object.
 ---
 
