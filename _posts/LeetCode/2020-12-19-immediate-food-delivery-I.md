@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1173. Write an SQL query to find the percentage of immediate orders in the table, rounded to 2 decimal places.
 
 ---

@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1141. Write an SQL query to find the daily active user count for a period of 30 days ending 2019-07-27 inclusively.
 ---
 

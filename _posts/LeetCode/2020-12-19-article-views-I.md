@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseEasy2
 excerpt: LeetCode 1148. Write an SQL query to find all the authors that viewed at least one of their own articles, sorted in ascending order by their id.
 ---
 
