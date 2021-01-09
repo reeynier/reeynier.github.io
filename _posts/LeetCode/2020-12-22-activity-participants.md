@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1355. Write an SQL query to find the names of all the activities with neither maximum, nor minimum number of participants.
 ---
 

@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup17 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1364. Write an SQL query to find the following for each invoice_id.
 
 ---

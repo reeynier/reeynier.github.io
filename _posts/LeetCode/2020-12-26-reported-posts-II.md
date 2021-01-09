@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup11 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1132. Write an SQL query to find the average for daily percentage of posts that got removed after being reported as spam, rounded to 2 decimal places.
 ---
 

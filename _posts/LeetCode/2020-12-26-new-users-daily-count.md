@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup10 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 1107. Write an SQL query that reports for every date within at most 90 days from today, the number of users that logged in for the first time on that date. 
 ---
 

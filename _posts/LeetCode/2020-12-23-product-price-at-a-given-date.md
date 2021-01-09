@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1164. Write an SQL query to find the prices of all products on 2019-08-16.
 ---
 

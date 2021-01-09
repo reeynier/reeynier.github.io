@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup16 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1321. You are the restaurant owner and you want to analyze a possible expansion (there will be at least one customer every day).
 
 ---

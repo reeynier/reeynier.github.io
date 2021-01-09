@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1158. Write an SQL query to find for each user, the join date and the number of orders they made as a buyer in 2019.
 
 ---

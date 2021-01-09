@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1205. Write an SQL query to find for each month and country, the number of approved transactions and their total amount, the number of chargebacks and their total amount.
 ---
 

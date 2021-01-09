@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1149. Write an SQL query to find all the people who viewed more than one article on the same date, sorted in ascending order by their id.
 ---
 

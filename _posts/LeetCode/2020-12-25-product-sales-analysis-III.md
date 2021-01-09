@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup9 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 1070. Write an SQL query that selects the product id, year, quantity, and price for the first year of every product sold.
 ---
 

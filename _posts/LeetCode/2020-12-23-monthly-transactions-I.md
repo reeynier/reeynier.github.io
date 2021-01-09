@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1193. Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
 
 ---

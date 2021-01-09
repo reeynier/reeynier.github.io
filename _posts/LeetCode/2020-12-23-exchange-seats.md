@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 626. Mary is a teacher in a middle school and she has a table seat storing students' names and their corresponding seat ids.
 
 ---

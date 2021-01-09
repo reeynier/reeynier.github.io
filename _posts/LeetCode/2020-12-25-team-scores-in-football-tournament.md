@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1212. Write an SQL query that selects the team_id, team_name and num_points of each team in the tournament after all described matches.
 ---
 

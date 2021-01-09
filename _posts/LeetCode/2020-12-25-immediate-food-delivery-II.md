@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup13 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1174. Write an SQL query to find the percentage of immediate orders in the first orders of all customers, rounded to 2 decimal places.
 
 ---

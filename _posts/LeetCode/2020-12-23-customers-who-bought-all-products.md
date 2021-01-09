@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup8 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 1045. Write an SQL query for a report that provides the customer ids from the Customer table that bought all the products in the Product table.
 
 ---

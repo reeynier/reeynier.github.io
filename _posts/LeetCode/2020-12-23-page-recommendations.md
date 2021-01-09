@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup15 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1264. Write an SQL query to recommend pages to the user with user_id = 1 using the pages that your friends liked.
 
 ---

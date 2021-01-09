@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup14 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium2
 excerpt: LeetCode 1204. Write an SQL query to find the person_name of the last person who will fit in the elevator without exceeding the weight limit.
 ---
 
