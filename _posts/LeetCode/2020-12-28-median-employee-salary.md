@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 569. Write a SQL query to find the median salary of each company.
 ---
 

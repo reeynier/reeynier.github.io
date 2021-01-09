@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 262. Write a SQL query to find the cancellation rate of requests made by unbanned users (both client and driver must be unbanned) between Oct 1, 2013 and Oct 3, 2013.
 ---
 

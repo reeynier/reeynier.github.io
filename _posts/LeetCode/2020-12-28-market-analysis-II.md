@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup12 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 1159. Write an SQL query to find for each user, whether the brand of the second item (by date) they sold is their favorite brand.
 ---
 

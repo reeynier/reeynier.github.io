@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 579. Write a SQL to get the cumulative sum of an employee's salary over a period of 3 months but exclude the most recent month.
 ---
 

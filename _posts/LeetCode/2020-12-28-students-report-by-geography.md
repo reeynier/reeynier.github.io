@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup7 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 618. A U.S graduate school has students from Asia, Europe and America. 
 ---
 

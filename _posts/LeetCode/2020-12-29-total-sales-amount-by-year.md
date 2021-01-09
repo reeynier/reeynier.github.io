@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 1384. Write an SQL query to report the Total sales amount of each item for each year, with corresponding product name, product_id, product_name and report_year.
 ---
 

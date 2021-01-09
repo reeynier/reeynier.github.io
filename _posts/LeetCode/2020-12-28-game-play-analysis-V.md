@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup10 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 1097. Write an SQL query that reports for each install date, the number of players that installed the game on that day and the day 1 retention.
 ---
 

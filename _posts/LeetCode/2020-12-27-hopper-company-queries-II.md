@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup23 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseHard1
 excerpt: LeetCode 1645. Write an SQL query to report the percentage of working drivers (working_percentage) for each month of 2020.
 ---
 
