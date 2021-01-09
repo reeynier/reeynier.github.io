@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 178. Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking.
 ---
 

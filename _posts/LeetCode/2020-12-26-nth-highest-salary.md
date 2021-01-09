@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup1 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 177. Write a SQL query to get the nth highest salary from the Employee table.
 ---
 

@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup3 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 534. Write an SQL query that reports for each player and date, how many games played so far by the player.
 
 ---

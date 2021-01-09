@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup4 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 574. Write a sql to find the name of the winning candidate, the above example will return the winner B.
 ---
 

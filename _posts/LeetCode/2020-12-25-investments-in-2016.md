@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup5 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium1
 excerpt: LeetCode 585. Write a query to print the sum of all total investment values in 2016 (TIV_2016).
 ---
 
