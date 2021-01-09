@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup18 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1421. Write an SQL query to find the npv of all each query of queries table.
 
 ---

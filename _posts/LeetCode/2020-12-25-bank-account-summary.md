@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup21 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1555. Our bank records all transactions in the table Transaction, we want to find out the current balance of all users and check wheter they have breached their credit limit (If their current credit is less than 0).
 ---
 

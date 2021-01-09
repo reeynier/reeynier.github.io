@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup22 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1596. Write an SQL query to find the most frequently ordered product(s) for each customer.
 
 ---

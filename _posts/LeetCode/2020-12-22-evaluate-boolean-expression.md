@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup19 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1440. Write an SQL query to evaluate the boolean expressions in Expressions table.
 
 ---

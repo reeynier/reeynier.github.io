@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup24 ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1709. Write an SQL query that will, for each user_id, find out the largest window of days between each visit and the one right after it.
 ---
 

@@ -6,6 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ Database ]
 featured: false
 hidden: false
+sidenav: LeetcodeDatabaseMedium3
 excerpt: LeetCode 1532. Write an SQL query to find the most recent 3 orders of each user.
 
 ---
