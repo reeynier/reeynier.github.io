@@ -1,7 +1,7 @@
 {% if page.sidenav == "MySQL" %}
 <div id="list-example" class="list-group">
 
-    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/mysql-tutorial-list/"><b>MySQL Tutorial</b></a>
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/mysql-tutorial-list/"><b>MySQL Tutorials</b></a>
 
     {% if page.url == "/mysql-select-statement/" %}
         <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url MySQL/2020-12-30-mysql-select-statement %}">SELECT</a>
@@ -71,9 +71,17 @@
         <a class="list-group-item list-group-item-action" href="{% post_url MySQL/2021-01-07-mysql-is-null-operator %}">IS NULL</a>
     {% endif %}
 
+    {% if page.url == "/mysql-aliases/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url MySQL/2021-01-09-mysql-aliases %}">Aliases</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url MySQL/2021-01-09-mysql-aliases %}">Aliases</a>
+    {% endif %}
 
-
-
+    {% if page.url == "/mysql-inner-join-clause/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url MySQL/2021-01-09-mysql-inner-join-clause %}">INNER JOIN</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url MySQL/2021-01-09-mysql-inner-join-clause %}">INNER JOIN</a>
+    {% endif %}
 
 
 </div>
