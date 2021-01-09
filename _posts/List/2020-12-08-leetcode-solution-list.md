@@ -268,6 +268,7 @@ No. | | Problem | | Difficulty | | Solution
 1693 | | Daily Leads And Partners | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-daily-leads-and-partners %})
 1699 | | Number Of Calls Between Two Persons | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-number-of-calls-between-two-persons %})
 1709 | | Biggest Window Between Visits | | `Medium` | | [Link]({% post_url LeetCode/2021-01-04-biggest-window-between-visits %})
+1715 | | Count Apples And Oranges | | `Medium` | | [Link]({% post_url LeetCode/2021-01-09-count-apples-and-oranges %})
 
 <br />
 

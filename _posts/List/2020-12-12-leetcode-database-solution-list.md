@@ -154,7 +154,7 @@ No. | | Problem | | Difficulty | | Solution
 1613 | | Find The Missing IDs | | `Medium` | | [Link]({% post_url LeetCode/2020-12-23-find-the-missing-ids %})
 1699 | | Number Of Calls Between Two Persons | | `Medium` | | [Link]({% post_url LeetCode/2020-12-26-number-of-calls-between-two-persons %})
 1709 | | Biggest Window Between Visits | | `Medium` | | [Link]({% post_url LeetCode/2021-01-04-biggest-window-between-visits %})
-
+1715 | | Count Apples And Oranges | | `Medium` | | [Link]({% post_url LeetCode/2021-01-09-count-apples-and-oranges %})
 
 <br />
 
