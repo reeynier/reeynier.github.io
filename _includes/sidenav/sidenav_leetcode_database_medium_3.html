@@ -106,7 +106,11 @@
     {% endif %}
 
 
-
+    {% if page.url == "/find-followers-count/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-01-20-find-followers-count %}">LeetCode 1729</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-01-20-find-followers-count %}">LeetCode 1729</a>
+    {% endif %}
 
 
 

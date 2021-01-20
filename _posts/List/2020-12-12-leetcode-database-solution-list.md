@@ -90,6 +90,7 @@ No. | | Problem | | Difficulty | | Solution
 1677 | | Product's Worth Over Invoices | | `Easy` | | [Link]({% post_url LeetCode/2020-12-17-products-worth-over-invoices %})
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 1693 | | Daily Leads And Partners | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-daily-leads-and-partners %})
+1729 | | Find Followers Count | | `Easy` | | [Link]({% post_url LeetCode/2021-01-20-find-followers-count %})
 
 <br />
 
