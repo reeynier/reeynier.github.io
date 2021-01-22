@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MySQL Inner Join Clause"
+title:  "MySQL INNER JOIN Clause"
 categories: [ MySQL ]
 tags: [ Database, Query, MySQL ]
 similar: [ MySQL Data Manipulation  ]
