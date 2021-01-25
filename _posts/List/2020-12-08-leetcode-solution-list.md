@@ -114,7 +114,7 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 1224 | | Maximum Equal Frequency | | `Hard` | | [Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
-
+1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 
 
 <br />
