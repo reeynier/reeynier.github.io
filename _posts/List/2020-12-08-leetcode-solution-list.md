@@ -270,6 +270,10 @@ No. | | Problem | | Difficulty | | Solution
 1709 | | Biggest Window Between Visits | | `Medium` | | [Link]({% post_url LeetCode/2021-01-04-biggest-window-between-visits %})
 1715 | | Count Apples And Oranges | | `Medium` | | [Link]({% post_url LeetCode/2021-01-09-count-apples-and-oranges %})
 1729 | | Find Followers Count | | `Easy` | | [Link]({% post_url LeetCode/2021-01-20-find-followers-count %})
+1731 | | The Number Of Employees Which Report To Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-24-the-number-of-employees-which-report-to-each-employee %})
+
+
+
 
 <br />
 

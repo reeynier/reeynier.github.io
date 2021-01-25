@@ -91,6 +91,9 @@ No. | | Problem | | Difficulty | | Solution
 1683 | | Invalid Tweets | | `Easy` | | [Link]({% post_url LeetCode/2020-12-13-invalid-tweets %})
 1693 | | Daily Leads And Partners | | `Easy` | | [Link]({% post_url LeetCode/2020-12-18-daily-leads-and-partners %})
 1729 | | Find Followers Count | | `Easy` | | [Link]({% post_url LeetCode/2021-01-20-find-followers-count %})
+1731 | | The Number Of Employees Which Report To Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-24-the-number-of-employees-which-report-to-each-employee %})
+
+
 
 <br />
 

@@ -112,7 +112,11 @@
         <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-01-20-find-followers-count %}">LeetCode 1729</a>
     {% endif %}
 
-
+    {% if page.url == "/the-number-of-employees-which-report-to-each-employee/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-01-24-the-number-of-employees-which-report-to-each-employee %}">LeetCode 1731</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-01-24-the-number-of-employees-which-report-to-each-employee %}">LeetCode 1731</a>
+    {% endif %}
 
 
     <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">More LeetCode Database</a>
