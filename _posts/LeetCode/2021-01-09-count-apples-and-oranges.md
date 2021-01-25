@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Count Apples And Oranges"
+title:  "Count Apples And Oranges Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup25 ]

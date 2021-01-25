@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Find Followers Count"
+title:  "Find Followers Count Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup25 ]

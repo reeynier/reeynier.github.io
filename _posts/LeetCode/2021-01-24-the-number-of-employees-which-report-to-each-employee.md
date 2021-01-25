@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Number Of Employees Which Report To Each Employee"
+title:  "The Number Of Employees Which Report To Each Employee Problem"
 categories: [ Database ]
 tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup25 ]
