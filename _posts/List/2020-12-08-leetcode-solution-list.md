@@ -113,6 +113,7 @@ No. | | Problem | | Difficulty | | Solution
 
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
+771 | | Jewels And Stones | | `Easy` | | [Link]({% post_url LeetCode/2021-01-27-jewels-and-stones %})
 1224 | | Maximum Equal Frequency | | `Hard` | | [Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
 1521 | | Number Of Good Pairs | | `Easy` | | [Link]({% post_url LeetCode/2021-01-26-number-of-good-pairs %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
