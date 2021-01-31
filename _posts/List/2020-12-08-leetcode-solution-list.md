@@ -115,6 +115,7 @@ No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 771 | | Jewels And Stones | | `Easy` | | [Link]({% post_url LeetCode/2021-01-27-jewels-and-stones %})
 961 | | N-Repeated Element In Size 2N Array | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-n-repeated-element-in-size-2n-array %})
+1213 | | Intersection Of Three Sorted Arrays | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-intersection-of-three-sorted-arrays %})
 1224 | | Maximum Equal Frequency | | `Hard` | | [Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
 1521 | | Number Of Good Pairs | | `Easy` | | [Link]({% post_url LeetCode/2021-01-26-number-of-good-pairs %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
