@@ -6,7 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup25 ]
 featured: false
 hidden: false
-sidenav: LeetcodeDatabaseMedium3
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1729. Write an SQL query that will, for each user, return the number of followers.
 ---
 

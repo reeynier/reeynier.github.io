@@ -6,7 +6,7 @@ tags: [ MySQL, Leetcode ]
 similar: [ DatabaseGroup25 ]
 featured: false
 hidden: false
-sidenav: LeetcodeDatabaseMedium3
+sidenav: LeetcodeDatabaseEasy3
 excerpt: LeetCode 1731. Write an SQL query to report the ids and the names of the people that other employees reported to (excluding null values), the number of employees who report to them, and the average age of those members rounded to the nearest integer.
 ---
 
