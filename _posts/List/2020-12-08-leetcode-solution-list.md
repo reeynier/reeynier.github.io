@@ -114,6 +114,7 @@ No. | | Problem | | Difficulty | | Solution
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
 349 | | Intersection Of Two Arrays | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-intersection-of-two-arrays %})
+380 | | Insert Delete GetRandom O(1) | | `Easy` | | [Link]({% post_url LeetCode/2021-02-03-insert-delete-getrandom-o1 %})
 771 | | Jewels And Stones | | `Easy` | | [Link]({% post_url LeetCode/2021-01-27-jewels-and-stones %})
 961 | | N-Repeated Element In Size 2N Array | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-n-repeated-element-in-size-2n-array %})
 1213 | | Intersection Of Three Sorted Arrays | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-intersection-of-three-sorted-arrays %})
