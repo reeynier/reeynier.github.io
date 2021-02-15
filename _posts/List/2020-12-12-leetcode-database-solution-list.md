@@ -93,6 +93,7 @@ No. | | Problem | | Difficulty | | Solution
 1729 | | Find Followers Count | | `Easy` | | [Link]({% post_url LeetCode/2021-01-20-find-followers-count %})
 1731 | | The Number Of Employees Which Report To Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-24-the-number-of-employees-which-report-to-each-employee %})
 1741 | | Find Total Time Spent By Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-find-total-time-spent-by-each-employee %})
+1757 | | Recyclable And Low Fat Products | | `Easy` | | [Link]({% post_url LeetCode/2021-02-14-recyclable-and-low-fat-products %})
 
 
 <br />
