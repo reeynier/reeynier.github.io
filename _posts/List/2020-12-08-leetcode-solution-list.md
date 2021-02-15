@@ -121,7 +121,8 @@ No. | | Problem | | Difficulty | | Solution
 1224 | | Maximum Equal Frequency | | `Hard` | | [Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
 1521 | | Number Of Good Pairs | | `Easy` | | [Link]({% post_url LeetCode/2021-01-26-number-of-good-pairs %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
-
+1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
+1748 | | Sum Of Unique Elements | | `Easy` | | [Link]({% post_url LeetCode/2021-02-15-sum-of-unique-elements %})
 
 <br />
 
