@@ -155,7 +155,11 @@
     {% endif %}
 
 
-
+    {% if page.url == "/products-price-for-each-store/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-03-05-products-price-for-each-store %}">LeetCode 1777</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-03-05-products-price-for-each-store %}">LeetCode 1777</a>
+    {% endif %}
 
 
 

@@ -281,6 +281,8 @@ No. | | Problem | | Difficulty | | Solution
 1741 | | Find Total Time Spent By Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-find-total-time-spent-by-each-employee %})
 1747 | | Leetflex Banned Accounts | | `Medium` | | [Link]({% post_url LeetCode/2021-02-10-leetflex-banned-accounts %})
 1757 | | Recyclable And Low Fat Products | | `Easy` | | [Link]({% post_url LeetCode/2021-02-14-recyclable-and-low-fat-products %})
+1767 | | Find The Subtasks That Did Not Execute | | `Hard` | | [Link]({% post_url LeetCode/2021-03-05-find-the-subtasks-that-did-not-execute %})
+1777 | | Product's Price For Each Store | | `Easy` | | [Link]({% post_url LeetCode/2021-03-05-products-price-for-each-store %})
 
 <br />
 
