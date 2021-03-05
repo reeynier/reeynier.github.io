@@ -17,11 +17,13 @@ This is a growing list of LeetCode problems and solutions. All problems and solu
 
 <br />
 
-#### Algorithms
+#### Algorithm And Data Structure
 
 No. | | Problem | | Difficulty | |Solution
 --- | --- | --- | --- | --- | --- | ---
 1 | | Two Sum | | `Easy` | | [Link]({% post_url LeetCode/2020-11-09-two-sum %})
+2 | | Add Two Numbers | | `Medium` | | [Link]({% post_url LeetCode/2021-03-05-add-two-numbers %})
+3 | | Longest Substring Without Repeating Characters | | `Medium` | | [Link]({% post_url LeetCode/2021-03-05-longest-substring-without-repeating-characters %})
 4 | | Median Of Two Sorted Arrays | | `Hard` | | [Link]({% post_url LeetCode/2020-11-20-median-of-two-sorted-arrays %})
 15 | | Three Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-10-three-sum %})
 18 | | Four Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-10-four-sum %})
