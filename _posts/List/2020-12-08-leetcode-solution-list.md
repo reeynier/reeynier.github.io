@@ -17,108 +17,47 @@ This is a growing list of LeetCode problems and solutions. All problems and solu
 
 <br />
 
-#### Two Sum Related Problems
+#### Algorithms
 
 No. | | Problem | | Difficulty | |Solution
 --- | --- | --- | --- | --- | --- | ---
 1 | | Two Sum | | `Easy` | | [Link]({% post_url LeetCode/2020-11-09-two-sum %})
+4 | | Median Of Two Sorted Arrays | | `Hard` | | [Link]({% post_url LeetCode/2020-11-20-median-of-two-sorted-arrays %})
 15 | | Three Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-10-three-sum %})
 18 | | Four Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-10-four-sum %})
-167 | | Two Sum Input Array Is Sorted | | `Easy` | | [Link]({% post_url LeetCode/2020-11-12-two-sum-input-array-is-sorted %})
-454 | | Four Sum II | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-four-sum-II %})
-523 | | Continuous Subarray Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-continuous-subarray-sum %})
-560 | | Subarray Sum Equals K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-sum-equals-k %})
-713 | | Subarray Product Less Than K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-product-less-than-k %})
-974 | | Subarray Sum Divisible By K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-subarray-sum-divisible-by-k %})
-1099 | | Two Sum Less Than K | | `Easy` | | [Link]({% post_url LeetCode/2020-11-11-two-sum-less-than-k %})
-
-
-<br />
-
-#### Trie Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
-208 | | Implement Trie (Prefix Tree) | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-implement-trie %})
-212 | | Word Search II | | `Hard` | | [Link]({% post_url LeetCode/2020-11-12-word-search-II %})
-421 | | Maximum XOR of Two Numbers In An Array | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-maximum-xor-of-two-numbers-in-an-array %})
-472 | | Concatenate Words | | `Hard` | | [Link]({% post_url LeetCode/2020-11-12-concatenate-words %})
-648 | | Replace Words | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-replace-words %})
-720 | | Longest Word In Dictionary | | `Easy` | | [Link]({% post_url LeetCode/2020-11-12-longest-word-in-dictionary %})
-1023 | | Camelcase Matching | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-camelcase-matching %})
-1032 | | Stream Of Characters | | `Hard` | | [Link]({% post_url LeetCode/2020-11-14-stream-of-characters %})
-
-
-
-<br />
-
-#### Binary Search Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
-4 | | Median Of Two Sorted Arrays | | `Hard` | | [Link]({% post_url LeetCode/2020-11-20-median-of-two-sorted-arrays %})
-35 | | Search Insert Position | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-search-insert-position %})
-69 | | Sqrt(x) | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-sqrtx %})
-367 | | Valid Perfect Square | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-valid-perfect-square %})
-
-
-
-<br />
-
-#### Linked List Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
 21 | | Merge Two Sorted Lists | | `Easy` | | [Link]({% post_url LeetCode/2020-11-25-merge-two-sorted-lists %})
 23 | | Merge K Sorted Lists | | `Hard` | | [Link]({% post_url LeetCode/2020-11-26-merge-k-sorted-lists %})
-92 | | Reverse Linked List II | | `Medium` | | [Link]({% post_url LeetCode/2020-11-26-reverse-linked-list-II %})
-206 | | Reverse Linked List | | `Easy` | | [Link]({% post_url LeetCode/2020-11-26-reverse-linked-list %})
-234 | | Palindrome Linked List | | `Easy` | | [Link]({% post_url LeetCode/2020-11-26-palindrome-linked-list %})
-
-
-
-<br />
-
-#### Depth First Search Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
-200 | | Number of Islands | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-number-of-islands %})
-543 | | Diameter Of Binary Tree | | `Easy` | | [Link]({% post_url LeetCode/2020-12-02-diameter-of-binary-tree %})
-
-
-<br />
-
-#### Sliding Window Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
-1438 | | Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit %})
-
-
-
-<br />
-
-#### Sort Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
+35 | | Search Insert Position | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-search-insert-position %})
 56 | | Merge Intervals | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-merge-intervals %})
-
-
-
-<br />
-
-#### Hash Table Related Problems
-
-No. | | Problem | | Difficulty | | Solution
---- | --- | --- | --- | --- | --- | --- 
+69 | | Sqrt(x) | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-sqrtx %})
+92 | | Reverse Linked List II | | `Medium` | | [Link]({% post_url LeetCode/2020-11-26-reverse-linked-list-II %})
+167 | | Two Sum Input Array Is Sorted | | `Easy` | | [Link]({% post_url LeetCode/2020-11-12-two-sum-input-array-is-sorted %})
+200 | | Number of Islands | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-number-of-islands %})
+206 | | Reverse Linked List | | `Easy` | | [Link]({% post_url LeetCode/2020-11-26-reverse-linked-list %})
+208 | | Implement Trie (Prefix Tree) | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-implement-trie %})
+212 | | Word Search II | | `Hard` | | [Link]({% post_url LeetCode/2020-11-12-word-search-II %})
+234 | | Palindrome Linked List | | `Easy` | | [Link]({% post_url LeetCode/2020-11-26-palindrome-linked-list %})
 349 | | Intersection Of Two Arrays | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-intersection-of-two-arrays %})
+367 | | Valid Perfect Square | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-valid-perfect-square %})
 380 | | Insert Delete GetRandom O(1) | | `Easy` | | [Link]({% post_url LeetCode/2021-02-03-insert-delete-getrandom-o1 %})
+421 | | Maximum XOR of Two Numbers In An Array | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-maximum-xor-of-two-numbers-in-an-array %})
+454 | | Four Sum II | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-four-sum-II %})
+472 | | Concatenate Words | | `Hard` | | [Link]({% post_url LeetCode/2020-11-12-concatenate-words %})
+523 | | Continuous Subarray Sum | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-continuous-subarray-sum %})
+543 | | Diameter Of Binary Tree | | `Easy` | | [Link]({% post_url LeetCode/2020-12-02-diameter-of-binary-tree %})
+560 | | Subarray Sum Equals K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-sum-equals-k %})
+648 | | Replace Words | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-replace-words %})
+713 | | Subarray Product Less Than K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-11-subarray-product-less-than-k %})
+720 | | Longest Word In Dictionary | | `Easy` | | [Link]({% post_url LeetCode/2020-11-12-longest-word-in-dictionary %})
 771 | | Jewels And Stones | | `Easy` | | [Link]({% post_url LeetCode/2021-01-27-jewels-and-stones %})
 961 | | N-Repeated Element In Size 2N Array | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-n-repeated-element-in-size-2n-array %})
+974 | | Subarray Sum Divisible By K | | `Medium` | | [Link]({% post_url LeetCode/2020-11-12-subarray-sum-divisible-by-k %})
+1023 | | Camelcase Matching | | `Medium` | | [Link]({% post_url LeetCode/2020-11-14-camelcase-matching %})
+1032 | | Stream Of Characters | | `Hard` | | [Link]({% post_url LeetCode/2020-11-14-stream-of-characters %})
+1099 | | Two Sum Less Than K | | `Easy` | | [Link]({% post_url LeetCode/2020-11-11-two-sum-less-than-k %})
 1213 | | Intersection Of Three Sorted Arrays | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-intersection-of-three-sorted-arrays %})
 1224 | | Maximum Equal Frequency | | `Hard` | | [Link]({% post_url LeetCode/2020-12-08-maximum-equal-frequency %})
+1438 | | Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit %})
 1521 | | Number Of Good Pairs | | `Easy` | | [Link]({% post_url LeetCode/2021-01-26-number-of-good-pairs %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
@@ -128,7 +67,7 @@ No. | | Problem | | Difficulty | | Solution
 
 
 
-#### Database Related Problems
+#### Database 
 
 No. | | Problem | | Difficulty | | Solution
 --- | --- | --- | --- | --- | --- | --- 
