@@ -161,6 +161,7 @@ No. | | Problem | | Difficulty | | Solution
 1709 | | Biggest Window Between Visits | | `Medium` | | [Link]({% post_url LeetCode/2021-01-04-biggest-window-between-visits %})
 1715 | | Count Apples And Oranges | | `Medium` | | [Link]({% post_url LeetCode/2021-01-09-count-apples-and-oranges %})
 1747 | | Leetflex Banned Accounts | | `Medium` | | [Link]({% post_url LeetCode/2021-02-10-leetflex-banned-accounts %})
+1783 | | Grand Slam Titles | | `Medium` | | [Link]({% post_url LeetCode/2021-03-08-grand-slam-titles %})
 
 <br />
 

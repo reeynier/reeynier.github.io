@@ -224,6 +224,7 @@ No. | | Problem | | Difficulty | | Solution
 1757 | | Recyclable And Low Fat Products | | `Easy` | | [Link]({% post_url LeetCode/2021-02-14-recyclable-and-low-fat-products %})
 1767 | | Find The Subtasks That Did Not Execute | | `Hard` | | [Link]({% post_url LeetCode/2021-03-05-find-the-subtasks-that-did-not-execute %})
 1777 | | Product's Price For Each Store | | `Easy` | | [Link]({% post_url LeetCode/2021-03-05-products-price-for-each-store %})
+1783 | | Grand Slam Titles | | `Medium` | | [Link]({% post_url LeetCode/2021-03-08-grand-slam-titles %})
 
 <br />
 
