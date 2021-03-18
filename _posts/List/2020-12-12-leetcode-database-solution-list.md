@@ -95,6 +95,7 @@ No. | | Problem | | Difficulty | | Solution
 1741 | | Find Total Time Spent By Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-01-31-find-total-time-spent-by-each-employee %})
 1757 | | Recyclable And Low Fat Products | | `Easy` | | [Link]({% post_url LeetCode/2021-02-14-recyclable-and-low-fat-products %})
 1777 | | Product's Price For Each Store | | `Easy` | | [Link]({% post_url LeetCode/2021-03-05-products-price-for-each-store %})
+1789 | | Primary Department For Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-03-17-primary-department-for-each-employee %})
 
 <br />
 
