@@ -65,6 +65,7 @@ No. | | Problem | | Difficulty | |Solution
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 1748 | | Sum Of Unique Elements | | `Easy` | | [Link]({% post_url LeetCode/2021-02-15-sum-of-unique-elements %})
+1812 | | Determine Color Of A Chessboard Square | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-determine-color-of-a-chessboard-square %})
 
 <br />
 
