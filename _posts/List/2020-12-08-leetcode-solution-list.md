@@ -227,6 +227,9 @@ No. | | Problem | | Difficulty | | Solution
 1777 | | Product's Price For Each Store | | `Easy` | | [Link]({% post_url LeetCode/2021-03-05-products-price-for-each-store %})
 1783 | | Grand Slam Titles | | `Medium` | | [Link]({% post_url LeetCode/2021-03-08-grand-slam-titles %})
 1789 | | Primary Department For Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-03-17-primary-department-for-each-employee %})
+1795 | | Rearrange Products Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-rearrange-products-table %})
+1809 | | Ad-Free Sessions Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-ad-free-sessions %})
+1811 | | Find Interview Candidates | | `Medium` | | [Link]({% post_url LeetCode/2021-04-03-find-interview-candidates %})
 
 <br />
 

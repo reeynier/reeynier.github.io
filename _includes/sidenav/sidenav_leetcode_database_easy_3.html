@@ -167,7 +167,17 @@
         <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-03-17-primary-department-for-each-employee %}">LeetCode 1789</a>
     {% endif %}
 
+    {% if page.url == "/rearrange-products-table/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-04-03-rearrange-products-table %}">LeetCode 1795</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-04-03-rearrange-products-table %}">LeetCode 1795</a>
+    {% endif %}
 
+    {% if page.url == "/ad-free-sessions/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-04-03-ad-free-sessions %}">LeetCode 1809</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-04-03-ad-free-sessions %}">LeetCode 1809</a>
+    {% endif %}
 
 
     <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">More LeetCode Database</a>
