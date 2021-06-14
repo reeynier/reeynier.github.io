@@ -1,0 +1,37 @@
+{% if page.sidenav == "LeetcodeDatabaseEasy4" %}
+<div id="list-example" class="list-group">
+
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/"><b>LeetCode Database - Easy</b></a>
+
+    {% if page.url == "/find-customers-with-positive-revenue-this-year/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-06-13-find-customers-with-positive-revenue-this-year %}">LeetCode 1821</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-06-13-find-customers-with-positive-revenue-this-year %}">LeetCode 1821</a>
+    {% endif %}
+
+    {% if page.url == "/convert-date-format/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-06-13-convert-date-format %}">LeetCode 1853</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-06-13-convert-date-format %}">LeetCode 1853</a>
+    {% endif %}
+
+    {% if page.url == "/calculate-special-bonus/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-06-13-calculate-special-bonus %}">LeetCode 1873</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-06-13-calculate-special-bonus %}">LeetCode 1873</a>
+    {% endif %}
+
+    {% if page.url == "/the-latest-login-in-2020/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %}">LeetCode 1890</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %}">LeetCode 1890</a>
+    {% endif %}
+
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">More LeetCode Database</a>
+
+    <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/mysql-tutorial-list/">MySQL Tutorials</a>
+
+</div>
+{% endif %}
+
+

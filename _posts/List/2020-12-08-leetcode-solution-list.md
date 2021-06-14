@@ -231,6 +231,16 @@ No. | | Problem | | Difficulty | | Solution
 1795 | | Rearrange Products Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-rearrange-products-table %})
 1809 | | Ad-Free Sessions Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-ad-free-sessions %})
 1811 | | Find Interview Candidates | | `Medium` | | [Link]({% post_url LeetCode/2021-04-03-find-interview-candidates %})
+1821 | | Find Customers With Positive Revenue this Year | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-find-customers-with-positive-revenue-this-year %})
+1831 | | Maximum Transaction Each Day | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-maximum-transaction-each-day %})
+1841 | | League Statistics | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-league-statistics %})
+1843 | | Suspicious Bank Accounts | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-suspicious-bank-accounts %})
+1853 | | Convert Date Format | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-convert-date-format %})
+1867 | | Orders With Maximum Quantity Above Average | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-orders-with-maximum-quantity-above-average %})
+1873 | | Calculate Special Bonus | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-calculate-special-bonus %})
+1875 | | Group Employees of the Same Salary | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-group-employees-of-the-same-salary %})
+1890 | | The Latest Login in 2020 | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %})
+1892 | | Page Recommendations II | | `Hard` | | [Link]({% post_url LeetCode/2021-06-13-page-recommendations-II %})
 
 <br />
 

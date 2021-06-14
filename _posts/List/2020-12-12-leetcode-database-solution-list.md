@@ -98,6 +98,11 @@ No. | | Problem | | Difficulty | | Solution
 1789 | | Primary Department For Each Employee | | `Easy` | | [Link]({% post_url LeetCode/2021-03-17-primary-department-for-each-employee %})
 1795 | | Rearrange Products Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-rearrange-products-table %})
 1809 | | Ad-Free Sessions Table | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-ad-free-sessions %})
+1821 | | Find Customers With Positive Revenue this Year | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-find-customers-with-positive-revenue-this-year %})
+1853 | | Convert Date Format | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-convert-date-format %})
+1873 | | Calculate Special Bonus | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-calculate-special-bonus %})
+1890 | | The Latest Login in 2020 | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %})
+
 
 <br />
 
@@ -166,6 +171,11 @@ No. | | Problem | | Difficulty | | Solution
 1747 | | Leetflex Banned Accounts | | `Medium` | | [Link]({% post_url LeetCode/2021-02-10-leetflex-banned-accounts %})
 1783 | | Grand Slam Titles | | `Medium` | | [Link]({% post_url LeetCode/2021-03-08-grand-slam-titles %})
 1811 | | Find Interview Candidates | | `Medium` | | [Link]({% post_url LeetCode/2021-04-03-find-interview-candidates %})
+1831 | | Maximum Transaction Each Day | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-maximum-transaction-each-day %})
+1841 | | League Statistics | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-league-statistics %})
+1843 | | Suspicious Bank Accounts | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-suspicious-bank-accounts %})
+1867 | | Orders With Maximum Quantity Above Average | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-orders-with-maximum-quantity-above-average %})
+1875 | | Group Employees of the Same Salary | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-group-employees-of-the-same-salary %})
 
 <br />
 
@@ -195,7 +205,7 @@ No. | | Problem | | Difficulty | | Solution
 1645 | | Hopper Company Queries II | | `Hard` | | [Link]({% post_url LeetCode/2020-12-27-hopper-company-queries-II %})
 1651 | | Hopper Company Queries III | | `Hard` | | [Link]({% post_url LeetCode/2020-12-29-hopper-company-queries-III %})
 1767 | | Find The Subtasks That Did Not Execute | | `Hard` | | [Link]({% post_url LeetCode/2021-03-05-find-the-subtasks-that-did-not-execute %})
-
+1892 | | Page Recommendations II | | `Hard` | | [Link]({% post_url LeetCode/2021-06-13-page-recommendations-II %})
 
 <br />
 
