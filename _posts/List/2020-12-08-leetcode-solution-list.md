@@ -66,6 +66,10 @@ No. | | Problem | | Difficulty | |Solution
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 1748 | | Sum Of Unique Elements | | `Easy` | | [Link]({% post_url LeetCode/2021-02-15-sum-of-unique-elements %})
 1812 | | Determine Color Of A Chessboard Square | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-determine-color-of-a-chessboard-square %})
+1999 | | Smallest Greater Multiple Made of Two Digits | | `Medium` | | [Link]({% post_url LeetCode/2021-09-12-smallest-greater-multiple-made-of-two-digits %})
+2000 | | Reverse Prefix of Word | | `Easy` | | [Link]({% post_url LeetCode/2021-09-12-reverse-prefix-of-word %})
+
+
 
 <br />
 
@@ -241,6 +245,19 @@ No. | | Problem | | Difficulty | | Solution
 1875 | | Group Employees of the Same Salary | | `Medium` | | [Link]({% post_url LeetCode/2021-06-13-group-employees-of-the-same-salary %})
 1890 | | The Latest Login in 2020 | | `Easy` | | [Link]({% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %})
 1892 | | Page Recommendations II | | `Hard` | | [Link]({% post_url LeetCode/2021-06-13-page-recommendations-II %})
+1907 | | Count Salary Categories | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-count-salary-categories %})
+1917 | | Leetcodify Friends Recommendations | | `Hard` | | [Link]({% post_url LeetCode/2021-09-11-leetcodify-friends-recommendations %})
+1919 | | Leetcodify Similar Friends | | `Hard` | | [Link]({% post_url LeetCode/2021-09-11-leetcodify-similar-friends %})
+1934 | | Confirmation Rate | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-confirmation-rate %})
+1939 | | Users That Actively Request Confirmation Messages | | `Easy` | | [Link]({% post_url LeetCode/2021-09-11-users-that-actively-request-confirmation-messages %})
+1949 | | Strong Friendship | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-strong-friendship %})
+1951 | | All the Pairs With the Maximum Number of Common Followers | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-all-the-pairs-with-the-maximum-number-of-common-followers %})
+1965 | | Employees With Missing Information | | `Easy` | | [Link]({% post_url LeetCode/2021-09-11-employees-with-missing-information %})
+1972 | | First and Last Call On the Same Day | | `Hard` | | [Link]({% post_url LeetCode/2021-09-11-first-and-last-call-on-the-same-day %})
+1978 | | Employees Whose Manager Left the Company | | `Easy` | | [Link]({% post_url LeetCode/2021-09-11-employees-whose-manager-left-the-company %})
+1988 | | Find Cutoff Score for Each School | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-find-cutoff-score-for-each-school %})
+1990 | | Count the Number of Experiments | | `Medium` | | [Link]({% post_url LeetCode/2021-09-11-count-the-number-of-experiments %})
+
 
 <br />
 

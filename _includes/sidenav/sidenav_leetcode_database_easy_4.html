@@ -27,6 +27,24 @@
         <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-06-13-the-latest-login-in-2020 %}">LeetCode 1890</a>
     {% endif %}
 
+    {% if page.url == "/users-that-actively-request-confirmation-messages/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-09-11-users-that-actively-request-confirmation-messages %}">LeetCode 1939</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-09-11-users-that-actively-request-confirmation-messages %}">LeetCode 1939</a>
+    {% endif %}
+
+    {% if page.url == "/employees-with-missing-information/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-09-11-employees-with-missing-information %}">LeetCode 1965</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-09-11-employees-with-missing-information %}">LeetCode 1965</a>
+    {% endif %}
+
+    {% if page.url == "/employees-whose-manager-left-the-company/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{% post_url LeetCode/2021-09-11-employees-whose-manager-left-the-company %}">LeetCode 1978</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{% post_url LeetCode/2021-09-11-employees-whose-manager-left-the-company %}">LeetCode 1978</a>
+    {% endif %}
+
     <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">More LeetCode Database</a>
 
     <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/mysql-tutorial-list/">MySQL Tutorials</a>
