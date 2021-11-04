@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Undo the Most Recent Local Commit in Git"
+title:  "How to Undo the Most Recent Local Commit in Git (Short Answer)"
 categories: [ Git ]
 tags: [ Git Reset]
 similar: [ Git ]
