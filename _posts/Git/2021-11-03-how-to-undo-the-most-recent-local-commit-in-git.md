@@ -11,7 +11,7 @@ excerpt: How to undo the most recent local commit in Git.
 
 <br />
 
-##### 1. Undo Latest Local Commit without Losing Changes to Files
+##### Scenario A: Undo Latest Local Commit and Keep File Changes
 
 ```bash
 $ git reset HEAD~1
@@ -24,7 +24,7 @@ The above command will:
 
 Note: `HEAD~` is the same as `HEAD~1`.
 
-##### 2. Undo Latest Local Commit and Delete Local Changes 
+##### Scenario B: Undo Latest Local Commit and Delete Local Changes 
 
 ```bash
 git reset --hard HEAD~1
@@ -35,7 +35,7 @@ The above command will:
 * Your local changes of the files are **`Deleted`**. 
 
 
-##### 3. Undo Latest Local Commit but Keep File Changes and Git Index
+##### Scenario C: Undo Latest Local Commit but Keep File Changes and Git Index
 
 ```bash
 git reset --soft HEAD~1
