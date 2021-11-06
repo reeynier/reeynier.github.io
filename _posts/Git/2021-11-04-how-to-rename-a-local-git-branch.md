@@ -1,51 +1,41 @@
 ---
 layout: post
-title:  "How to Undo a Git Add Before Commit (Short Answer)"
+title:  "How to Rename a Local Git Branch (Short Answer)"
 categories: [ Git ]
-tags: [ Git Reset]
+tags: [ Git Branch]
 similar: [ Git ]
 featured: false
 hidden: false
-excerpt: Short answers to the question how to undo a git add before commit.
+excerpt: Short answers to the question how to rename a local git branch.
 ---
 
 <br />
 
-##### Scenario A: You Have Commits Previously
+##### Scenario A: Rename the Current Branch
 
 ```bash
-$ git reset <file>
-```
-or equivalently
-
-```bash
-$ git reset HEAD <file>
+$ git branch -m <newname>
 ```
 
 The above command will:
-* Remove the file from the current index (the "about to be committed" list) without changing anything else
+* Rename the current branch
+* The renamed branch will still refer to the old upstream branch associated with it, if any.
 
+##### Scenario B: Rename a Different Branch (Not the Current Branch)
 
 ```bash
-$ git reset
+$ git branch -m <oldname> <newname>
 ```
 
 The above command will:
-* Remove all files from the current index. This is handy if there are too many files to be listed one by one.
+* Rename your branch
+* The renamed branch will still refer to the old upstream branch associated with it, if any.
 
-
-##### Scenario B: You Do Not Have Any Commits Yet (A New Repository)
+##### Scenario C: Push the Local Branch and Reset the Upstream Branch
 
 ```bash
-$ git rm --cached <file>
+$ git push origin -u <newname>
 ```
 
 The above command will:
-* Remove (unstage) the file from the current index.
-
-```bash
-$ git rm -r --cached .
-```
-
-The above command will:
-* Remove all files from the current index.
+* Reset the upstream branch for the new-name local branch
