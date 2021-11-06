@@ -39,6 +39,10 @@ No. | | Problem | | Difficulty | |Solution
 21 | | Merge Two Sorted Lists | | `Easy` | | [Link]({% post_url LeetCode/2020-11-25-merge-two-sorted-lists %})
 22 | | Generate Parentheses | | `Medium` | | [Link]({% post_url LeetCode/2021-11-05-generate-parentheses %})
 23 | | Merge K Sorted Lists | | `Hard` | | [Link]({% post_url LeetCode/2020-11-26-merge-k-sorted-lists %})
+24 | | Swap Nodes In Pairs | | `Medium` | | [Link]({% post_url LeetCode/2021-11-05-swap-nodes-in-pairs %})
+26 | | Remove Duplicates From Sorted Array | | `Easy` | | [Link]({% post_url LeetCode/2021-11-05-remove-duplicates-from-sorted-array %})
+27 | | Remove Element | | `Easy` | | [Link]({% post_url LeetCode/2021-11-06-remove-element %})
+28 | | Implement strStr() | | `Easy` | | [Link]({% post_url LeetCode/2021-11-06-implement-strstr %})
 35 | | Search Insert Position | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-search-insert-position %})
 56 | | Merge Intervals | | `Medium` | | [Link]({% post_url LeetCode/2020-12-02-merge-intervals %})
 69 | | Sqrt(x) | | `Easy` | | [Link]({% post_url LeetCode/2020-11-15-sqrtx %})
@@ -75,6 +79,7 @@ No. | | Problem | | Difficulty | |Solution
 1539 | | Kth Missing Positive Number | | `Easy` | | [Link]({% post_url LeetCode/2021-01-25-kth-missing-positive-number %})
 1748 | | Sum Of Unique Elements | | `Easy` | | [Link]({% post_url LeetCode/2021-02-15-sum-of-unique-elements %})
 1812 | | Determine Color Of A Chessboard Square | | `Easy` | | [Link]({% post_url LeetCode/2021-04-03-determine-color-of-a-chessboard-square %})
+1902 | | Depth of BST Given Insertion Order | | `Medium` | | [Link]({% post_url LeetCode/2021-11-05-depth-of-bst-given-insertion-order %})
 1999 | | Smallest Greater Multiple Made of Two Digits | | `Medium` | | [Link]({% post_url LeetCode/2021-09-12-smallest-greater-multiple-made-of-two-digits %})
 2000 | | Reverse Prefix of Word | | `Easy` | | [Link]({% post_url LeetCode/2021-09-12-reverse-prefix-of-word %})
 
