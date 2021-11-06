@@ -16,6 +16,12 @@
         <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/leetcode-database-solution-list/">LeetCode Database</a>
     {% endif %}
 
+    {% if page.url == "/git-short-answers-list/" %}
+        <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/git-short-answers-list/">Git Short Answers</a>
+    {% else %}
+        <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/git-short-answers-list/">Git Short Answers</a>
+    {% endif %}
+
 
     {% if page.url == "/mysql-tutorial-list/" %}
         <a class="list-group-item list-group-item-action sidebar-highlight" href="{{ site.posturl }}/mysql-tutorial-list/">MySQL</a>
@@ -44,6 +50,7 @@
     {% else %}
         <a class="list-group-item list-group-item-action" href="{{ site.posturl }}/cplusplus-concept-list/">C++ Concepts</a>
     {% endif %}
+
 
 </div>
 {% endif %}
