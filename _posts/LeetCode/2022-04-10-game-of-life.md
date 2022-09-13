@@ -1,0 +1,97 @@
+---
+layout: post
+title: "Game Of Life Problem"
+categories: [ Algorithm, Data Structure ]
+tags: [ Array, Matrix, Simulation ]
+similar: [ Array ]
+featured: false
+hidden: false
+excerpt: LeetCode 289. The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+
+---
+
+<br />
+
+## Description
+
+LeetCode Problem 289.
+
+According to Wikipedia's article: "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+
+The board is made up of an m x n grid of cells, where each cell has an initial state: live (represented by a 1) or dead (represented by a 0). Each cell interacts with its eight neighbors (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):
+* Any live cell with fewer than two live neighbors dies as if caused by under-population.
+* Any live cell with two or three live neighbors lives on to the next generation.
+* Any live cell with more than three live neighbors dies, as if by over-population.
+* Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
+The next state is created by applying the above rules simultaneously to every cell in the current state, where births and deaths occur simultaneously. Given the current state of the m x n grid board, return the next state.
+
+Example 1:
+```
+Input: board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
+Output: [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
+```
+
+Example 2:
+```
+Input: board = [[1,1],[1,0]]
+Output: [[1,1],[1,1]]
+```
+
+Constraints:
+* m == board.length
+* n == board[i].length
+* 1 <= m, n <= 25
+* board[i][j] is 0 or 1.
+
+<br />
+
+## Sample C++ Code
+
+
+```c
+class Solution {
+public:
+    void gameOfLife(vector<vector<int>>& board) {
+        int m = board.size();
+        if (m == 0) return;
+        int n = board[0].size();
+        
+        vector<vector<int>> dir = { {-1,-1}, {-1,0}, {-1,1}, 
+                                   {0,-1}, {0,1}, {1,-1},
+                                   {1,0}, {1,1} };
+        
+        int x, y, cnt_live, cnt_dead;
+        for (int i = 0; i < m; i ++) {
+            for (int j = 0; j < n; j ++) {
+                cnt_live = 0, cnt_dead = 0;
+                for (int k = 0; k < 8; k ++) {
+                    x = i + dir[k][0];
+                    y = j + dir[k][1];
+                    if ((x >= 0) && (x < m) && (y >= 0) && (y < n)) {
+                        if (abs(board[x][y]) == 1)
+                            cnt_live ++;
+                        else
+                            cnt_dead ++;
+                    }
+                }
+                if (board[i][j] == 1) {
+                    if (cnt_live < 2)
+                        board[i][j] = -1;
+                    else if (cnt_live > 3)
+                        board[i][j] = -1;
+                } else {
+                    if (cnt_live == 3)
+                        board[i][j] = 2;
+                }
+            }
+        }
+        for (int i = 0; i < m; i ++) 
+            for (int j = 0; j < n; j ++)
+                board[i][j] = (board[i][j] <= 0) ? 0 : 1;
+        return;
+    }
+};
+```
+
+
