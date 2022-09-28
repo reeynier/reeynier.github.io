@@ -15,18 +15,19 @@ excerpt: A growing list of MySQL tutorials.
 
 #### Common Queries
 
-No. | | Post Title | | Post Link
+No. | | Post Title | | Link
 --- | --- | --- | --- | --- 
 1 | | How To Find Duplicate Values In MySQL | | [Link]({% post_url MySQL/2022-09-27-how-to-find-duplicate-values-in-mysql %})
 2 | | How To Output MySQL Query Results In CSV Format | | [Link]({% post_url MySQL/2022-09-27-how-to-output-mysql-query-results-in-csv-format %})
 3 | | How To Get A List Of User Accounts In MySQL | | [Link]({% post_url MySQL/2022-09-27-how-to-get-a-list-of-user-accounts-in-mysql %})
+4 | | How To Set A Default Value For A MySQL Datetime Column | | [Link]({% post_url MySQL/2022-09-27-how-to-set-a-default-value-for-a-mysql-datetime-column %})
 
 <br />
 
 
 #### Basic Queries
 
-No. | | Post Title | | Post Link
+No. | | Post Title | | Link
 --- | --- | --- | --- | --- 
 1 | | MySQL SELECT Statement | | [Link]({% post_url MySQL/2020-12-30-mysql-select-statement %})
 2 | | MySQL ORDER BY Clause | | [Link]({% post_url MySQL/2021-01-02-mysql-order-by-clause %})

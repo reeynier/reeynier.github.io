@@ -56,7 +56,7 @@ class Solution {
 public:
     vector<vector<int>> imageSmoother(vector<vector<int>>& M) {
         int m = M.size(), n = M[0].size();
-        if (m == 0 || n == 0) return {{}};
+        if (m == 0 || n == 0) return { {} };
         vector<vector<int>> dirs = { {0, 1}, {0, -1}, {1, 0}, {-1, 0}, 
         		{-1, -1}, {1, 1}, {-1, 1}, {1, -1} };
         for (int i = 0; i < m; i++) {
