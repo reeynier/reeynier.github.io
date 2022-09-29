@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is the Difference Between Git Pull and Git Fetch (Short Answer)"
+title:  "What is the Difference Between Git Pull and Git Fetch"
 categories: [ Git ]
 tags: [ Git Pull]
 similar: [ Git ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Rename a Local Git Branch (Short Answer)"
+title:  "How to Rename a Local Git Branch"
 categories: [ Git ]
 tags: [ Git Branch]
 similar: [ Git ]

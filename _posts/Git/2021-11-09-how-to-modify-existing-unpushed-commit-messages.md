@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Modify Existing Unpushed Commit Messages (Short Answer)"
+title:  "How to Modify Existing Unpushed Commit Messages"
 categories: [ Git ]
 tags: [ Git Commit]
 similar: [ Git ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Undo a Git Add Before Commit (Short Answer)"
+title:  "How to Undo a Git Add Before Commit"
 categories: [ Git ]
 tags: [ Git Reset]
 similar: [ Git ]

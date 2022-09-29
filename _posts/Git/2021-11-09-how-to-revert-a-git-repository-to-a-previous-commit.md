@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Revert a Git Repository to a Previous Commit (Short Answer)"
+title:  "How to Revert a Git Repository to a Previous Commit"
 categories: [ Git ]
 tags: [ Git Revert ]
 similar: [ Git ]

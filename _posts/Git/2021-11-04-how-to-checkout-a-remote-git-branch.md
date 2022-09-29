@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Checkout a Remote Git Branch (Short Answer)"
+title:  "How to Checkout a Remote Git Branch"
 categories: [ Git ]
 tags: [ Git Branch]
 similar: [ Git ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Delete a Git Branch Locally and Remotely (Short Answer)"
+title:  "How to Delete a Git Branch Locally and Remotely"
 categories: [ Git ]
 tags: [ Git Branch]
 similar: [ Git ]
