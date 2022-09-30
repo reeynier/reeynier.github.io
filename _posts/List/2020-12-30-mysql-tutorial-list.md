@@ -21,6 +21,13 @@ No. | | Post Title | | Link
 2 | | How To Output MySQL Query Results In CSV Format | | [Link]({% post_url MySQL/2022-09-27-how-to-output-mysql-query-results-in-csv-format %})
 3 | | How To Get A List Of User Accounts In MySQL | | [Link]({% post_url MySQL/2022-09-27-how-to-get-a-list-of-user-accounts-in-mysql %})
 4 | | How To Set A Default Value For A MySQL Datetime Column | | [Link]({% post_url MySQL/2022-09-27-how-to-set-a-default-value-for-a-mysql-datetime-column %})
+5 | | How To Select One Row Per ID With Max Value On A Column | | [Link]({% post_url MySQL/2022-09-29-how-to-select-one-row-per-id-with-max-value-on-a-column %})
+6 | | How To Specify Unique Constraint For Multiple Columns In MySQL | | [Link]({% post_url MySQL/2022-09-29-how-to-specify-unique-constraint-for-multiple-columns-in-mysql %})
+7 | | How To Get The Size Of A Table In MySQL | | [Link]({% post_url MySQL/2022-09-29-how-to-get-the-size-of-a-table-in-mysql %})
+8 | | How To Get The Size Of A Database In MySQL | | [Link]({% post_url MySQL/2022-09-29-how-to-get-the-size-of-a-database-in-mysql %})
+9 | | How To Concatenate Multiple Rows Into One Field In MySQL | | [Link]({% post_url MySQL/2022-09-29-how-to-concatenate-multiple-rows-into-one-field-in-mysql %})
+10 | | How To Change The Data Type Of A Column In MySQL | | [Link]({% post_url MySQL/2022-09-29-how-to-change-the-data-type-of-a-column-in-mysql %})
+
 
 <br />
 
